@@ -1,0 +1,1375 @@
+genome_id,isolation_source,Country,geo_loc_name,Dataset,Country_selected
+GCF_000009765.2,Missing,Missing,Missing,NCBI,Missing
+GCF_000010605.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000091305.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000092385.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000147815.2,Missing,Missing,Missing,NCBI,Missing
+GCF_000148465.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000154945.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000154965.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000163875.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000177195.2,Cameron Currie (currie@bact.wisc.edu),Missing,Missing,NCBI,Missing
+GCF_000213055.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000220705.2,marine sediment,China,China: Dalian,NCBI,China
+GCF_000237305.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000240165.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000245355.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000253235.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000261345.2,soil,China,"China: Hubei, Qianjiang",NCBI,China
+GCF_000280865.2,soil,China,China: Yunnan,NCBI,China
+GCF_000297155.3,Missing,Missing,Missing,NCBI,Missing
+GCF_000331185.2,Missing,Missing,Missing,NCBI,Missing
+GCF_000340845.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000349325.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000359525.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000364805.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000385945.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000403665.1,soil,Missing,Missing,NCBI,Missing
+GCF_000412265.2,Missing,USA,"USA: Alaska, Mendenhall Glacier",NCBI,USA
+GCF_000418455.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000444875.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000495635.2,sponge,Norway,Norway: Trondheim fjord,NCBI,Other countries
+GCF_000495755.1,sponge,Norway,Norway: Trondheim fjord,NCBI,Other countries
+GCF_000497425.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000497445.1,Missing,Missing,Missing,NCBI,Missing
+GCF_000695235.1,environment,China,China: General Microbiological Culture Collection Center,NCBI,China
+GCF_000707925.2,soil,Croatia,Croatia: Zagreb,NCBI,Other countries
+GCF_000739105.1,Missing,Missing,missing,NCBI,Missing
+GCF_000761215.1,soil,India,India: Haiderabad/Hindustan,NCBI,Other countries
+GCF_000772045.1,soil,USA,USA,NCBI,USA
+GCF_000802245.2,mangrove,Malaysia,Malaysia,NCBI,Other countries
+GCF_000816025.1,soil,China,China: Gongzhuling,NCBI,China
+GCF_000816465.3,mangrove,Malaysia,Malaysia,NCBI,Other countries
+GCF_000819545.1,Orinoco river basin,Venezuela,Venezuela,NCBI,Other countries
+GCF_000827005.1,Missing,Japan,Japan,NCBI,Japan
+GCF_000830005.1,soil,Viet Nam,Viet Nam: Do Xongpha,NCBI,Viet Nam
+GCF_000931445.1,Missing,Missing,not applicable,NCBI,Missing
+GCF_000935185.3,soil,China,China: Fujian,NCBI,China
+GCF_000952035.2,Missing,China,suburb of Beijing,NCBI,China
+GCF_000993785.3,Missing,China,China: Xiamen,NCBI,China
+GCF_001011035.1,marine sediment,USA,"USA: CA, La Jolla, 1 mile off Scripps Pier",NCBI,USA
+GCF_001013905.1,"Salar de Atacama, Atacama Desert",Chile,Chile,NCBI,Other countries
+GCF_001027185.1,soil,Japan,Japan: Okayama,NCBI,Japan
+GCF_001040905.1,Floor of Campus transit station,Canada,Canada:Ottawa,NCBI,Canada
+GCF_001267885.1,Missing,France,France: Picardie,NCBI,France
+GCF_001278075.1,chemical and physical mutagen treatment of ATCC 25486,China,China:Shanghai,NCBI,China
+GCF_001278095.1,Missing,Malaysia,Malaysia:Penang,NCBI,Other countries
+GCF_001431765.1,Protoplast breeding,China,"China:Huazhong Agricultural University, Wuhan, Hubei",NCBI,China
+GCF_001434355.1,Missing,Missing,missing,NCBI,Missing
+GCF_001447075.1,soil,Japan,Japan,NCBI,Japan
+GCF_001484565.1,soil,China,China: Changsha,NCBI,China
+GCF_001542625.1,Missing,Missing,not collected,NCBI,Missing
+GCF_001577385.1,deep subsurface,USA,"USA: Soudan, MN",NCBI,USA
+GCF_001598115.1,Missing,Missing,Missing,NCBI,Missing
+GCF_001611795.1,soil,China,China: Qinghai,NCBI,China
+GCF_001632865.1,soil,Italy,Italy: Rome,NCBI,Other countries
+GCF_001636945.2,red soil,China,China: JiangXi,NCBI,China
+GCF_001650215.1,Missing,Brazil,Brazil: Sao Paulo,NCBI,Other countries
+GCF_001654495.1,Missing,China,China: Beijing,NCBI,China
+GCF_001660045.1,Missing,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_001685355.1,Missing,USA,USA,NCBI,USA
+GCF_001693675.1,Missing,China,China:shandong,NCBI,China
+GCF_001704195.1,rhizosphere soil of healthy poplars,China,China:Ya'an,NCBI,China
+GCF_001729485.1,China: Tianjin,China,China: Tianjin,NCBI,China
+GCF_001735805.1,Missing,South Korea,"South Korea: Gyewon-ri, Miwon-myeon, Sangdang-gu, Cheongju-si, Chungcheongbuk-do",NCBI,South Korea
+GCF_001750785.1,soil,South Korea,South Korea: Jeju,NCBI,South Korea
+GCF_001753425.1,soil,China,China,NCBI,China
+GCF_001767375.1,Missing,China,China:Jiangsu Province,NCBI,China
+GCF_001886595.1,Missing,United Kingdom,United Kingdom: Norwich,NCBI,United Kingdom
+GCF_001931635.1,soil,Ghana,Ghana: Rain Forest at Cape Coast,NCBI,Other countries
+GCF_001941845.1,soil,Tunisia,Tunisia: Sfax,NCBI,Other countries
+GCF_001975025.1,root,China,China: Shanxi,NCBI,China
+GCF_001983975.1,soil sample,China,China:Yunnan,NCBI,China
+GCF_001984445.1,soil,USA,USA: Northern Minnesota,NCBI,USA
+GCF_002005225.1,soil,China,China: Qinghai-Tibet Plateau,NCBI,China
+GCF_002007685.1,Missing,China,China: Shanghai,NCBI,China
+GCF_002009175.1,deep sea sediment,China,China: South China Sea,NCBI,China
+GCF_002019855.1,soil,USA,USA,NCBI,USA
+GCF_002021875.1,soil,China,China:Fujian,NCBI,China
+GCF_002028385.1,soil,USA,USA: Minnesota,NCBI,USA
+GCF_002028425.1,soil,USA,USA: Minnesota,NCBI,USA
+GCF_002080455.1,forest soil of Shengnongjia,China,China: Eastern Hubei Province,NCBI,China
+GCF_002082175.1,Seabed sludge,China,China:Shandong,NCBI,China
+GCF_002082195.1,soil,China,China:Shandong,NCBI,China
+GCF_002090335.1,Missing,USA,"USA: Columbia, Missouri, 10 m east of stable on side of low hill",NCBI,USA
+GCF_002094995.1,soil,South Korea,South Korea,NCBI,South Korea
+GCF_002128305.1,sediment,Indian Ocean,Indian Ocean: Bay of Bengal,NCBI,Other countries
+GCF_002189675.2,peony rhizosphere,China,China: Shandong,NCBI,China
+GCF_002192455.1,peony rhizosphere,China,China:Shandong Province,NCBI,China
+GCF_002214185.1,head,China,"China:Northeast Agriculture University (Harbin, Heilongjiang, China)",NCBI,China
+GCF_002288075.1,Missing,USA,USA: Wisconsin,NCBI,USA
+GCF_002556545.1,Kenya,Kenya,Kenya,NCBI,Other countries
+GCF_002591335.1,soil,Germany,Germany,NCBI,Germany
+GCF_002777535.1,soil,Italy,"Italy: Peucetia, one of the two ancient",NCBI,Other countries
+GCF_002803845.1,Missing,Missing,missing,NCBI,Missing
+GCF_002804165.1,Brazillian Cerrado Forest soil,Brazil,Brazil,NCBI,Other countries
+GCF_002812405.1,fungus-growing termite nest,South Africa,South Africa,NCBI,Other countries
+GCF_002832675.1,marine sediment,China,"China: Xiaoping Island, Dalian, Liaoning",NCBI,China
+GCF_002847285.1,beach sand,Australia,"Australia: Queensland, Heron Island",NCBI,Other countries
+GCF_002910725.2,Missing,Ireland,Ireland: Kilkieran Bay,NCBI,Other countries
+GCF_002910775.2,Missing,Ireland,Ireland: Kilkieran Bay,NCBI,Other countries
+GCF_002943895.1,soil,Canada,"Canada: Ancaster, Ontario",NCBI,Canada
+GCF_002946835.1,soil,China,"China: Dengpa District, Tibet Autonomous Region",NCBI,China
+GCF_003032475.1,Streptomyces spp. which was isolated from Pyeonchang,South Korea,South Korea: pyeongchang,NCBI,South Korea
+GCF_003054555.1,cave,Belgium,Belgium: Comblain-au-Pont,NCBI,Other countries
+GCF_003074055.1,mangrove soil,China,"China: Zhangzhou city, Fujian province",NCBI,China
+GCF_003097515.1,marine sponge,China,China:Wenchang,NCBI,China
+GCF_003122365.1,Missing,China,China: Sanya,NCBI,China
+GCF_003147545.1,flower,South Korea,South Korea:Jinju,NCBI,South Korea
+GCF_003173275.1,soil,China,China: Daqing,NCBI,China
+GCF_003208035.1,soil actinomycetes,China,China: Tianjin,NCBI,China
+GCF_003261055.1,soil,China,China:XiangTan,NCBI,China
+GCF_003268535.2,common scab lesions on potato tubers,Uruguay,Uruguay,NCBI,Other countries
+GCF_003287915.1,Missing,Canada,"Canada: Iron Curtain Cave, Chilliwack, British Columbia",NCBI,Canada
+GCF_003287935.1,Missing,Canada,"Canada: Iron Curtain Cave, Chilliwack, British Columbia",NCBI,Canada
+GCF_003325375.1,environment,China,China:Taian,NCBI,China
+GCF_003330845.1,soil,Ethiopia,Ethiopia: Gode region,NCBI,Other countries
+GCF_003330865.1,Missing,Missing,missing,NCBI,Missing
+GCF_003344445.1,Industry,China,China: Anhui province,NCBI,China
+GCF_003344965.1,soil,China,China: Hunan,NCBI,China
+GCF_003352445.1,soil,China,China: mountain slope in Yunnan province,NCBI,China
+GCF_003355155.1,soil,Armenia,Armenia,NCBI,Other countries
+GCF_003369795.1,soil,China,"China: Huanglongcave, Zhangjiajie",NCBI,China
+GCF_003391135.1,soil,Japan,Japan,NCBI,Japan
+GCF_003428925.1,soil,South Korea,South Korea: Koyang,NCBI,South Korea
+GCF_003443735.1,marine mud,China,China: Tianjin,NCBI,China
+GCF_003454755.1,soil,China,China:Jinan,NCBI,China
+GCF_003573485.1,soil,China,China: Qinghai,NCBI,China
+GCF_003595235.1,Plant root,South Korea,"South Korea: Chungnam National University, 99, Daehak-ro, Yuseong-gu, Daejeon",NCBI,South Korea
+GCF_003595545.1,Scab lesion on potato tuber,Canada,Canada: Newfoundland,NCBI,Canada
+GCF_003610995.1,soil,Japan,Japan: Toyonaka,NCBI,Japan
+GCF_003627815.1,soil,South Korea,"South Korea: Seocheon-ri, Socheon-myeon, Bonghwa-gun, Gyeongsangbuk-do",NCBI,South Korea
+GCF_003665435.1,Missing,China,China:Tianjing,NCBI,China
+GCF_003675325.1,grass soil,China,China: Dangxiong,NCBI,China
+GCF_003675345.1,soil,China,China: Hang Zhou,NCBI,China
+GCF_003721495.1,Missing,Norway,Norway: Tautra underwater ridge at Trondheim Fjord,NCBI,Other countries
+GCF_003932715.1,soil sample,Japan,Japan:tsukuba,NCBI,Japan
+GCF_003945505.1,Not Applicable,Nigeria,Nigeria:Enugu,NCBI,Other countries
+GCF_003945525.1,Not Applicable,Canada,"Canada:Winnipeg, MB",NCBI,Canada
+GCF_003945545.1,Not Applicable,Canada,"Canada:Blairmore, AB",NCBI,Canada
+GCF_003950035.1,Missing,South Korea,South Korea,NCBI,South Korea
+GCF_003950055.1,Missing,South Korea,South Korea,NCBI,South Korea
+GCF_003955715.1,Missing,China,"China:hunan province,Xiangtan",NCBI,China
+GCF_003963535.1,soil,China,China:Hunan,NCBI,China
+GCF_003970715.1,Missing,China,China:yantai,NCBI,China
+GCF_003994375.1,Missing,USA,USA:Providence,NCBI,USA
+GCF_003994395.1,Missing,USA,USA,NCBI,USA
+GCF_004104485.1,Missing,United Kingdom,United Kingdom: Norwich laboratory,NCBI,United Kingdom
+GCF_004104505.1,Missing,United Kingdom,United Kingdom: Norwich laboratory,NCBI,United Kingdom
+GCF_004328625.1,soil,South Korea,"South Korea: Kwanak Mountain, Seoul",NCBI,South Korea
+GCF_004524875.1,sediment from seaside wetland around Yalujiang river,China,China: Seaside Wetland around Yalujiang river,NCBI,China
+GCF_004795715.1,Missing,Viet Nam,Viet Nam: Tra Vinh province,NCBI,Viet Nam
+GCF_004803895.1,Missing,USA,USA: Hawaii,NCBI,USA
+GCF_005222485.1,Missing,USA,USA:Providence,NCBI,USA
+GCF_005490965.1,air,Singapore,Singapore,NCBI,Other countries
+GCF_005517195.1,soil,China,China: Henan,NCBI,China
+GCF_005519465.1,Missing,Missing,-,NCBI,Missing
+GCF_005860785.2,soil,Antarctica,Antarctica,NCBI,Other countries
+GCF_006088715.1,soil,China,China: rainy forest in Xishuangbanna,NCBI,China
+GCF_006229535.1,lab,Slovenia,Slovenia:Ljubljana,NCBI,Other countries
+GCF_006516935.1,rhizosphere,China,China: Nanning,NCBI,China
+GCF_006716135.1,DSMZ,Missing,Missing,NCBI,Missing
+GCF_006974005.1,Missing,Missing,not applicable,NCBI,Missing
+GCF_007113405.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113425.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113445.1,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113465.1,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113485.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113505.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113525.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113545.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113565.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113585.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007113665.2,Microscale soil grain,France,France: Montiers,NCBI,France
+GCF_007363395.1,soil sample,USA,USA,NCBI,USA
+GCF_007856155.1,soil,China,China:Soil,NCBI,China
+GCF_008064995.1,Missing,Missing,missing,NCBI,Missing
+GCF_008632955.1,soil,China,China: Sichuan,NCBI,China
+GCF_008639045.1,Missing,Missing,not collected,NCBI,Missing
+GCF_008639165.1,soil,Venezuela,Venezuela: Caracas,NCBI,Other countries
+GCF_008642275.1,soil,Missing,not collected,NCBI,Missing
+GCF_008642295.1,soil,USA,USA: Florida,NCBI,USA
+GCF_008642315.1,Missing,Missing,not collected,NCBI,Missing
+GCF_008642335.1,Missing,Missing,not collected,NCBI,Missing
+GCF_008642355.1,Missing,Missing,not collected,NCBI,Missing
+GCF_008642375.1,soil,Missing,not collected,NCBI,Missing
+GCF_008704395.1,soil,Missing,missing,NCBI,Missing
+GCF_008704425.1,soil,Missing,missing,NCBI,Missing
+GCF_008704445.1,soil,Missing,missing,NCBI,Missing
+GCF_008704495.1,soil,Missing,missing,NCBI,Missing
+GCF_008704515.1,soil,Missing,missing,NCBI,Missing
+GCF_008704535.1,soil,Missing,missing,NCBI,Missing
+GCF_008704555.1,soil,Missing,missing,NCBI,Missing
+GCF_008704575.1,soil,Missing,missing,NCBI,Missing
+GCF_008704655.1,soil,Missing,missing,NCBI,Missing
+GCF_008704715.1,soil,Missing,missing,NCBI,Missing
+GCF_008704795.1,soil,Missing,missing,NCBI,Missing
+GCF_008704855.1,soil,Missing,missing,NCBI,Missing
+GCF_008704935.1,soil,Missing,missing,NCBI,Missing
+GCF_008704995.1,soil,Missing,missing,NCBI,Missing
+GCF_008705135.1,soil,Missing,missing,NCBI,Missing
+GCF_008705255.1,compost soil,USA,USA: Illinois,NCBI,USA
+GCF_008931305.1,Missing,Missing,NA,NCBI,Missing
+GCF_009025935.1,Cuatro Cienegas Basin,Mexico,Mexico:Coahuila,NCBI,Other countries
+GCF_009184865.1,plant leaves,China,"China:Changsha city, Hunan,",NCBI,China
+GCF_009296025.1,forest soil,China,China:shandong,NCBI,China
+GCF_009299385.1,soil,Missing,missing,NCBI,Missing
+GCF_009495655.1,soil,China,China: Yunnan province,NCBI,China
+GCF_009498275.1,soil,China,China: Loudi City,NCBI,China
+GCF_009650765.1,Missing,Missing,missing,NCBI,Missing
+GCF_009739905.1,Missing,Japan,Japan,NCBI,Japan
+GCF_009789635.1,lichen,China,China: Qinghai Lake,NCBI,China
+GCF_009796285.1,plant,China,"China:Changsha city, Hunan,",NCBI,China
+GCF_009832925.1,soil,Missing,missing,NCBI,Missing
+GCF_009834105.1,gut of fungus-growing termite,China,China: Guangdong province,NCBI,China
+GCF_009834125.1,gut of fungus-growing termite,China,China: Guangdong province,NCBI,China
+GCF_009834145.1,gut of fungus-growing termite,China,China: Hunan province,NCBI,China
+GCF_009857135.1,mangrove soil,China,China: Fujian,NCBI,China
+GCF_009867075.1,Deep sea,China,China: South China Sea,NCBI,China
+GCF_009936315.1,Missing,Missing,missing,NCBI,Missing
+GCF_010384365.1,rhizosphere,Missing,missing,NCBI,Missing
+GCF_010523235.1,sediment,Arctic Ocean,Arctic Ocean,NCBI,Other countries
+GCF_010669165.1,soil,China,China: Hainan Province (Hainan Island),NCBI,China
+GCF_011006355.1,sunflower seed hulls,Argentina,"Argentina: Bahia Blanca, CERZOS CONICET",NCBI,Other countries
+GCF_011193355.1,Thar Desert soil,India,"India: Bikaner, Rajasthan",NCBI,Other countries
+GCF_011290345.1,soil,Italy,Italy,NCBI,Other countries
+GCF_011650445.1,Marine,Viet Nam,Viet Nam: Danang,NCBI,Viet Nam
+GCF_011694815.1,soil,China,"China: Xichang City,Sichuan province",NCBI,China
+GCF_011751035.2,soil,China,"China: Xi'an, Shanxi Province",NCBI,China
+GCF_011820545.1,soil,Germany,Germany,NCBI,Germany
+GCF_012044595.1,soil,France,France: Paris,NCBI,France
+GCF_012273495.1,grain of soil from rhizosphere; principal root 4,France,France: Montiers-sur-Saulx forest,NCBI,France
+GCF_012273515.1,grain of soil from rhizosphere; principal root 4,France,France: Montiers-sur-Saulx forest,NCBI,France
+GCF_012273535.1,grain of soil from rhizosphere; lateral root 1,France,France: Montiers-sur-Saulx forest,NCBI,France
+GCF_012275145.1,grain of soil from rhizosphere; raw soil,France,France: Montiers-sur-Saulx forest,NCBI,France
+GCF_013009255.1,soil,China,"China: Xinjiang, Tarim River",NCBI,China
+GCF_013046785.1,rhizosphere soil,China,"China: Xiangtan City,Sichuan province",NCBI,China
+GCF_013085465.1,moss soil,China,China: Taibai Mountain,NCBI,China
+GCF_013317105.1,Missing,Canada,Canada: Hamilton,NCBI,Canada
+GCF_013364095.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013364155.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013364175.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013364195.1,Missing,China,"China:Nanjing, Qixia Mountain",NCBI,China
+GCF_013364315.1,soil,China,China:Heilongjiang,NCBI,China
+GCF_013364335.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013364375.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013375055.1,marine sediment,China,China:Hainan,NCBI,China
+GCF_013376795.1,feces,China,China,NCBI,China
+GCF_013394065.1,soil,USA,USA: Arizona,NCBI,USA
+GCF_013401535.1,Missing,China,China: Yunan,NCBI,China
+GCF_013414305.1,Missing,China,China,NCBI,China
+GCF_013423905.1,maize rhizosphere soil,China,China: Harbin,NCBI,China
+GCF_013693715.1,genetically modified from J1074 by integration of two production cosmids,Germany,Germany: Saarbruecken,NCBI,Germany
+GCF_014070435.1,mutagenisis derived,Missing,unknown,NCBI,Missing
+GCF_014083905.1,Missing,China,China,NCBI,China
+GCF_014216315.1,soil,Antarctica,Antarctica: Herring Island,NCBI,Other countries
+GCF_014216335.1,soil,Antarctica,Antarctica: Herring Island,NCBI,Other countries
+GCF_014217585.1,soil,Antarctica,Antarctica: Robinson Ridge,NCBI,Other countries
+GCF_014295035.1,Missing,USA,USA:Carlsbad Caverns National Park,NCBI,USA
+GCF_014489615.1,leaf,China,"China: yueyang City,Hunan Province",NCBI,China
+GCF_014489635.1,fruit,China,"China: Xiangtan City,Hunan Province",NCBI,China
+GCF_014495705.1,lake mud,China,China: Yunnan,NCBI,China
+GCF_014621695.1,leaf,China,"China: Xiangtan City,Hunan Province",NCBI,China
+GCF_014673495.1,Missing,Japan,Japan,NCBI,Japan
+GCF_014701095.1,Missing,Missing,not applicable,NCBI,Missing
+GCF_014701115.1,Missing,Missing,not applicable,NCBI,Missing
+GCF_014852565.2,potato tuber,USA,USA: Idaho,NCBI,USA
+GCF_015160855.1,Missing,China,China: Wuhan,NCBI,China
+GCF_015160875.1,Missing,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_015244315.1,sediment,Indian Ocean,Indian Ocean,NCBI,Other countries
+GCF_015601545.1,marine sediment,China,China,NCBI,China
+GCF_015708605.1,"culture maintained in Leon, missing plasmid pSCL3",Spain,Spain: Leon,NCBI,Spain
+GCF_015710995.1,soil,Italy,Italy: Florence,NCBI,Other countries
+GCF_015767735.1,lab,China,China: Jinan,NCBI,China
+GCF_015767755.1,lab,China,China: Jinan,NCBI,China
+GCF_015767775.1,lab,China,China: Jinan,NCBI,China
+GCF_015767795.1,lab,China,China: Jinan,NCBI,China
+GCF_015767815.1,lab,China,China: Jinan,NCBI,China
+GCF_015767855.1,Missing,China,China: Jinan,NCBI,China
+GCF_015767875.1,Missing,China,China: Jinan,NCBI,China
+GCF_015767895.1,Missing,China,China: Jinan,NCBI,China
+GCF_015767915.1,Missing,China,China: Jinan,NCBI,China
+GCF_015767935.1,Missing,China,China: Jinan,NCBI,China
+GCF_015910445.1,Missing,Atlantic Ocean,Atlantic Ocean,NCBI,Other countries
+GCF_016128295.1,soil,USA,USA: Washington state,NCBI,USA
+GCF_016467295.1,Missing,China,China: Xinjiang,NCBI,China
+GCF_016598575.1,Tree root,China,"China: Qingmei Gang, Sanya, Haina",NCBI,China
+GCF_016598615.1,soil,China,China:changsha,NCBI,China
+GCF_016605905.1,20cm of sediment in the coastal zone,China,China: Lianyungang,NCBI,China
+GCF_016756395.1,Missing,Japan,"Japan:Gunma, Kurabuchi Village",NCBI,Japan
+GCF_016772455.1,Missing,USA,USA:San Diego,NCBI,USA
+GCF_016803985.1,Deep sea sediment,China,China:South Sea,NCBI,China
+GCF_016804005.1,leaf mold,China,China: Shangluo,NCBI,China
+GCF_016906185.1,DSMZ Isolate,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_016906205.1,DSMZ Isolate,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_016906225.1,DSMZ Isolate,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_016906245.1,DSMZ Isolate,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_016906265.1,DSMZ Isolate,Germany,Germany: Braunschweig,NCBI,Germany
+GCF_016917755.1,Missing,China,China:Shengyang,NCBI,China
+GCF_016919685.1,Missing,China,China,NCBI,China
+GCF_017311125.1,pupae,Costa Rica,Costa Rica,NCBI,Other countries
+GCF_017352335.1,soil,China,China: Hangzhou,NCBI,China
+GCF_017356985.1,Missing,Missing,not applicable,NCBI,Missing
+GCF_017358145.1,muddy soil from torrent,Spain,"Spain: Balearic Islands, Formentera, El Pilar de la Mola, Muddy soil from torrent",NCBI,Spain
+GCF_017526105.1,soil,India,India: Goa mountain,NCBI,Other countries
+GCF_017639205.1,Missing,Missing,missing,NCBI,Missing
+GCF_017751265.1,Missing,Slovenia,Slovenia,NCBI,Other countries
+GCF_017916255.1,soil,China,China,NCBI,China
+GCF_017933115.1,part of plant,Canada,Canada: Prince Edward Island,NCBI,Canada
+GCF_017933235.1,part of plant,Canada,Canada: Prince Edward Island,NCBI,Canada
+GCF_017933255.1,part of plant,Canada,Canada: Prince Edward Island,NCBI,Canada
+GCF_018069625.1,Missing,South Korea,South Korea,NCBI,South Korea
+GCF_018128905.1,"Potato rhizosphere, Soil",China,"China: Dabao Village, Wuxi, Chongqing",NCBI,China
+GCF_018141485.1,rhizosphere soil,China,China:Xining,NCBI,China
+GCF_018255875.1,mutant,Slovakia,"Slovakia: Institute of Molecular Biology, Bratislava",NCBI,Other countries
+GCF_018310535.1,"fresh creek bank soil, topsoil",Germany,"Germany: Eastern Thuringia, Gessenbach near Ronneburg,",NCBI,Germany
+GCF_018310575.1,seagrass,Viet Nam,Viet Nam: Con Dao,NCBI,Viet Nam
+GCF_018604545.1,soil,China,China: Xiangtan City,NCBI,China
+GCF_018866325.1,sediments,China,China:Wenzhou,NCBI,China
+GCF_019056675.1,marine sediment,Indonesia,Indonesia,NCBI,Other countries
+GCF_019286195.1,Missing,Brazil,Brazil,NCBI,Other countries
+GCF_019286295.1,Missing,Brazil,Brazil,NCBI,Other countries
+GCF_019287315.1,plant,China,China: Xuzhou,NCBI,China
+GCF_019378935.1,Missing,New Zealand,"New Zealand: Khandallah Park, Wellington",NCBI,Other countries
+GCF_019599145.1,soil,China,China: Xiangtan City,NCBI,China
+GCF_019703895.1,Missing,Japan,Japan:Kumamoto,NCBI,Japan
+GCF_019774615.1,plant soil,China,China:changsha,NCBI,China
+GCF_019880305.1,Missing,Missing,not collected,NCBI,Missing
+GCF_019933235.1,Missing,Missing,not collected,NCBI,Missing
+GCF_020026305.1,soil,China,"China: Qinghai-Tibet Plateau, Shaanxi",NCBI,China
+GCF_020034615.1,Missing,China,China: Xinjiang,NCBI,China
+GCF_020099395.1,Missing,China,China,NCBI,China
+GCF_020341595.1,intestine,China,"China: Guangdong Pharmaceutical University, Guangzhou",NCBI,China
+GCF_020410765.1,Missing,China,"China:Hainan,sanya",NCBI,China
+GCF_020535385.1,intestinal tract,China,"China: Campus of Guangdong Pharmaceutical University, Guangzhou",NCBI,China
+GCF_020616555.1,soil,China,China:Hunan,NCBI,China
+GCF_020740535.1,Deep-sea sediment,Atlantic Ocean,Atlantic Ocean,NCBI,Other countries
+GCF_020783455.1,Missing,China,China: Kunming,NCBI,China
+GCF_020783515.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020783535.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020783555.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020783575.1,soil,Japan,Japan,NCBI,Japan
+GCF_020783595.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020783615.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020783635.1,Laboratory,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_020790115.1,soil,China,China:Nanjing,NCBI,China
+GCF_020881855.1,sea water,China,China: Qingdao,NCBI,China
+GCF_021028635.1,desert rock,China,China:GANSU,NCBI,China
+GCF_021029465.1,soil,Bolivia,Bolivia,NCBI,Other countries
+GCF_021216675.1,Missing,China,China:GANSU,NCBI,China
+GCF_021383925.1,Coastal sediment,India,"India: Andaman Islands, Burmanallah",NCBI,Other countries
+GCF_021441825.1,plant leaves,China,China:Hunan Province,NCBI,China
+GCF_021491675.1,Missing,Arctic Ocean,Arctic Ocean,NCBI,Other countries
+GCF_021496465.1,Missing,Missing,unknown,NCBI,Missing
+GCF_021496485.1,Missing,Missing,unknown,NCBI,Missing
+GCF_021496785.1,soil sample,Philippines,Philippines: Marinduque,NCBI,Other countries
+GCF_021665875.1,Missing,China,China: Hebei,NCBI,China
+GCF_022026295.1,sponge,China,China:Hainan,NCBI,China
+GCF_022220465.1,soil,Missing,missing,NCBI,Missing
+GCF_022221585.1,Laboratory fermentation,Australia,"Australia: The University of Queensland, AIBN",NCBI,Other countries
+GCF_022385335.1,Missing,China,China: Changde,NCBI,China
+GCF_022647665.1,head,China,China,NCBI,China
+GCF_022695595.1,Missing,Australia,"Australia: right hand side of road NT/QLD border, Wollogorang Station",NCBI,Other countries
+GCF_022695635.1,Potato rhizosphere,China,"China: Dabao Village, Wuxi, Chongqing",NCBI,China
+GCF_022699385.1,marine sediment,Philippines,Philippines: Tubbataha Reefs National Park,NCBI,Other countries
+GCF_022759525.1,Missing,Missing,missing,NCBI,Missing
+GCF_022760195.1,soil,Missing,missing,NCBI,Missing
+GCF_022760275.1,water,China,China:South Sea,NCBI,China
+GCF_022807935.1,soil,China,China,NCBI,China
+GCF_022827705.1,soil,China,China: Hunan,NCBI,China
+GCF_022846655.1,soil,Japan,"Japan:Hokkaido, Furano",NCBI,Japan
+GCF_022846675.1,soil,Japan,"Japan:Ishikawa, Hegura Island",NCBI,Japan
+GCF_022869105.1,rhizosphere soil,China,China:Hunan,NCBI,China
+GCF_023168305.1,Missing,Missing,unknown,NCBI,Missing
+GCF_023168385.1,Missing,Japan,Japan:Tsuruoka,NCBI,Japan
+GCF_023210535.1,soil,Canada,Canada: Ontario,NCBI,Canada
+GCF_023273835.1,Missing,China,"China: Lanzhou City, Gansu province",NCBI,China
+GCF_023277745.1,Missing,China,China:GANSU,NCBI,China
+GCF_023277965.1,"Intertidal sediment samples from Puqian Bay,China",China,China:Puqian Bay,NCBI,China
+GCF_023330645.1,soil,China,China: Henan,NCBI,China
+GCF_023376055.1,Missing,China,China: AnHui,NCBI,China
+GCF_023498005.1,soil,China,China:Fujian,NCBI,China
+GCF_023515955.1,Missing,China,China: Henan province,NCBI,China
+GCF_023614235.1,Mycetoma Lesion,Sudan,Sudan,NCBI,Other countries
+GCF_023614315.1,from patients with mycetoma infections,Sudan,Sudan,NCBI,Other countries
+GCF_023702105.1,soil,South Korea,South Korea,NCBI,South Korea
+GCF_023702655.1,soil,Brazil,Brazil: Pernambuco state,NCBI,Other countries
+GCF_023716005.1,soil,China,China:Zhejiang,NCBI,China
+GCF_023923245.1,soil,China,China:Qinghai,NCBI,China
+GCF_024218735.1,mutant of Streptomyces rimosus subsp. rimosus R7,Missing,missing,NCBI,Missing
+GCF_024297125.1,soil,Russia,Russia: Buryatia,NCBI,Other countries
+GCF_024298965.1,Missing,Missing,missing,NCBI,Missing
+GCF_024349765.1,Missing,Japan,"Japan:Ishikawa, Wajima, Hegura Island",NCBI,Japan
+GCF_024365045.1,soil,China,China:Dongguan,NCBI,China
+GCF_024442315.1,Missing,Missing,Missing,NCBI,Missing
+GCF_024442335.1,soil,China,"China:Hunan,Changsha",NCBI,China
+GCF_024499195.1,marine sediment,Chile,Chile: Penas Gulf,NCBI,Other countries
+GCF_024584805.1,stem,Spain,Spain,NCBI,Spain
+GCF_024600715.1,"Meridian Valley soil sampled at Qinling Mountains, an area in Shaanxi Province located in PR China.",China,China:Xi'an,NCBI,China
+GCF_024611995.1,soil,Denmark,Denmark: Deer feeding,NCBI,Denmark
+GCF_024612015.1,Soil under Heteropyxis natalensis,South Africa,"South Africa: Komatipoort District, Mpumalanga",NCBI,Other countries
+GCF_024612035.1,Missing,Missing,missing,NCBI,Missing
+GCF_024666385.1,Missing,China,China:Shanghai,NCBI,China
+GCF_024701375.2,soil sample,Russia,"Russia:coastal zone in the Dzhigit cove of Peter the Great Bay, Sea of Japan",NCBI,Other countries
+GCF_024752535.1,Mouldy hay,South Korea,South Korea: Seoul,NCBI,South Korea
+GCF_024927965.1,Missing,China,China:Sichuan,NCBI,China
+GCF_025163575.1,CICC,China,China,NCBI,China
+GCF_025231465.1,"tropical soil, Costa Rica",Costa Rica,Costa Rica,NCBI,Other countries
+GCF_025252265.1,soil,China,China: Chongqing,NCBI,China
+GCF_025398775.1,Pelargonium graveolens' rhizosphere,Egypt,Egypt,NCBI,Other countries
+GCF_025402955.1,Missing,China,China: guangzhou,NCBI,China
+GCF_025427835.1,rice root,China,China: guangzhou,NCBI,China
+GCF_025642135.1,rhizosphere soil,China,China: Changde,NCBI,China
+GCF_025642155.1,rhizosphere soil,China,China: Changde,NCBI,China
+GCF_025642175.1,rhizosphere soil,China,China: Changde,NCBI,China
+GCF_025643355.1,sediment,China,China,NCBI,China
+GCF_025665295.1,rhizosphere soil,Ukraine,"Ukraine: Mount Kishka, Crimean Peninsula",NCBI,Other countries
+GCF_025854275.1,grassy area,China,China: Nanjing,NCBI,China
+GCF_025908395.1,soil,China,China,NCBI,China
+GCF_025957665.1,feces,China,China: Harbin,NCBI,China
+GCF_026153095.1,Missing,Chile,"Chile: Carvallo Beach, Valparaiso",NCBI,Other countries
+GCF_026153355.1,Yam,China,China: Hainan Isoland,NCBI,China
+GCF_026167665.1,soil-sample,United Kingdom,United Kingdom,NCBI,United Kingdom
+GCF_026210455.1,lab strain,Germany,Germany: Saarland University,NCBI,Germany
+GCF_026239515.1,lab strain,Germany,Germany: Saarland University,NCBI,Germany
+GCF_026239535.1,lab strain,Germany,Germany: Saarland University,NCBI,Germany
+GCF_026427415.1,soil,Germany,Germany,NCBI,Germany
+GCF_026626005.1,sea mud,China,China: South China Sea,NCBI,China
+GCF_026635925.1,lab strain,Germany,Germany: Saarland University,NCBI,Germany
+GCF_026636035.1,lab strain,Germany,Germany: Saarland University,NCBI,Germany
+GCF_026642235.1,sea mud,China,China: South China Sea,NCBI,China
+GCF_026651955.1,Mangrove soil and water,India,India,NCBI,Other countries
+GCF_026810505.1,the rhizosphere soil,Ukraine,"Ukraine: at the foot of the mountain Kishka, Crimean Peninsula",NCBI,Other countries
+GCF_026898115.1,soil,South Korea,South Korea,NCBI,South Korea
+GCF_027107535.1,Gobi habitat soil,China,China:Qinghai,NCBI,China
+GCF_027270315.1,soil of hot climate area,Missing,missing,NCBI,Missing
+GCF_027497195.1,Missing,USA,"USA:Florida, Ramrod Key",NCBI,USA
+GCF_027497475.1,soil,Lebanon,Lebanon: Biblos,NCBI,Other countries
+GCF_027497495.1,soil,Japan,Japan,NCBI,Japan
+GCF_027625935.1,rhizosphere soil,China,China: Shaoyang,NCBI,China
+GCF_027626975.1,soil,Missing,missing,NCBI,Missing
+GCF_027942015.1,Missing,China,China: Changde,NCBI,China
+GCF_027947595.1,Missing,Missing,missing,NCBI,Missing
+GCF_028198125.1,rhizosphere soil,China,China: Changde,NCBI,China
+GCF_028421465.1,soil,Missing,missing,NCBI,Missing
+GCF_028464045.1,Missing,China,China,NCBI,China
+GCF_028473745.1,Saloons Bayovar,Missing,missing,NCBI,Missing
+GCF_028622875.1,Missing,South Korea,South Korea: Jeju Moon Island,NCBI,South Korea
+GCF_028747205.1,soil,Spain,Spain: Dilar riverbank,NCBI,Spain
+GCF_028752555.1,soil,Missing,Unknown,NCBI,Missing
+GCF_028753175.1,Missing,South Korea,"South Korea: Yangju City, Gyeonggi-do",NCBI,South Korea
+GCF_028870195.1,rhizosphere of Ginseng,China,China:Jilin,NCBI,China
+GCF_028885415.1,local geographic source,China,China,NCBI,China
+GCF_028898845.1,soil,China,"China: Yulin, Guangxi",NCBI,China
+GCF_029011865.1,Missing,China,China: Nanping,NCBI,China
+GCF_029167005.1,rhizosphere soil,Viet Nam,Viet Nam,NCBI,Viet Nam
+GCF_029167025.1,soil,China,China,NCBI,China
+GCF_029167585.1,Insects,Germany,Germany: Grieheim,NCBI,Germany
+GCF_029167625.1,Insects,Germany,Germany: Grieheim,NCBI,Germany
+GCF_029167645.1,Insects,Germany,Germany: Grieheim,NCBI,Germany
+GCF_029392895.1,soil,Venezuela,Venezuela,NCBI,Other countries
+GCF_029541745.1,soil,China,China:Hainan Province,NCBI,China
+GCF_029542005.1,water plus sediment from saline lagoon,Missing,not applicable,NCBI,Missing
+GCF_029760955.1,rhizosphere soil,China,China: Hunan,NCBI,China
+GCF_029866785.1,Saloon of Bayovar,Missing,missing,NCBI,Missing
+GCF_029906565.1,marine sediment,China,China: Dalian,NCBI,China
+GCF_030028615.1,"There are some herbaceous plants, temperature ranges from 20-30 degrees and pH of soil is about 5.7",Viet Nam,"Viet Nam: Dai Tu district, Thai Nguyen province",NCBI,Viet Nam
+GCF_030028635.1,soil,Viet Nam,"Viet Nam: Trai cau district, Thai Nguyen province",NCBI,Viet Nam
+GCF_030167965.1,mudflats,China,China: Ningbo,NCBI,China
+GCF_030286025.1,Missing,Kazakhstan,Kazakhstan:Kostanay region,NCBI,Other countries
+GCF_030291795.1,marine sediment,Missing,missing,NCBI,Missing
+GCF_030294945.1,Missing,Japan,"Japan:Yamanashi, Nirasaki",NCBI,Japan
+GCF_900104935.1,Missing,Missing,missing,NCBI,Missing
+GCF_900129855.1,Missing,Missing,missing,NCBI,Missing
+GCF_900221035.1,Missing,Missing,missing,NCBI,Missing
+GCF_900236475.1,Missing,Germany,Germany,NCBI,Germany
+GCF_900236505.1,Missing,Germany,Germany,NCBI,Germany
+GCF_904440635.1,soil,Algeria,Algeria,NCBI,Other countries
+GCF_904440645.1,soil,Algeria,Algeria,NCBI,Other countries
+GCF_947311705.1,grassland soil,Switzerland,Switzerland,NCBI,Other countries
+NBC_00193,,Denmark,,This study*,Denmark
+NBC_00120,,Denmark,,This study*,Denmark
+NBC_01306,,Denmark,,This study*,Denmark
+NBC_01681,,Netherlands,,This study*,Netherlands
+NBC_01571,,Denmark,,This study*,Denmark
+NBC_00201,,Denmark,,This study*,Denmark
+NBC_00227,,Denmark,,This study*,Denmark
+NBC_01379,,Denmark,,This study*,Denmark
+NBC_01142,,Denmark,,This study*,Denmark
+NBC_00086,,Denmark,,This study*,Denmark
+NBC_00347,,Germany,,This study*,Germany
+NBC_01334,,Denmark,,This study*,Denmark
+NBC_01381,,Denmark,,This study*,Denmark
+NBC_01645,,Denmark,,This study*,Denmark
+NBC_00310,,Germany,,This study*,Germany
+NBC_00160,,Portugal,,This study*,Portugal
+NBC_01623,,Denmark,,This study*,Denmark
+NBC_01565,,Denmark,,This study*,Denmark
+NBC_00893,,Denmark,,This study*,Denmark
+NBC_01670,,Netherlands,,This study*,Netherlands
+NBC_00083,,United Kingdom,,This study*,United Kingdom
+NBC_00465,,Denmark,,This study*,Denmark
+NBC_00635,,Denmark,,This study*,Denmark
+NBC_00264,,Spain,,This study*,Spain
+NBC_00365,,Germany,,This study*,Germany
+NBC_00233,,Finland,,This study*,Finland
+NBC_00103,,Denmark,,This study*,Denmark
+NBC_01691,,Netherlands,,This study*,Netherlands
+NBC_00305,,Germany,,This study*,Germany
+NBC_01296,,Germany,,This study*,Germany
+NBC_00320,,Denmark,,This study*,Denmark
+NBC_00062,,Finland,,This study*,Finland
+NBC_00150,,Finland,,This study*,Finland
+NBC_00654,,USA,,This study*,USA
+NBC_00452,,Denmark,,This study*,Denmark
+NBC_01264,,Denmark,,This study*,Denmark
+NBC_01619,,Denmark,,This study*,Denmark
+NBC_01481,,Denmark,,This study*,Denmark
+NBC_01634,,Denmark,,This study*,Denmark
+NBC_00154,,Finland,,This study*,Finland
+NBC_00534,,Denmark,,This study*,Denmark
+NBC_00052,,Denmark,,This study*,Denmark
+NBC_00198,,United Kingdom,,This study*,United Kingdom
+NBC_00474,,Denmark,,This study*,Denmark
+NBC_01458,,Denmark,,This study*,Denmark
+NBC_00038,,Denmark,,This study*,Denmark
+NBC_00006,,Denmark,,This study*,Denmark
+NBC_00231,,Denmark,,This study*,Denmark
+NBC_00338,,Germany,,This study*,Germany
+NBC_00094,,Germany,,This study*,Germany
+NBC_00282,,Denmark,,This study*,Denmark
+NBC_01551,,Denmark,,This study*,Denmark
+NBC_01424,,Denmark,,This study*,Denmark
+NBC_01433,,Denmark,,This study*,Denmark
+NBC_01345,,Denmark,,This study*,Denmark
+NBC_01273,,Germany,,This study*,Germany
+NBC_01518,,Denmark,,This study*,Denmark
+NBC_01764,,Denmark,,This study*,Denmark
+NBC_00568,,USA,,This study*,USA
+NBC_00026,,Denmark,,This study*,Denmark
+NBC_00102,,Denmark,,This study*,Denmark
+NBC_00124,,Finland,,This study*,Finland
+NBC_01500,,Denmark,,This study*,Denmark
+NBC_00091,,Germany,,This study*,Germany
+NBC_00207,,Denmark,,This study*,Denmark
+NBC_00034,,Denmark,,This study*,Denmark
+NBC_01275,,Germany,,This study*,Germany
+NBC_00642,,Denmark,,This study*,Denmark
+NBC_00183,,Denmark,,This study*,Denmark
+NBC_01721,,Denmark,,This study*,Denmark
+NBC_00276,,Denmark,,This study*,Denmark
+NBC_01600,,Denmark,,This study*,Denmark
+NBC_00828,,Denmark,,This study*,Denmark
+NBC_00555,,USA,,This study*,USA
+NBC_01239,,Denmark,,This study*,Denmark
+NBC_00059,,Finland,,This study*,Finland
+NBC_00424,,Denmark,,This study*,Denmark
+NBC_00439,,Denmark,,This study*,Denmark
+NBC_01016,,Denmark,,This study*,Denmark
+NBC_01728,,Denmark,,This study*,Denmark
+NBC_01238,,Denmark,,This study*,Denmark
+NBC_00638,,USA,,This study*,USA
+NBC_01719,,Denmark,,This study*,Denmark
+NBC_00340,,Germany,,This study*,Germany
+NBC_01767,,Denmark,,This study*,Denmark
+NBC_01789,,Denmark,,This study*,Denmark
+NBC_01311,,Denmark,,This study*,Denmark
+NBC_00018,,Denmark,,This study*,Denmark
+NBC_00994,,Denmark,,This study*,Denmark
+NBC_00249,,Denmark,,This study*,Denmark
+NBC_00268,,Germany,,This study*,Germany
+NBC_01472,,Denmark,,This study*,Denmark
+NBC_00051,,Denmark,,This study*,Denmark
+NBC_01408,,Denmark,,This study*,Denmark
+NBC_01669,,Denmark,,This study*,Denmark
+NBC_00140,,Denmark,,This study*,Denmark
+NBC_01363,,Denmark,,This study*,Denmark
+NBC_01221,,Denmark,,This study*,Denmark
+NBC_00378,,Germany,,This study*,Germany
+NBC_01373,,Denmark,,This study*,Denmark
+NBC_01548,,Denmark,,This study*,Denmark
+NBC_00199,,Denmark,,This study*,Denmark
+NBC_00047,,Denmark,,This study*,Denmark
+NBC_00847,,Denmark,,This study*,Denmark
+NBC_00643,,Denmark,,This study*,Denmark
+NBC_01464,,Denmark,,This study*,Denmark
+NBC_01697,,Netherlands,,This study*,Netherlands
+NBC_01242,,Denmark,,This study*,Denmark
+NBC_00078,,United Kingdom,,This study*,United Kingdom
+NBC_01285,,Denmark,,This study*,Denmark
+NBC_01214,,Denmark,,This study*,Denmark
+NBC_00063,,Finland,,This study*,Finland
+NBC_00263,,Denmark,,This study*,Denmark
+NBC_00291,,United Kingdom,,This study*,United Kingdom
+NBC_00572,,USA,,This study*,USA
+NBC_00640,,USA,,This study*,USA
+NBC_01457,,Denmark,,This study*,Denmark
+NBC_00892,,Denmark,,This study*,Denmark
+NBC_00174,,Denmark,,This study*,Denmark
+NBC_00620,,USA,,This study*,USA
+NBC_01446,,Denmark,,This study*,Denmark
+NBC_00401,,Germany,,This study*,Germany
+NBC_01549,,Denmark,,This study*,Denmark
+NBC_00687,,USA,,This study*,USA
+NBC_01741,,Faroe Islands,,This study*,Other countries
+NBC_00141,,Denmark,,This study*,Denmark
+NBC_00878,,Denmark,,This study*,Denmark
+NBC_01443,,Denmark,,This study*,Denmark
+NBC_00906,,Denmark,,This study*,Denmark
+NBC_00237,,Denmark,,This study*,Denmark
+NBC_00661,,USA,,This study*,USA
+NBC_01331,,Denmark,,This study*,Denmark
+NBC_01184,,Denmark,,This study*,Denmark
+NBC_01769,,Denmark,,This study*,Denmark
+NBC_00273,,Germany,,This study*,Germany
+NBC_00731,,USA,,This study*,USA
+NBC_01187,,Denmark,,This study*,Denmark
+NBC_01629,,Denmark,,This study*,Denmark
+NBC_00869,,Denmark,,This study*,Denmark
+NBC_00454,,Denmark,,This study*,Denmark
+NBC_01626,,Denmark,,This study*,Denmark
+NBC_01701,,Netherlands,,This study*,Netherlands
+NBC_01485,,Denmark,,This study*,Denmark
+NBC_01298,,Denmark,,This study*,Denmark
+NBC_01800,,Denmark,,This study*,Denmark
+NBC_01654,,Denmark,,This study*,Denmark
+NBC_01612,,Denmark,,This study*,Denmark
+NBC_01320,,Denmark,,This study*,Denmark
+NBC_01365,,Denmark,,This study*,Denmark
+NBC_01658,,Netherlands,,This study*,Netherlands
+NBC_01578,,Denmark,,This study*,Denmark
+NBC_01176,,Denmark,,This study*,Denmark
+NBC_01653,,Denmark,,This study*,Denmark
+NBC_01175,,Denmark,,This study*,Denmark
+NBC_01475,,Denmark,,This study*,Denmark
+NBC_00304,,Germany,,This study*,Germany
+NBC_01477,,Denmark,,This study*,Denmark
+NBC_01550,,Denmark,,This study*,Denmark
+NBC_01432,,Denmark,,This study*,Denmark
+NBC_00831,,Denmark,,This study*,Denmark
+NBC_00236,,Denmark,,This study*,Denmark
+NBC_00045,,Denmark,,This study*,Denmark
+NBC_00035,,Denmark,,This study*,Denmark
+NBC_00445,,Spain,,This study*,Spain
+NBC_01613,,Denmark,,This study*,Denmark
+NBC_01021,,Denmark,,This study*,Denmark
+NBC_01410,,Denmark,,This study*,Denmark
+NBC_01515,,Denmark,,This study*,Denmark
+NBC_00121,,Denmark,,This study*,Denmark
+NBC_00208,,Denmark,,This study*,Denmark
+NBC_00857,,Denmark,,This study*,Denmark
+NBC_00514,,Denmark,,This study*,Denmark
+NBC_00084,,Denmark,,This study*,Denmark
+NBC_00044,,Denmark,,This study*,Denmark
+NBC_00285,,United Kingdom,,This study*,United Kingdom
+NBC_01792,,Denmark,,This study*,Denmark
+NBC_00589,,Denmark,,This study*,Denmark
+NBC_01677,,Netherlands,,This study*,Netherlands
+NBC_01665,,Netherlands,,This study*,Netherlands
+NBC_00283,,United Kingdom,,This study*,United Kingdom
+NBC_00278,,Finland,,This study*,Finland
+NBC_00099,,Portugal,,This study*,Portugal
+NBC_00701,,USA,,This study*,USA
+NBC_00525,,USA,,This study*,USA
+NBC_01256,,Denmark,,This study*,Denmark
+NBC_00872,,Denmark,,This study*,Denmark
+NBC_00356,,Germany,,This study*,Germany
+NBC_01414,,Denmark,,This study*,Denmark
+NBC_00715,,Denmark,,This study*,Denmark
+NBC_01010,,Denmark,,This study*,Denmark
+NBC_01213,,Denmark,,This study*,Denmark
+NBC_00597,,Denmark,,This study*,Denmark
+NBC_01680,,Netherlands,,This study*,Netherlands
+NBC_01419,,Denmark,,This study*,Denmark
+NBC_00324,,Germany,,This study*,Germany
+NBC_00656,,USA,,This study*,USA
+NBC_00267,,Germany,,This study*,Germany
+NBC_00350,,Germany,,This study*,Germany
+NBC_01274,,Germany,,This study*,Germany
+NBC_00500,,Denmark,,This study*,Denmark
+NBC_01456,,Denmark,,This study*,Denmark
+NBC_00595,,Germany,,This study*,Germany
+NBC_01333,,Denmark,,This study*,Denmark
+NBC_00641,,Denmark,,This study*,Denmark
+NBC_01268,,Germany,,This study*,Germany
+NBC_00871,,Denmark,,This study*,Denmark
+NBC_01673,,Netherlands,,This study*,Netherlands
+NBC_01542,,Denmark,,This study*,Denmark
+NBC_01778,,Denmark,,This study*,Denmark
+NBC_01426,,Denmark,,This study*,Denmark
+NBC_01022,,Denmark,,This study*,Denmark
+NBC_01664,,Netherlands,,This study*,Netherlands
+NBC_00391,,Germany,,This study*,Germany
+NBC_01708,,Netherlands,,This study*,Netherlands
+NBC_00144,,United Kingdom,,This study*,United Kingdom
+NBC_01581,,Denmark,,This study*,Denmark
+NBC_01168,,Denmark,,This study*,Denmark
+NBC_00444,,Spain,,This study*,Spain
+NBC_01675,,Netherlands,,This study*,Netherlands
+NBC_00217,,Portugal,,This study*,Portugal
+NBC_01387,,Denmark,,This study*,Denmark
+NBC_00504,,Denmark,,This study*,Denmark
+NBC_00830,,Denmark,,This study*,Denmark
+NBC_00443,,Spain,,This study*,Spain
+NBC_01497,,Denmark,,This study*,Denmark
+NBC_01228,,Denmark,,This study*,Denmark
+NBC_00503,,Denmark,,This study*,Denmark
+NBC_00311,,Germany,,This study*,Germany
+NBC_01759,,Denmark,,This study*,Denmark
+NBC_00184,,Denmark,,This study*,Denmark
+NBC_01257,,Denmark,,This study*,Denmark
+NBC_00088,,Finland,,This study*,Finland
+NBC_00990,,Denmark,,This study*,Denmark
+NBC_00125,,Finland,,This study*,Finland
+NBC_00187,,Denmark,,This study*,Denmark
+NBC_00712,,Denmark,,This study*,Denmark
+NBC_01267,,Denmark,,This study*,Denmark
+NBC_01007,,Denmark,,This study*,Denmark
+NBC_01750,,Denmark,,This study*,Denmark
+NBC_00598,,Denmark,,This study*,Denmark
+NBC_01224,,Denmark,,This study*,Denmark
+NBC_00118,,Denmark,,This study*,Denmark
+NBC_00073,,Finland,,This study*,Finland
+NBC_01771,,Denmark,,This study*,Denmark
+NBC_00632,,USA,,This study*,USA
+NBC_00119,,Denmark,,This study*,Denmark
+NBC_00710,,Denmark,,This study*,Denmark
+NBC_00303,,Denmark,,This study*,Denmark
+NBC_01694,,Netherlands,,This study*,Netherlands
+NBC_01780,,Denmark,,This study*,Denmark
+NBC_00540,,Denmark,,This study*,Denmark
+NBC_01344,,Denmark,,This study*,Denmark
+NBC_01314,,Denmark,,This study*,Denmark
+NBC_01657,,Netherlands,,This study*,Netherlands
+NBC_00286,,Spain,,This study*,Spain
+NBC_01218,,Denmark,,This study*,Denmark
+NBC_01078,,Denmark,,This study*,Denmark
+NBC_01369,,Denmark,,This study*,Denmark
+NBC_00161,,Denmark,,This study*,Denmark
+NBC_00636,,Denmark,,This study*,Denmark
+NBC_00487,,Germany,,This study*,Germany
+NBC_00450,,Spain,,This study*,Spain
+NBC_01318,,Denmark,,This study*,Denmark
+NBC_01774,,Denmark,,This study*,Denmark
+NBC_00049,,Denmark,,This study*,Denmark
+NBC_01281,,Denmark,,This study*,Denmark
+NBC_01011,,Denmark,,This study*,Denmark
+NBC_01646,,Denmark,,This study*,Denmark
+NBC_00879,,Denmark,,This study*,Denmark
+NBC_00122,,Denmark,,This study*,Denmark
+NBC_01556,,Denmark,,This study*,Denmark
+NBC_00435,,Denmark,,This study*,Denmark
+NBC_01562,,Denmark,,This study*,Denmark
+NBC_01271,,Germany,,This study*,Germany
+NBC_00028,,Portugal,,This study*,Portugal
+NBC_01422,,Denmark,,This study*,Denmark
+NBC_00400,,Germany,,This study*,Germany
+NBC_01527,,Denmark,,This study*,Denmark
+NBC_01579,,Denmark,,This study*,Denmark
+NBC_00211,,Denmark,,This study*,Denmark
+NBC_01023,,Denmark,,This study*,Denmark
+NBC_01288,,Denmark,,This study*,Denmark
+NBC_00484,,Germany,,This study*,Germany
+NBC_00133,,Denmark,,This study*,Denmark
+NBC_01584,,Denmark,,This study*,Denmark
+NBC_01355,,Denmark,,This study*,Denmark
+NBC_01170,,Denmark,,This study*,Denmark
+NBC_00131,,Denmark,,This study*,Denmark
+NBC_01439,,Denmark,,This study*,Denmark
+NBC_01718,,Denmark,,This study*,Denmark
+NBC_01693,,Netherlands,,This study*,Netherlands
+NBC_00649,,USA,,This study*,USA
+NBC_01270,,Germany,,This study*,Germany
+NBC_01420,,Denmark,,This study*,Denmark
+NBC_00842,,Denmark,,This study*,Denmark
+NBC_00043,,Denmark,,This study*,Denmark
+NBC_01341,,Denmark,,This study*,Denmark
+NBC_01766,,Denmark,,This study*,Denmark
+NBC_00838,,Denmark,,This study*,Denmark
+NBC_01212,,Denmark,,This study*,Denmark
+NBC_01359,,Denmark,,This study*,Denmark
+NBC_00535,,Germany,,This study*,Germany
+NBC_01692,,Netherlands,,This study*,Netherlands
+NBC_01711,,Netherlands,,This study*,Netherlands
+NBC_00616,,Denmark,,This study*,Denmark
+NBC_01650,,Denmark,,This study*,Denmark
+NBC_00464,,Denmark,,This study*,Denmark
+NBC_00631,,USA,,This study*,USA
+NBC_01340,,Denmark,,This study*,Denmark
+NBC_00664,,Denmark,,This study*,Denmark
+NBC_00634,,USA,,This study*,USA
+NBC_00493,,Germany,,This study*,Germany
+NBC_00156,,Portugal,,This study*,Portugal
+NBC_00480,,Germany,,This study*,Germany
+NBC_00457,,Spain,,This study*,Spain
+NBC_01411,,Denmark,,This study*,Denmark
+NBC_00562,,USA,,This study*,USA
+NBC_01378,,Denmark,,This study*,Denmark
+NBC_01108,,Denmark,,This study*,Denmark
+NBC_00724,,Denmark,,This study*,Denmark
+NBC_00987,,Denmark,,This study*,Denmark
+NBC_01543,,Denmark,,This study*,Denmark
+NBC_01799,,Denmark,,This study*,Denmark
+NBC_01417,,Denmark,,This study*,Denmark
+NBC_00448,,Denmark,,This study*,Denmark
+NBC_01763,,Denmark,,This study*,Denmark
+NBC_00870,,Denmark,,This study*,Denmark
+NBC_01356,,Denmark,,This study*,Denmark
+NBC_00353,,Germany,,This study*,Germany
+NBC_01686,,Netherlands,,This study*,Netherlands
+NBC_01546,,Denmark,,This study*,Denmark
+NBC_01696,,Netherlands,,This study*,Netherlands
+NBC_00890,,Denmark,,This study*,Denmark
+NBC_00670,,Denmark,,This study*,Denmark
+NBC_00168,,Denmark,,This study*,Denmark
+NBC_00576,,USA,,This study*,USA
+NBC_00012,,Denmark,,This study*,Denmark
+NBC_00873,,Denmark,,This study*,Denmark
+NBC_00087,,Finland,,This study*,Finland
+NBC_01735,,Denmark,,This study*,Denmark
+NBC_01445,,Denmark,,This study*,Denmark
+NBC_01460,,Denmark,,This study*,Denmark
+NBC_01004,,Denmark,,This study*,Denmark
+NBC_01758,,Denmark,,This study*,Denmark
+NBC_00185,,Germany,,This study*,Germany
+NBC_00453,,Denmark,,This study*,Denmark
+NBC_01020,,Denmark,,This study*,Denmark
+NBC_00711,,Denmark,,This study*,Denmark
+NBC_01563,,Denmark,,This study*,Denmark
+NBC_00041,,Denmark,,This study*,Denmark
+NBC_01436,,Denmark,,This study*,Denmark
+NBC_00839,,Denmark,,This study*,Denmark
+NBC_00024,,Denmark,,This study*,Denmark
+NBC_01013,,Denmark,,This study*,Denmark
+NBC_01255,,Denmark,,This study*,Denmark
+NBC_01299,,Denmark,,This study*,Denmark
+NBC_01474,,Denmark,,This study*,Denmark
+NBC_01676,,Netherlands,,This study*,Netherlands
+NBC_01592,,Denmark,,This study*,Denmark
+NBC_01522,,Denmark,,This study*,Denmark
+NBC_01196,,Denmark,,This study*,Denmark
+NBC_00191,,Denmark,,This study*,Denmark
+NBC_01622,,Denmark,,This study*,Denmark
+NBC_01714,,Netherlands,,This study*,Netherlands
+NBC_00835,,Denmark,,This study*,Denmark
+NBC_01621,,Denmark,,This study*,Denmark
+NBC_00090,,Germany,,This study*,Germany
+NBC_00197,,United Kingdom,,This study*,United Kingdom
+NBC_01770,,Denmark,,This study*,Denmark
+NBC_01110,,Denmark,,This study*,Denmark
+NBC_01723,,Denmark,,This study*,Denmark
+NBC_01803,,Denmark,,This study*,Denmark
+NBC_00825,,Denmark,,This study*,Denmark
+NBC_00212,,United Kingdom,,This study*,United Kingdom
+NBC_01808,,Denmark,,This study*,Denmark
+NBC_01552,,Denmark,,This study*,Denmark
+NBC_01617,,Denmark,,This study*,Denmark
+NBC_01478,,Denmark,,This study*,Denmark
+NBC_00383,,Germany,,This study*,Germany
+NBC_01498,,Denmark,,This study*,Denmark
+NBC_00523,,USA,,This study*,USA
+NBC_01447,,Denmark,,This study*,Denmark
+NBC_00663,,USA,,This study*,USA
+NBC_00564,,USA,,This study*,USA
+NBC_00696,,Denmark,,This study*,Denmark
+NBC_01260,,Denmark,,This study*,Denmark
+NBC_00666,,Denmark,,This study*,Denmark
+NBC_01337,,Denmark,,This study*,Denmark
+NBC_00683,,USA,,This study*,USA
+NBC_01607,,Denmark,,This study*,Denmark
+NBC_01283,,Denmark,,This study*,Denmark
+NBC_01167,,Denmark,,This study*,Denmark
+NBC_01418,,Denmark,,This study*,Denmark
+NBC_01462,,Denmark,,This study*,Denmark
+NBC_00082,,United Kingdom,,This study*,United Kingdom
+NBC_00220,,Germany,,This study*,Germany
+NBC_01614,,Denmark,,This study*,Denmark
+NBC_00371,,Germany,,This study*,Germany
+NBC_00488,,Germany,,This study*,Germany
+NBC_00836,,Denmark,,This study*,Denmark
+NBC_00190,,Denmark,,This study*,Denmark
+NBC_01294,,Denmark,,This study*,Denmark
+NBC_00775,,Denmark,,This study*,Denmark
+NBC_01336,,Denmark,,This study*,Denmark
+NBC_00116,,Portugal,,This study*,Portugal
+NBC_01124,,Portugal,,This study*,Portugal
+NBC_00651,,Denmark,,This study*,Denmark
+NBC_00322,,Denmark,,This study*,Denmark
+NBC_00334,,Denmark,,This study*,Denmark
+NBC_00466,,Denmark,,This study*,Denmark
+NBC_00499,,Germany,,This study*,Germany
+NBC_00963,,Denmark,,This study*,Denmark
+NBC_00270,,Germany,,This study*,Germany
+NBC_01576,,Denmark,,This study*,Denmark
+NBC_01190,,Denmark,,This study*,Denmark
+NBC_01386,,Denmark,,This study*,Denmark
+NBC_01244,,Denmark,,This study*,Denmark
+NBC_01779,,Denmark,,This study*,Denmark
+NBC_01353,,Denmark,,This study*,Denmark
+NBC_00302,,Denmark,,This study*,Denmark
+NBC_00999,,Denmark,,This study*,Denmark
+NBC_01798,,Denmark,,This study*,Denmark
+NBC_01602,,Denmark,,This study*,Denmark
+NBC_01717,,Denmark,,This study*,Denmark
+NBC_01351,,Denmark,,This study*,Denmark
+NBC_00005,,Denmark,,This study*,Denmark
+NBC_01538,,Denmark,,This study*,Denmark
+NBC_00151,,Finland,,This study*,Finland
+NBC_00510,,Denmark,,This study*,Denmark
+NBC_01236,,Denmark,,This study*,Denmark
+NBC_00899,,Denmark,,This study*,Denmark
+NBC_01679,,Netherlands,,This study*,Netherlands
+NBC_00832,,Denmark,,This study*,Denmark
+NBC_01429,,Denmark,,This study*,Denmark
+NBC_00248,,Denmark,,This study*,Denmark
+NBC_00866,,Denmark,,This study*,Denmark
+NBC_00252,,Denmark,,This study*,Denmark
+NBC_01627,,Denmark,,This study*,Denmark
+NBC_00029,,Germany,,This study*,Germany
+NBC_00101,,Denmark,,This study*,Denmark
+NBC_00016,,Denmark,,This study*,Denmark
+NBC_01585,,Denmark,,This study*,Denmark
+NBC_01435,,Denmark,,This study*,Denmark
+NBC_00515,,Germany,,This study*,Germany
+NBC_01795,,Denmark,,This study*,Denmark
+NBC_01362,,Denmark,,This study*,Denmark
+NBC_00554,,USA,,This study*,USA
+NBC_01749,,Denmark,,This study*,Denmark
+NBC_01777,,Denmark,,This study*,Denmark
+NBC_01715,,Netherlands,,This study*,Netherlands
+NBC_00357,,Denmark,,This study*,Denmark
+NBC_00489,,Germany,,This study*,Germany
+NBC_00223,,Finland,,This study*,Finland
+NBC_01453,,Denmark,,This study*,Denmark
+NBC_00075,,Germany,,This study*,Germany
+NBC_01523,,Denmark,,This study*,Denmark
+NBC_00557,,USA,,This study*,USA
+NBC_00110,,Denmark,,This study*,Denmark
+NBC_00478,,Denmark,,This study*,Denmark
+NBC_01753,,Denmark,,This study*,Denmark
+NBC_00080,,Denmark,,This study*,Denmark
+NBC_01601,,Denmark,,This study*,Denmark
+NBC_00909,,Denmark,,This study*,Denmark
+NBC_00019,,Denmark,,This study*,Denmark
+NBC_00107,,Denmark,,This study*,Denmark
+NBC_01262,,Denmark,,This study*,Denmark
+NBC_00257,,Finland,,This study*,Finland
+NBC_01136,,Denmark,,This study*,Denmark
+NBC_00376,,Germany,,This study*,Germany
+NBC_00138,,Denmark,,This study*,Denmark
+NBC_00180,,Denmark,,This study*,Denmark
+NBC_01137,,Portugal,,This study*,Portugal
+NBC_01259,,Germany,,This study*,Germany
+NBC_00057,,Finland,,This study*,Finland
+NBC_01724,,Denmark,,This study*,Denmark
+NBC_01134,,Denmark,,This study*,Denmark
+NBC_00135,,Denmark,,This study*,Denmark
+NBC_01520,,Denmark,,This study*,Denmark
+NBC_00414,,Germany,,This study*,Germany
+NBC_00390,,Germany,,This study*,Germany
+NBC_00040,,Denmark,,This study*,Denmark
+NBC_00287,,Spain,,This study*,Spain
+NBC_00076,,United Kingdom,,This study*,United Kingdom
+NBC_01703,,Netherlands,,This study*,Netherlands
+NBC_01106,,Denmark,,This study*,Denmark
+NBC_00735,,USA,,This study*,USA
+NBC_01171,,Denmark,,This study*,Denmark
+NBC_01276,,Germany,,This study*,Germany
+NBC_01508,,Denmark,,This study*,Denmark
+NBC_00827,,Denmark,,This study*,Denmark
+NBC_01127,,Portugal,,This study*,Portugal
+NBC_01372,,Denmark,,This study*,Denmark
+NBC_00179,,Denmark,,This study*,Denmark
+NBC_00415,,Germany,,This study*,Germany
+NBC_00541,,Denmark,,This study*,Denmark
+NBC_01773,,Denmark,,This study*,Denmark
+NBC_01297,,Denmark,,This study*,Denmark
+NBC_01661,,Netherlands,,This study*,Netherlands
+NBC_01232,,Denmark,,This study*,Denmark
+NBC_01080,,Denmark,,This study*,Denmark
+NBC_00556,,USA,,This study*,USA
+NBC_01401,,Denmark,,This study*,Denmark
+NBC_00461,,Denmark,,This study*,Denmark
+NBC_00344,,Germany,,This study*,Germany
+NBC_01762,,Denmark,,This study*,Denmark
+NBC_00513,,Denmark,,This study*,Denmark
+NBC_01640,,Denmark,,This study*,Denmark
+NBC_01689,,Netherlands,,This study*,Netherlands
+NBC_00826,,Denmark,,This study*,Denmark
+NBC_01343,,Denmark,,This study*,Denmark
+NBC_01643,,Denmark,,This study*,Denmark
+NBC_00280,,Denmark,,This study*,Denmark
+NBC_01248,,Denmark,,This study*,Denmark
+NBC_00243,,Denmark,,This study*,Denmark
+NBC_00228,,Denmark,,This study*,Denmark
+NBC_01431,,Denmark,,This study*,Denmark
+NBC_00623,,Denmark,,This study*,Denmark
+NBC_01194,,Denmark,,This study*,Denmark
+NBC_00042,,Denmark,,This study*,Denmark
+NBC_01471,,Denmark,,This study*,Denmark
+NBC_00456,,Spain,,This study*,Spain
+NBC_01506,,Denmark,,This study*,Denmark
+NBC_01211,,Denmark,,This study*,Denmark
+NBC_00425,,Denmark,,This study*,Denmark
+NBC_00299,,Spain,,This study*,Spain
+NBC_01685,,Netherlands,,This study*,Netherlands
+NBC_01360,,Denmark,,This study*,Denmark
+NBC_00225,,Denmark,,This study*,Denmark
+NBC_00472,,Denmark,,This study*,Denmark
+NBC_00618,,Germany,,This study*,Germany
+NBC_00342,,Germany,,This study*,Germany
+NBC_00169,,Denmark,,This study*,Denmark
+NBC_00226,,Denmark,,This study*,Denmark
+NBC_00288,,Denmark,,This study*,Denmark
+NBC_00381,,Germany,,This study*,Germany
+NBC_00988,,Denmark,,This study*,Denmark
+NBC_01201,,Denmark,,This study*,Denmark
+NBC_00017,,Denmark,,This study*,Denmark
+NBC_01558,,Denmark,,This study*,Denmark
+NBC_01230,,Denmark,,This study*,Denmark
+NBC_01483,,Denmark,,This study*,Denmark
+NBC_01215,,Denmark,,This study*,Denmark
+NBC_01367,,Denmark,,This study*,Denmark
+NBC_00558,,Germany,,This study*,Germany
+NBC_00588,,Denmark,,This study*,Denmark
+NBC_00349,,Germany,,This study*,Germany
+NBC_00189,,Denmark,,This study*,Denmark
+NBC_00385,,Germany,,This study*,Germany
+NBC_00261,,Denmark,,This study*,Denmark
+NBC_01325,,Denmark,,This study*,Denmark
+NBC_01185,,Denmark,,This study*,Denmark
+NBC_00886,,Denmark,,This study*,Denmark
+NBC_00856,,Denmark,,This study*,Denmark
+NBC_00003,,Denmark,,This study*,Denmark
+NBC_01216,,Denmark,,This study*,Denmark
+NBC_01727,,Denmark,,This study*,Denmark
+NBC_00667,,Denmark,,This study*,Denmark
+NBC_00659,,USA,,This study*,USA
+NBC_00335,,Denmark,,This study*,Denmark
+NBC_00002,,Denmark,,This study*,Denmark
+NBC_01278,,Germany,,This study*,Germany
+NBC_00989,,Denmark,,This study*,Denmark
+NBC_01648,,Denmark,,This study*,Denmark
+NBC_00658,,USA,,This study*,USA
+NBC_00995,,Denmark,,This study*,Denmark
+NBC_01547,,Denmark,,This study*,Denmark
+NBC_00470,,Germany,,This study*,Germany
+NBC_01428,,Denmark,,This study*,Denmark
+NBC_00234,,Germany,,This study*,Germany
+NBC_00096,,United Kingdom,,This study*,United Kingdom
+NBC_01516,,Denmark,,This study*,Denmark
+NBC_00221,,Germany,,This study*,Germany
+NBC_00704,,USA,,This study*,USA
+NBC_00441,,Denmark,,This study*,Denmark
+NBC_00370,,Germany,,This study*,Germany
+NBC_00027,,Portugal,,This study*,Portugal
+NBC_00726,,Denmark,,This study*,Denmark
+NBC_00594,,Denmark,,This study*,Denmark
+NBC_01455,,Denmark,,This study*,Denmark
+NBC_00343,,Germany,,This study*,Germany
+NBC_00258,,Germany,,This study*,Germany
+NBC_01207,,Denmark,,This study*,Denmark
+NBC_00001,,Denmark,,This study*,Denmark
+NBC_00239,,Denmark,,This study*,Denmark
+NBC_00648,,USA,,This study*,USA
+NBC_00996,,Denmark,,This study*,Denmark
+NBC_01754,,Denmark,,This study*,Denmark
+NBC_00337,,Germany,,This study*,Germany
+NBC_01324,,Denmark,,This study*,Denmark
+NBC_01237,,Denmark,,This study*,Denmark
+NBC_00645,,Denmark,,This study*,Denmark
+NBC_01393,,Denmark,,This study*,Denmark
+NBC_01183,,Denmark,,This study*,Denmark
+NBC_01637,,Denmark,,This study*,Denmark
+NBC_01235,,Denmark,,This study*,Denmark
+NBC_00637,,USA,,This study*,USA
+NBC_01241,,Denmark,,This study*,Denmark
+NBC_01102,,Denmark,,This study*,Denmark
+NBC_01328,,Germany,,This study*,Germany
+NBC_00105,,Denmark,,This study*,Denmark
+NBC_01788,,Denmark,,This study*,Denmark
+NBC_01396,,Denmark,,This study*,Denmark
+NBC_01635,,Denmark,,This study*,Denmark
+NBC_01005,,Denmark,,This study*,Denmark
+NBC_00055,,Denmark,,This study*,Denmark
+NBC_00975,,Denmark,,This study*,Denmark
+NBC_01636,,Netherlands,,This study*,Netherlands
+NBC_01745,,Denmark,,This study*,Denmark
+NBC_00722,,Denmark,,This study*,Denmark
+NBC_01147,,Portugal,,This study*,Portugal
+NBC_01205,,Denmark,,This study*,Denmark
+NBC_00271,,Germany,,This study*,Germany
+NBC_01553,,Denmark,,This study*,Denmark
+NBC_01304,,Denmark,,This study*,Denmark
+NBC_00851,,Denmark,,This study*,Denmark
+NBC_00377,,Germany,,This study*,Germany
+NBC_01683,,Netherlands,,This study*,Netherlands
+NBC_00471,,Denmark,,This study*,Denmark
+NBC_00685,,USA,,This study*,USA
+NBC_01332,,Denmark,,This study*,Denmark
+NBC_01003,,Denmark,,This study*,Denmark
+NBC_01243,,Denmark,,This study*,Denmark
+NBC_00490,,Germany,,This study*,Germany
+NBC_01295,,Germany,,This study*,Germany
+NBC_01210,,Denmark,,This study*,Denmark
+NBC_01544,,Denmark,,This study*,Denmark
+NBC_01589,,Denmark,,This study*,Denmark
+NBC_01537,,Denmark,,This study*,Denmark
+NBC_01166,,Denmark,,This study*,Denmark
+NBC_00293,,Spain,,This study*,Spain
+NBC_00566,,USA,,This study*,USA
+NBC_01768,,Denmark,,This study*,Denmark
+NBC_01594,,Denmark,,This study*,Denmark
+NBC_00459,,Denmark,,This study*,Denmark
+NBC_00853,,Denmark,,This study*,Denmark
+NBC_00586,,Denmark,,This study*,Denmark
+NBC_00713,,Denmark,,This study*,Denmark
+NBC_00272,,Germany,,This study*,Germany
+NBC_01269,,Germany,,This study*,Germany
+NBC_01687,,Netherlands,,This study*,Netherlands
+NBC_01791,,Denmark,,This study*,Denmark
+NBC_01751,,Denmark,,This study*,Denmark
+NBC_00111,,Denmark,,This study*,Denmark
+NBC_00668,,Denmark,,This study*,Denmark
+NBC_00820,,Denmark,,This study*,Denmark
+NBC_01463,,Denmark,,This study*,Denmark
+NBC_01620,,Denmark,,This study*,Denmark
+NBC_01391,,Denmark,,This study*,Denmark
+NBC_01525,,Denmark,,This study*,Denmark
+NBC_01684,,Netherlands,,This study*,Netherlands
+NBC_01744,,Denmark,,This study*,Denmark
+NBC_01017,,Denmark,,This study*,Denmark
+NBC_01139,,Portugal,,This study*,Portugal
+NBC_01015,,Denmark,,This study*,Denmark
+NBC_00200,,Denmark,,This study*,Denmark
+NBC_01595,,Denmark,,This study*,Denmark
+NBC_00375,,Germany,,This study*,Germany
+NBC_01746,,Denmark,,This study*,Denmark
+NBC_00077,,Denmark,,This study*,Denmark
+NBC_01786,,Denmark,,This study*,Denmark
+NBC_01706,,Netherlands,,This study*,Netherlands
+NBC_00887,,Denmark,,This study*,Denmark
+NBC_01261,,Denmark,,This study*,Denmark
+NBC_00165,,Denmark,,This study*,Denmark
+NBC_01545,,Denmark,,This study*,Denmark
+NBC_00885,,Denmark,,This study*,Denmark
+NBC_01191,,Denmark,,This study*,Denmark
+NBC_00485,,Denmark,,This study*,Denmark
+NBC_01077,,Denmark,,This study*,Denmark
+NBC_01347,,Denmark,,This study*,Denmark
+NBC_01625,,Denmark,,This study*,Denmark
+NBC_00093,,Germany,,This study*,Germany
+NBC_00123,,Finland,,This study*,Finland
+NBC_01451,,Denmark,,This study*,Denmark
+NBC_01352,,Denmark,,This study*,Denmark
+NBC_01667,,Netherlands,,This study*,Netherlands
+NBC_00210,,Denmark,,This study*,Denmark
+NBC_00009,,Denmark,,This study*,Denmark
+NBC_00538,,Denmark,,This study*,Denmark
+NBC_00056,,Denmark,,This study*,Denmark
+NBC_00117,,Denmark,,This study*,Denmark
+NBC_00859,,Denmark,,This study*,Denmark
+NBC_01606,,Denmark,,This study*,Denmark
+NBC_00114,,United Kingdom,,This study*,United Kingdom
+NBC_01725,,Denmark,,This study*,Denmark
+NBC_01722,,Denmark,,This study*,Denmark
+NBC_01564,,Denmark,,This study*,Denmark
+NBC_00481,,Germany,,This study*,Germany
+NBC_00805,,USA,,This study*,USA
+NBC_01662,,Netherlands,,This study*,Netherlands
+NBC_00069,,Finland,,This study*,Finland
+NBC_01374,,Denmark,,This study*,Denmark
+NBC_00520,,USA,,This study*,USA
+NBC_00250,,Finland,,This study*,Finland
+NBC_01760,,Denmark,,This study*,Denmark
+NBC_01397,,Denmark,,This study*,Denmark
+NBC_01652,,Denmark,,This study*,Denmark
+NBC_00843,,Denmark,,This study*,Denmark
+NBC_01231,,Denmark,,This study*,Denmark
+NBC_00328,,Germany,,This study*,Germany
+NBC_00865,,Denmark,,This study*,Denmark
+NBC_01383,,Denmark,,This study*,Denmark
+NBC_00475,,Denmark,,This study*,Denmark
+NBC_00148,,Germany,,This study*,Germany
+NBC_00269,,Germany,,This study*,Germany
+NBC_00158,,Portugal,,This study*,Portugal
+NBC_01174,,Denmark,,This study*,Denmark
+NBC_00723,,Denmark,,This study*,Denmark
+NBC_00841,,Denmark,,This study*,Denmark
+NBC_00868,,Denmark,,This study*,Denmark
+NBC_00289,,Finland,,This study*,Finland
+NBC_00932,,Denmark,,This study*,Denmark
+NBC_00727,,Denmark,,This study*,Denmark
+NBC_00625,,USA,,This study*,USA
+NBC_01180,,Denmark,,This study*,Denmark
+NBC_00440,,Germany,,This study*,Germany
+NBC_01177,,Denmark,,This study*,Denmark
+NBC_00134,,Denmark,,This study*,Denmark
+NBC_01790,,Denmark,,This study*,Denmark
+NBC_00354,,Germany,,This study*,Germany
+NBC_00607,,Denmark,,This study*,Denmark
+NBC_01370,,Denmark,,This study*,Denmark
+NBC_01598,,Denmark,,This study*,Denmark
+NBC_01536,,Denmark,,This study*,Denmark
+NBC_01338,,Denmark,,This study*,Denmark
+NBC_00023,,Denmark,,This study*,Denmark
+NBC_01775,,Denmark,,This study*,Denmark
+NBC_00442,,Denmark,,This study*,Denmark
+NBC_00496,,Germany,,This study*,Germany
+NBC_00363,,Germany,,This study*,Germany
+NBC_00519,,Denmark,,This study*,Denmark
+NBC_01454,,Denmark,,This study*,Denmark
+NBC_01586,,Denmark,,This study*,Denmark
+NBC_00494,,Germany,,This study*,Germany
+NBC_01197,,Denmark,,This study*,Denmark
+NBC_00591,,Denmark,,This study*,Denmark
+NBC_01732,,Denmark,,This study*,Denmark
+NBC_01014,,Denmark,,This study*,Denmark
+NBC_01089,,Denmark,,This study*,Denmark
+NBC_01220,,Denmark,,This study*,Denmark
+NBC_00022,,Denmark,,This study*,Denmark
+NBC_00539,,Denmark,,This study*,Denmark
+NBC_01616,,Denmark,,This study*,Denmark
+NBC_00455,,Denmark,,This study*,Denmark
+NBC_01437,,Denmark,,This study*,Denmark
+NBC_01507,,Denmark,,This study*,Denmark
+NBC_00433,,Germany,,This study*,Germany
+NBC_00691,,USA,,This study*,USA
+NBC_00048,,Denmark,,This study*,Denmark
+NBC_00734,,USA,,This study*,USA
+NBC_01582,,Denmark,,This study*,Denmark
+NBC_01346,,Denmark,,This study*,Denmark
+NBC_01465,,Denmark,,This study*,Denmark
+NBC_01511,,Denmark,,This study*,Denmark
+NBC_00891,,Denmark,,This study*,Denmark
+NBC_01217,,Denmark,,This study*,Denmark
+NBC_01358,,Denmark,,This study*,Denmark
+NBC_01384,,Denmark,,This study*,Denmark
+NBC_00171,,Denmark,,This study*,Denmark
+NBC_01590,,Denmark,,This study*,Denmark
+NBC_01018,,Denmark,,This study*,Denmark
+NBC_00624,,Denmark,,This study*,Denmark
+NBC_01591,,Denmark,,This study*,Denmark
+NBC_01240,,Denmark,,This study*,Denmark
+NBC_01716,,Denmark,,This study*,Denmark
+NBC_01069,,Denmark,,This study*,Denmark
+NBC_01794,,Denmark,,This study*,Denmark
+NBC_01335,,Denmark,,This study*,Denmark
+NBC_00846,,Denmark,,This study*,Denmark
+NBC_00172,,Denmark,,This study*,Denmark
+NBC_00882,,Denmark,,This study*,Denmark
+NBC_01135,,Denmark,,This study*,Denmark
+NBC_01390,,Denmark,,This study*,Denmark
+NBC_00366,,Germany,,This study*,Germany
+NBC_00379,,Germany,,This study*,Germany
+NBC_00622,,Denmark,,This study*,Denmark
+NBC_01438,,Denmark,,This study*,Denmark
+NBC_00203,,Denmark,,This study*,Denmark
+NBC_00498,,Germany,,This study*,Germany
+NBC_01233,,Denmark,,This study*,Denmark
+NBC_00306,,Spain,,This study*,Spain
+NBC_00178,,Denmark,,This study*,Denmark
+NBC_01092,,Denmark,,This study*,Denmark
+NBC_01747,,Denmark,,This study*,Denmark
+NBC_00501,,Denmark,,This study*,Denmark
+NBC_01666,,Netherlands,,This study*,Netherlands
+NBC_00008,,Denmark,,This study*,Denmark
+NBC_01002,,Denmark,,This study*,Denmark
+NBC_00626,,USA,,This study*,USA
+NBC_00974,,Denmark,,This study*,Denmark
+NBC_01671,,Netherlands,,This study*,Netherlands
+NBC_00333,,United Kingdom,,This study*,United Kingdom
+NBC_01450,,Denmark,,This study*,Denmark
+NBC_00341,,Germany,,This study*,Germany
+NBC_01752,,Denmark,,This study*,Denmark
+NBC_01678,,Netherlands,,This study*,Netherlands
+NBC_00822,,Denmark,,This study*,Denmark
+NBC_00829,,Denmark,,This study*,Denmark
+NBC_00206,,Denmark,,This study*,Denmark
+NBC_00060,,Finland,,This study*,Finland
+NBC_00079,,Denmark,,This study*,Denmark
+NBC_00686,,USA,,This study*,USA
+NBC_00015,,Denmark,,This study*,Denmark
+NBC_00209,,Denmark,,This study*,Denmark
+NBC_00358,,Germany,,This study*,Germany
+NBC_00046,,Denmark,,This study*,Denmark
+NBC_00467,,Spain,,This study*,Spain
+NBC_00145,,United Kingdom,,This study*,United Kingdom
+NBC_01361,,Denmark,,This study*,Denmark
+NBC_01157,,Denmark,,This study*,Denmark
+NBC_01604,,Denmark,,This study*,Denmark
+NBC_00867,,Denmark,,This study*,Denmark
+NBC_00587,,Denmark,,This study*,Denmark
+NBC_00633,,USA,,This study*,USA
+NBC_00647,,USA,,This study*,USA
+NBC_01651,,Denmark,,This study*,Denmark
+NBC_00582,,Denmark,,This study*,Denmark
+NBC_00998,,Denmark,,This study*,Denmark
+NBC_01280,,Germany,,This study*,Germany
+NBC_00388,,Germany,,This study*,Germany
+NBC_00497,,Germany,,This study*,Germany
+NBC_00314,,Germany,,This study*,Germany
+NBC_00224,,Finland,,This study*,Finland
+NBC_01597,,Denmark,,This study*,Denmark
+NBC_00186,,Denmark,,This study*,Denmark
+NBC_00259,,Germany,,This study*,Germany
+NBC_01530,,Denmark,,This study*,Denmark
+NBC_01421,,Denmark,,This study*,Denmark
+NBC_01668,,Netherlands,,This study*,Netherlands
+NBC_01012,,Denmark,,This study*,Denmark
+NBC_00984,,Denmark,,This study*,Denmark
+NBC_00708,,Denmark,,This study*,Denmark
+NBC_01409,,Denmark,,This study*,Denmark
+NBC_01198,,Denmark,,This study*,Denmark
+NBC_00522,,USA,,This study*,USA
+NBC_01772,,Denmark,,This study*,Denmark
+NBC_01707,,Netherlands,,This study*,Netherlands
+NBC_00690,,Denmark,,This study*,Denmark
+NBC_01496,,Denmark,,This study*,Denmark
+NBC_00316,,Germany,,This study*,Germany
+NBC_00502,,Denmark,,This study*,Denmark
+NBC_00483,,Germany,,This study*,Germany
+NBC_01317,,Denmark,,This study*,Denmark
+NBC_00081,,Denmark,,This study*,Denmark
+NBC_00164,,Denmark,,This study*,Denmark
+NBC_00215,,Portugal,,This study*,Portugal
+NBC_00277,,Denmark,,This study*,Denmark
+NBC_01006,,Denmark,,This study*,Denmark
+NBC_00104,,Denmark,,This study*,Denmark
+NBC_01672,,Netherlands,,This study*,Netherlands
+NBC_01761,,Denmark,,This study*,Denmark
+NBC_01568,,Denmark,,This study*,Denmark
+NBC_01186,,Denmark,,This study*,Denmark
+NBC_01366,,Denmark,,This study*,Denmark
+NBC_00876,,Denmark,,This study*,Denmark
+NBC_00728,,Denmark,,This study*,Denmark
+NBC_00247,,Denmark,,This study*,Denmark
+NBC_01195,,Denmark,,This study*,Denmark
+NBC_00590,,Denmark,,This study*,Denmark
+NBC_01178,,Denmark,,This study*,Denmark
+NBC_01321,,Denmark,,This study*,Denmark
+NBC_01618,,Denmark,,This study*,Denmark
+NBC_01476,,Denmark,,This study*,Denmark
+NBC_01641,,Denmark,,This study*,Denmark
+NBC_00573,,USA,,This study*,USA
+NBC_01624,,Denmark,,This study*,Denmark
+NBC_00630,,USA,,This study*,USA
+NBC_00386,,Germany,,This study*,Germany
+NBC_01310,,Denmark,,This study*,Denmark
+NBC_00238,,Portugal,,This study*,Portugal
+NBC_00986,,Denmark,,This study*,Denmark
+NBC_01615,,Denmark,,This study*,Denmark
+NBC_00053,,Denmark,,This study*,Denmark
+NBC_00669,,Denmark,,This study*,Denmark
+NBC_01103,,Denmark,,This study*,Denmark
+NBC_00569,,USA,,This study*,USA
+NBC_00147,,United Kingdom,,This study*,United Kingdom
+NBC_00972,,Denmark,,This study*,Denmark
+NBC_01423,,Denmark,,This study*,Denmark
+NBC_01104,,Denmark,,This study*,Denmark
+NBC_00536,,Denmark,,This study*,Denmark
+NBC_01208,,Denmark,,This study*,Denmark
+NBC_00521,,USA,,This study*,USA
+NBC_01116,,Denmark,,This study*,Denmark
+NBC_01630,,Denmark,,This study*,Denmark
+NBC_01001,,Denmark,,This study*,Denmark

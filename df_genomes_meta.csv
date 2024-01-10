@@ -1,0 +1,1035 @@
+genome_id,quality,organism,genus,species,strain,isolation_source,country,location,lat_lon,collection_date,genus_gtdb,species_gtdb,Mash_species
+NBC_00193,MQ,Streptomyces sp. NBC_00193,Streptomyces,sp.,NBC_00193,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_035
+NBC_00120,MQ,Streptomyces sp. NBC_00120,Streptomyces,sp.,NBC_00120,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp003403055,
+NBC_01306,MQ,Streptomyces sp. NBC_01306,Streptomyces,sp.,NBC_01306,,Denmark,"Livoe, Ege-Hasselskoven",56.8950 N 9.0803 E,2020-07-18,g__Streptomyces,s__,sp_mash_008
+NBC_01681,MQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC_01681,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01571,MQ,Streptomyces sp. NBC_01571,Streptomyces,sp.,NBC_01571,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,s__,sp_mash_036
+NBC_00201,MQ,Streptomyces sp. NBC_00201,Streptomyces,sp.,NBC_00201,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_002
+NBC_00227,MQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00227,soil,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09,g__Streptomyces,virginiae_A,
+NBC_01379,MQ,Streptomyces uncialis,Streptomyces,uncialis,NBC_01379,,Denmark,"Givskud, Field of grass / brush",55.8081 N 9.3697 E,2020-07-01,g__Streptomyces,uncialis,
+NBC_01142,MQ,Streptomyces sp. NBC_01142,Streptomyces,sp.,NBC_01142,soil,Denmark,"Roskilde, B - Kaellingehaven, Next to rock",55.6544 N 12.0686 E,2020-01,g__Streptomyces,s__,sp_mash_074
+NBC_00086,MQ,Streptomyces sp. NBC_00086,Streptomyces,sp.,NBC_00086,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,s__,sp_mash_075
+NBC_00347,MQ,Streptomyces sp. NBC_00347,Streptomyces,sp.,NBC_00347,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_035
+NBC_01334,HQ,Streptomyces sp. NBC_01334,Streptomyces,sp.,NBC_01334,,Denmark,"Birkeroed, Raavaenget 34, near Sct. Hansurt 1",,2020-08-01,g__Streptomyces,sp001298545,
+NBC_01381,MQ,Streptomyces sp. NBC_01381,Streptomyces,sp.,NBC_01381,,Denmark,Stevns Klint,55.27703 N 12.44450 E,2020-07-01,g__Streptomyces,s__,sp_mash_076
+NBC_01645,MQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01645,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_00310,HQ,Streptomyces sp. NBC_00310,Streptomyces,sp.,NBC_00310,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,s__,sp_mash_009
+NBC_00160,MQ,Streptomyces sp. NBC_00160,Streptomyces,sp.,NBC_00160,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,spororaveus,
+NBC_01623,MQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01623,soil,Denmark,"Lejre, Roskilde",55.6142 N 11.9508 E,2021-04,g__Streptomyces,anulatus,
+NBC_01565,MQ,Streptomyces sp. NBC_01565,Streptomyces,sp.,NBC_01565,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,s__,sp_mash_037
+NBC_00893,MQ,Streptomyces sp. NBC_00893,Streptomyces,sp.,NBC_00893,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,sp003846175,
+NBC_01287,MQ,Kitasatospora sp. NBC_01287,Kitasatospora,sp.,NBC_01287,,Denmark,"Knudsoe, mossy forest soil",56.09619 N 9.77531 E,2020-07-01,g__Kitasatospora,s__,sp_mash_077
+NBC_01670,MQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01670,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00083,MQ,Streptomyces sp. NBC_00083,Streptomyces,sp.,NBC_00083,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,s__,sp_mash_078
+NBC_00465,MQ,Streptomyces coelicoflavus,Streptomyces,coelicoflavus,NBC_00465,soil,Denmark,"Hilleroed, Olivier s garden; where birds go poop",,2016-10,g__Streptomyces,coelicoflavus,
+NBC_01655,MQ,Micromonospora sp. NBC_01655,Micromonospora,sp.,NBC_01655,soil,Denmark,"Soeby, Aeroe, Under a tree near Soeby campsite close to sea",54.9372 N 10.2444 E,2021-05,g__Micromonospora,sp003434305,
+NBC_00635,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00635,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_00264,MQ,Streptomyces sp. NBC_00264,Streptomyces,sp.,NBC_00264,soil,Spain,Andratx,39.5392 N 2.4264 E,2016-10,g__Streptomyces,sp003846175,
+NBC_00365,MQ,Streptomyces sp. NBC_00365,Streptomyces,sp.,NBC_00365,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_004
+NBC_00233,MQ,Streptomyces sp. NBC_00233,Streptomyces,sp.,NBC_00233,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,sp014451325,
+NBC_00103,MQ,Streptomyces sp. NBC_00103,Streptomyces,sp.,NBC_00103,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,sp001298545,
+NBC_01691,MQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01691,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00305,MQ,Streptomyces sp. NBC_00305,Streptomyces,sp.,NBC_00305,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp003846175,
+NBC_01296,HQ,Streptomyces sp. NBC_01296,Streptomyces,sp.,NBC_01296,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,s__,sp_mash_007
+NBC_00320,MQ,Streptomyces sp. NBC_00320,Streptomyces,sp.,NBC_00320,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_007
+NBC_00062,MQ,Streptomyces sp. NBC_00062,Streptomyces,sp.,NBC_00062,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,sp003846175,
+NBC_00150,HQ,Streptomyces sp. NBC 00150,Streptomyces,sp.,NBC 00150,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_020
+NBC_00654,MQ,Streptomyces sp. NBC_00654,Streptomyces,sp.,NBC_00654,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,s__,sp_mash_079
+NBC_00452,MQ,Streptomyces sp. NBC_00452,Streptomyces,sp.,NBC_00452,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_002
+NBC_01264,MQ,Streptomyces sp. NBC_01264,Streptomyces,sp.,NBC_01264,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,s__,sp_mash_080
+NBC_01619,MQ,Streptomyces sp. NBC_01619,Streptomyces,sp.,NBC_01619,soil,Denmark,"Hedeland, Roskilde",55.6197 N 12.1600 E,2021-04,g__Streptomyces,s__,sp_mash_038
+NBC_01481,MQ,Streptomyces sp. NBC_01481,Streptomyces,sp.,NBC_01481,soil,Denmark,"Moens Klint, 5, next to creek",54.9711 N 12.5508 E,2020-07,g__Streptomyces,s__,sp_mash_011
+NBC_00410,MQ,Aldersonia sp. NBC_00410,Aldersonia,sp.,NBC_00410,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Aldersonia,s__,sp_mash_081
+NBC_01634,MQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01634,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_00154,MQ,Streptomyces sp. NBC_00154,Streptomyces,sp.,NBC_00154,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_001
+NBC_00534,MQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00534,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_00052,MQ,Streptomyces sp. NBC_00052,Streptomyces,sp.,NBC_00052,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp003846175,
+NBC_00198,MQ,Streptomyces sp. NBC_00198,Streptomyces,sp.,NBC_00198,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,sp002078175,
+NBC_00474,MQ,Streptomyces sp. NBC_00474,Streptomyces,sp.,NBC_00474,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_002
+NBC_01458,MQ,Streptomyces viridodiastaticus,Streptomyces,viridodiastaticus,NBC_01458,,Denmark,Aebeloe,55.63800 N 10.17497 E,2020-07-01,g__Streptomyces,albogriseolus,
+NBC_00038,MQ,Streptomyces sp. NBC_00038,Streptomyces,sp.,NBC_00038,,Denmark,"Lyngby, Backyard",55.7717 N 12.5011 E,2016-07-25,g__Streptomyces,s__,sp_mash_005
+NBC_00006,MQ,Streptomyces sp. NBC_00006,Streptomyces,sp.,NBC_00006,soil,Denmark,"Lyngby Soe, Under a log near the water",55.7733 N 12.4928 E,2016-07,g__Streptomyces,s__,sp_mash_003
+NBC_00231,MQ,Streptomyces canus,Streptomyces,canus,NBC_00231,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,canus,
+NBC_00338,MQ,Streptomyces sp. NBC_00338,Streptomyces,sp.,NBC_00338,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,s__,sp_mash_021
+NBC_01263,MQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_01263,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Kitasatospora,purpeofusca,
+NBC_00094,MQ,Streptomyces sp. NBC_00094,Streptomyces,sp.,NBC_00094,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,s__,sp_mash_082
+NBC_00282,MQ,Streptomyces antibioticus,Streptomyces,antibioticus,NBC_00282,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,antibioticus_B,
+NBC_01551,MQ,Streptomyces sp. NBC_01551,Streptomyces,sp.,NBC_01551,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,s__,sp_mash_037
+NBC_00362,MQ,Micromonospora sp. NBC_00362,Micromonospora,sp.,NBC_00362,soil,Germany,"Buehl, Compost heap",,2016-11,g__Micromonospora,sp018070325,
+NBC_01424,MQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01424,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,microflavus,
+NBC_01433,MQ,Streptomyces sp. NBC_01433,Streptomyces,sp.,NBC_01433,,Denmark,"Filsoe, under moss",55.70383 N 8.20525 E,2020-07-01,g__Streptomyces,sp001905125,
+NBC_01345,MQ,Streptomyces griseus,Streptomyces,griseus,NBC_01345,,Denmark,"Hilleroed, Ny Hammersholt, compost 5 cm deep",,2020-08-23,g__Streptomyces,fimicarius,
+NBC_01273,MQ,Streptomyces antibioticus,Streptomyces,antibioticus,NBC_01273,,Germany,"Dorsten, Germany, Compost pile",,2020-07-01,g__Streptomyces,antibioticus_B,
+NBC_01518,HQ,Streptomyces sp. NBC_01518,Streptomyces,sp.,NBC_01518,,Denmark,"Alleroed, Alleroed aebleplantage 2 - by path",,2020-09-20,g__Streptomyces,sp000716605,
+NBC_01764,MQ,Streptomyces sp. NBC_01764,Streptomyces,sp.,NBC_01764,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_004
+NBC_00568,MQ,Streptomyces sp. NBC_00568,Streptomyces,sp.,NBC_00568,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_022
+NBC_00026,MQ,Streptomyces erythrochromogenes,Streptomyces,erythrochromogenes,NBC_00026,soil,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09,g__Streptomyces,erythrochromogenes,
+NBC_00102,MQ,Streptomyces sp. NBC_00102,Streptomyces,sp.,NBC_00102,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_083
+NBC_00124,MQ,Streptomyces sp. NBC_00124,Streptomyces,sp.,NBC_00124,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,sp000972385,
+NBC_01500,MQ,Streptomyces sp. NBC_01500,Streptomyces,sp.,NBC_01500,,Denmark,"Thy National Park, dry moor in national park",56.99442 N 8.45322 E,2020-07-01,g__Streptomyces,s__,sp_mash_014
+NBC_00091,MQ,Streptomyces sp. NBC_00091,Streptomyces,sp.,NBC_00091,soil,Germany,"Buehl, compost heap",,2016-08,g__Streptomyces,s__,sp_mash_084
+NBC_00207,HQ,Streptomyces sp. NBC_00207,Streptomyces,sp.,NBC_00207,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,s__,sp_mash_025
+NBC_00034,MQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00034,soil,Denmark,"Lyngby, Backyard where Pep used to live in Lyngby",55.7717 N 12.5011 E,2016-07,g__Streptomyces,phaeochromogenes,
+NBC_01275,MQ,Streptomyces sp. NBC_01275,Streptomyces,sp.,NBC_01275,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,s__,sp_mash_085
+NBC_00642,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC 00642,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_00183,MQ,Streptomyces sp. NBC_00183,Streptomyces,sp.,NBC_00183,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,s__,sp_mash_002
+NBC_01721,MQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01721,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Streptomyces,papulosus,
+NBC_00276,MQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00276,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,virginiae_A,
+NBC_01416,MQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_01416,,Denmark,"Lyngby Aamose, Aamose4, Polypody & cattail riverside (6cm)",55.779064 N 12.461126 E,2020-09-01,g__Kitasatospora,purpeofusca,
+NBC_01600,MQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_01600,soil,Denmark,Hoeje Taastrup,55.6539 N 12.2658 E,2021-04,g__Streptomyces,phaeochromogenes,
+NBC_00828,HQ,Streptomyces sp. NBC_00828,Streptomyces,sp.,NBC_00828,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_005
+NBC_00555,MQ,Streptomyces sp. NBC_00555,Streptomyces,sp.,NBC_00555,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,sp018614155,
+NBC_01239,MQ,Streptomyces sp. NBC_01239,Streptomyces,sp.,NBC_01239,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,sp016893485,
+NBC_00059,MQ,Streptomyces sp. NBC_00059,Streptomyces,sp.,NBC_00059,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,sp001905505,
+NBC_00424,MQ,Streptomyces sp. NBC_00424,Streptomyces,sp.,NBC_00424,,Denmark,"Hilleroed, Garden; pile of trees and branches",,2016-10-17/2016-10-30,g__Streptomyces,sp001279725,
+NBC_00439,MQ,Streptomyces sp. NBC_00439,Streptomyces,sp.,NBC_00439,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Streptomyces,sp003846175,
+NBC_01016,MQ,Streptomyces sp. NBC_01016,Streptomyces,sp.,NBC_01016,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_003
+NBC_01728,MQ,Streptomyces sp. NBC_01728,Streptomyces,sp.,NBC_01728,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,s__,sp_mash_004
+NBC_01238,HQ,Streptomyces sp. NBC_01238,Streptomyces,sp.,NBC_01238,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_006
+NBC_00240,MQ,Kitasatospora sp. NBC_00240,Kitasatospora,sp.,NBC_00240,,Denmark,"Hoersholm, Bench next to a building in Hoersholm",55.8706 N 12.4950 E,2016-08-26,g__Kitasatospora,s__,sp_mash_086
+NBC_00638,MQ,Streptomyces sp. NBC_00638,Streptomyces,sp.,NBC_00638,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_022
+NBC_01719,MQ,Streptomyces sp. NBC_01719,Streptomyces,sp.,NBC_01719,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,s__,sp_mash_004
+NBC_00340,MQ,Streptomyces sp. NBC_00340,Streptomyces,sp.,NBC_00340,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp002078175,
+NBC_01767,MQ,Streptomyces sp. NBC_01767,Streptomyces,sp.,NBC_01767,soil,Denmark,"Jaegerspris bugt, under a tree",55.8544 N 11.9594 E,2021-04,g__Streptomyces,sp003846175,
+NBC_01789,MQ,Streptomyces sp. NBC_01789,Streptomyces,sp.,NBC_01789,soil,Denmark,"Samsoe, Sandy soil right next to beach in Issehoved",56.0000 N 10.5572 E,2021-09,g__Streptomyces,sp008042035,
+NBC_01311,MQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_01311,soil,Denmark,"Livoe, Gammel stald",56.8961 N 9.0731 E,2020-07,g__Streptomyces,virginiae_A,
+NBC_00018,MQ,Streptomyces bobili,Streptomyces,bobili,NBC_00018,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,bobili,
+NBC_00994,MQ,Streptomyces canus,Streptomyces,canus,NBC_00994,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,canus,
+NBC_00249,MQ,Streptomyces sp. NBC_00249,Streptomyces,sp.,NBC_00249,soil,Denmark,"Lyngby, Backyard where Pep used to live in Lyngby",55.7717 N 12.5011 E,2016-07,g__Streptomyces,s__,sp_mash_087
+NBC_00409,MQ,Micromonospora lupini,Micromonospora,lupini,NBC_00409,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Micromonospora,lupini,
+NBC_00268,MQ,Streptomyces sp. NBC_00268,Streptomyces,sp.,NBC_00268,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_004
+NBC_01472,MQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_01472,,Denmark,"Knudsoe, dry creekbed",56.09617 N 9.77497 E,2020-07-01,g__Streptomyces,mirabilis,
+NBC_00051,MQ,Streptomyces sp. NBC_00051,Streptomyces,sp.,NBC_00051,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp003846175,
+NBC_01408,MQ,Streptomyces sp. NBC_01408,Streptomyces,sp.,NBC_01408,,Denmark,"Moens Klint, next to creek",54.97122 N 12.55072 E,2020-07-01,g__Streptomyces,s__,sp_mash_088
+NBC_01669,MQ,Streptomyces sp. NBC_01669,Streptomyces,sp.,NBC_01669,soil,Denmark,"Kolding, klatrepark",55.4742 N 9.4314 E,2021-05,g__Streptomyces,s__,sp_mash_026
+NBC_00140,MQ,Streptomyces sp. NBC_00140,Streptomyces,sp.,NBC_00140,soil,Denmark,"Hoersholm, Bench next to CFB building in Hoersholm",55.8706 N 12.4950 E,2016-08,g__Streptomyces,sp000972385,
+NBC_01363,MQ,Streptomyces sp. NBC_01363,Streptomyces,sp.,NBC_01363,,Denmark,"Bukkemose, young forest soil",54.90656 N 9.88431 E,2020-07-01,g__Streptomyces,s__,sp_mash_039
+NBC_01221,MQ,Streptomyces sp. NBC_01221,Streptomyces,sp.,NBC_01221,,Denmark,"Knudsoe, next to creek",56.09653 N 9.77519 E,2020-07-01,g__Streptomyces,s__,sp_mash_006
+NBC_00378,MQ,Streptomyces sp. NBC_00378,Streptomyces,sp.,NBC_00378,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_040
+NBC_01373,MQ,Streptomyces sp. NBC_01373,Streptomyces,sp.,NBC_01373,,Denmark,Stevns Klint,55.27703 N 12.44450 E,2020-07-01,g__Streptomyces,s__,sp_mash_027
+NBC_01548,MQ,Streptomyces viridodiastaticus,Streptomyces,viridodiastaticus,NBC_01548,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,albogriseolus,
+NBC_00199,MQ,Streptomyces sp. NBC_00199,Streptomyces,sp.,NBC_00199,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp001428885,
+NBC_00047,MQ,Streptomyces sp. NBC_00047,Streptomyces,sp.,NBC_00047,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp018614155,
+NBC_00847,MQ,Streptomyces sp. NBC_00847,Streptomyces,sp.,NBC_00847,soil,Denmark,"Koege, Koege forest",,2017-05,g__Streptomyces,s__,sp_mash_002
+NBC_00643,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC 00643,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_01464,MQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01464,,Denmark,"Kerteminde, Sybergland",55.47183 N 10.65444 E,2020-07-01,g__Streptomyces,anulatus,
+NBC_01697,MQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_01697,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,mirabilis,
+NBC_01242,MQ,Streptomyces sp. NBC_01242,Streptomyces,sp.,NBC_01242,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_006
+NBC_00078,MQ,Streptomyces sp. NBC_00078,Streptomyces,sp.,NBC_00078,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,s__,sp_mash_002
+NBC_01285,MQ,Streptomyces sp. NBC_01285,Streptomyces,sp.,NBC_01285,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,laculatispora,
+NBC_01214,MQ,Streptomyces sp. NBC_01214,Streptomyces,sp.,NBC_01214,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,s__,sp_mash_012
+NBC_00063,MQ,Streptomyces sp. NBC_00063,Streptomyces,sp.,NBC_00063,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_015
+NBC_00263,MQ,Streptomyces prunicolor,Streptomyces,prunicolor,NBC_00263,soil,Denmark,"Hoersholm, Bench next to CFB building in Hoersholm",55.8706 N 12.4950 E,2016-08,g__Streptomyces,prunicolor,
+NBC_00291,MQ,Streptomyces sp. NBC_00291,Streptomyces,sp.,NBC_00291,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,sp001279725,
+NBC_00572,MQ,Streptomyces sp. NBC_00572,Streptomyces,sp.,NBC_00572,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,s__,sp_mash_041
+NBC_00640,MQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00640,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,virginiae_A,
+NBC_01457,MQ,Streptomyces platensis,Streptomyces,platensis,NBC_01457,soil,Denmark,"Bogense, 44.",55.5617 N 10.1464 E,2020-07,g__Streptomyces,platensis,
+NBC_00892,MQ,Streptomyces sp. NBC_00892,Streptomyces,sp.,NBC_00892,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,sp003846175,
+NBC_00174,MQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_00174,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,mirabilis,
+NBC_00620,MQ,Streptomyces sp. NBC_00620,Streptomyces,sp.,NBC_00620,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_005
+NBC_01446,MQ,Streptomyces sp. NBC_01446,Streptomyces,sp.,NBC_01446,,Denmark,"Knudsoe, dry creekbed",56.09617 N 9.77497 E,2020-07-01,g__Streptomyces,sp003403055,
+NBC_00401,MQ,Streptomyces sp. NBC_00401,Streptomyces,sp.,NBC_00401,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,sp003403055,
+NBC_01549,MQ,Streptomyces sp. NBC_01549,Streptomyces,sp.,NBC_01549,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,s__,sp_mash_004
+NBC_00687,MQ,Streptomyces sp. NBC_00687,Streptomyces,sp.,NBC_00687,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,sp002078175,
+NBC_01741,MQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_01741,soil,Faroe Islands,"NA, Torshavn garden under a maple tree, about 100 m altitude",62.0214 N 6.7889 W,2021-06,g__Streptomyces,mirabilis,
+NBC_00141,MQ,Streptomyces atratus,Streptomyces,atratus,NBC_00141,,Denmark,"Hoersholm, Bench next to a building in Hoersholm",55.8706 N 12.4950 E,2016-08-26,g__Streptomyces,atratus,
+NBC_01757,MQ,Micromonospora peucetia,Micromonospora,peucetia,NBC_01757,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Micromonospora,peucetia,
+NBC_00878,MQ,Streptomyces sp. NBC_00878,Streptomyces,sp.,NBC_00878,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_089
+NBC_01443,MQ,Streptomyces sp. NBC_01443,Streptomyces,sp.,NBC_01443,,Denmark,"Lindholm Hoeje, viking burial ground",57.07822 N 9.91219 E,2020-07-01,g__Streptomyces,s__,sp_mash_007
+NBC_00906,MQ,Streptomyces sp. NBC_00906,Streptomyces,sp.,NBC_00906,,Denmark,"Koege, Koege water hole",,2017-05-01/2017-05-31,g__Streptomyces,sp003846175,
+NBC_00237,MQ,Streptomyces sp. NBC_00237,Streptomyces,sp.,NBC_00237,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,s__,sp_mash_090
+NBC_00661,HQ,Streptomyces pseudovenezuelae,Streptomyces,pseudovenezuelae,NBC 00661,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,pseudovenezuelae,
+NBC_01388,HQ,Nocardia sp. NBC_01388,Nocardia,sp.,NBC_01388,,Denmark,"Flade, Nykoebing Mors, Hanklit Fur formation clay",56.9350 N 8.6417 E,2020-07-21,g__Nocardia,s__,sp_mash_091
+NBC_01331,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01331,,Denmark,"Birkeroed, Raavaenget 34, near Sct. Hansurt 2",,2020-08-01,g__Streptomyces,albidoflavus,
+NBC_01184,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01184,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,microflavus,
+NBC_01769,HQ,Streptomyces brevispora,Streptomyces,brevispora,NBC 01769,soil,Denmark,"Samsoe, Under a tree in forrest next to beach in Issehoved",55.9978 N 10.5558 E,2021-09,g__Streptomyces,brevispora,
+NBC_00273,HQ,Streptomyces sp. NBC_00273,Streptomyces,sp.,NBC_00273,,Germany,"Baiersbronn / Baden-Wurttem, grassy slope",,2016-09-23,g__Streptomyces,s__,sp_mash_012
+NBC_00731,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00731,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,longwoodensis,
+NBC_01187,HQ,Streptomyces sp. NBC_01187,Streptomyces,sp.,NBC_01187,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,s__,sp_mash_023
+NBC_01629,HQ,Streptomyces thermoviolaceus,Streptomyces,thermoviolaceus,NBC 01629,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,thermodiastaticus,
+NBC_01290,HQ,Micromonospora maris,Micromonospora,maris,NBC_01290,,Denmark,"Knudsoe, riverbed",56.09636 N 9.77494 E,2020-07-01,g__Micromonospora,gifhornensis,
+NBC_00869,HQ,Streptomyces sp. NBC_00869,Streptomyces,sp.,NBC_00869,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,sp900105515,
+NBC_00454,HQ,Streptomyces sp. NBC 00454,Streptomyces,sp.,NBC 00454,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_042
+NBC_01626,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01626,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_01701,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01701,soil,Netherlands,"Hegelsom, Vegetable garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01485,HQ,Streptomyces sp. NBC_01485,Streptomyces,sp.,NBC_01485,,Denmark,Bogense,55.56158 N 10.14636 E,2020-07-01,g__Streptomyces,s__,sp_mash_092
+NBC_01298,HQ,Streptomyces sp. NBC_01298,Streptomyces,sp.,NBC_01298,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_093
+NBC_01730,HQ,Nocardia sp. NBC 01730,Nocardia,sp.,NBC 01730,soil,Denmark,"Koelstrup, at the green coast area of Kertinge Nor, wet and nutrient rich soil",55.4250 N 10.5819 E,2021-04,g__Nocardia,s__,sp_mash_094
+NBC_01800,HQ,Streptomyces sp. NBC 01800,Streptomyces,sp.,NBC 01800,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01654,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01654,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_01612,HQ,Streptomyces sp. NBC 01612,Streptomyces,sp.,NBC_01612,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,sp001298545,
+NBC_01320,HQ,Streptomyces sp. NBC_01320,Streptomyces,sp.,NBC_01320,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_026
+NBC_01365,HQ,Streptomyces uncialis,Streptomyces,uncialis,NBC_01365,,Denmark,"Esbjerg, pinetree forest",55.54717 N 8.37292 E,2020-07-01,g__Streptomyces,uncialis,
+NBC_01658,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01658,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,albidoflavus,
+NBC_01578,HQ,Streptomyces sp. NBC 01578,Streptomyces,sp.,NBC 01578,soil,Denmark,"Marselisborg, Aarhus, Bushes by a brook (15cm)",56.1292 N 10.2097 E,2021-03,g__Streptomyces,s__,sp_mash_001
+NBC_01176,HQ,Streptomyces sp. NBC_01176,Streptomyces,sp.,NBC_01176,,Denmark,"Havnestranden dunes, Anholt, soil under Rosa rugosa",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,s__,sp_mash_036
+NBC_01653,HQ,Streptomyces sp. NBC 01653,Streptomyces,sp.,NBC 01653,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,s__,sp_mash_001
+NBC_01175,HQ,Streptomyces sp. NBC_01175,Streptomyces,sp.,NBC_01175,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,sp002711365,
+NBC_01475,HQ,Streptomyces canus,Streptomyces,canus,NBC_01475,,Denmark,"Slagelse, Charlottedal Alle",55.38228 N 11.38475 E,2020-07-01,g__Streptomyces,canus,
+NBC_00304,HQ,Streptomyces sp. NBC 00304,Streptomyces,sp.,NBC_00304,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp001905365,
+NBC_01477,HQ,Streptomyces sp. NBC 01477,Streptomyces,sp.,NBC_01477,soil,Denmark,"Lyngby, Aamose2, Tree on a hill (6cm)",55.7778 N 12.4550 E,2020-09,g__Streptomyces,s__,sp_mash_095
+NBC_01550,HQ,Streptomyces sp. NBC 01550,Streptomyces,sp.,NBC 01550,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,sp900116325,
+NBC_01432,HQ,Streptomyces niveus,Streptomyces,niveus,NBC_01432,,Denmark,"Filsoe, under moss",55.70383 N 8.20525 E,2020-07-01,g__Streptomyces,niveus,
+NBC_00831,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00831,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,virginiae_A,
+NBC_00236,HQ,Streptomyces sp. NBC_00236,Streptomyces,sp.,NBC_00236,,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07-25,g__Streptomyces,s__,sp_mash_096
+NBC_00045,HQ,Streptomyces sp. NBC 00045,Streptomyces,sp.,NBC_00045,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_010
+NBC_00035,HQ,Streptomyces sp. NBC_00035,Streptomyces,sp.,NBC_00035,,Denmark,"Lyngby, Backyard",55.7717 N 12.5011 E,2016-07-25,g__Streptomyces,s__,sp_mash_005
+NBC_00445,HQ,Streptomyces sp. NBC 00445,Streptomyces,sp.,NBC_00445,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,sp017948455,
+NBC_01613,HQ,Streptomyces sp. NBC 01613,Streptomyces,sp.,NBC_01613,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_043
+NBC_01021,HQ,Streptomyces prunicolor,Streptomyces,prunicolor,NBC_01021,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,prunicolor,
+NBC_01410,HQ,Streptomyces sp. NBC_01410,Streptomyces,sp.,NBC_01410,,Denmark,"Moens Klint, forest above cliff",54.97033 N 12.54850 E,2020-07-01,g__Streptomyces,s__,sp_mash_011
+NBC_01515,HQ,Streptomyces sp. NBC_01515,Streptomyces,sp.,NBC_01515,,Denmark,"Lemvig, Klosterheden near hundeskoven",56.484784 N 8.364621 E,2020-10-01/2020-10-31,g__Streptomyces,s__,sp_mash_016
+NBC_00121,HQ,Streptomyces sp. NBC 00121,Streptomyces,sp.,NBC_00121,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_001
+NBC_00208,HQ,Streptomyces sp. NBC 00208,Streptomyces,sp.,NBC_00208,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_001
+NBC_01491,HQ,Spirillospora sp. NBC 01491,Spirillospora,sp.,NBC_01491,soil,Denmark,"Storskov, 4. dry creek (Camp Adventure)",55.2567 N 11.9775 E,2020-07,g__Spirillospora,s__,sp_mash_097
+NBC_00382,HQ,Kribbella sp. NBC 00382,Kribbella,sp.,NBC_00382,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Kribbella,s__,sp_mash_098
+NBC_00857,HQ,Streptomyces sp. NBC 00857,Streptomyces,sp.,NBC_00857,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_099
+NBC_00514,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00514,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,europaeiscabiei,
+NBC_00084,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_00084,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,zaomyceticus,
+NBC_00044,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_00044,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,zaomyceticus,
+NBC_00285,HQ,Streptomyces sp. NBC 00285,Streptomyces,sp.,NBC_00285,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,s__,sp_mash_100
+NBC_00196,HQ,Microbispora hainanensis,Microbispora,hainanensis,NBC_00196,,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.965505 N 3.206583 W,2016-08-19,g__Microbispora,hainanensis,
+NBC_01792,HQ,Streptomyces cyaneofuscatus,Streptomyces,cyaneofuscatus,NBC 01792,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,cyaneofuscatus,
+NBC_00589,HQ,Streptomyces sp. NBC 00589,Streptomyces,sp.,NBC_00589,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_013
+NBC_01677,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01677,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01665,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01665,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00283,HQ,Streptomyces goshikiensis,Streptomyces,goshikiensis,NBC_00283,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,goshikiensis,
+NBC_00278,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC 00278,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,zaomyceticus,
+NBC_00099,HQ,Streptomyces coelicoflavus,Streptomyces,coelicoflavus,NBC_00099,soil,Portugal,"NA, Joao s garden",,2016-08,g__Streptomyces,coelicoflavus,
+NBC_00701,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00701,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,virginiae_A,
+NBC_00525,HQ,Streptomyces sp. NBC_00525,Streptomyces,sp.,NBC_00525,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,sp003248355,
+NBC_01256,HQ,Streptomyces caniferus,Streptomyces,caniferus,NBC_01256,,Denmark,Trelde Naes,55.62394 N 9.84150 E,2020-07-01,g__Streptomyces,caniferus,
+NBC_00872,HQ,Streptomyces sp. NBC_00872,Streptomyces,sp.,NBC_00872,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_101
+NBC_01499,HQ,Nocardia sp. NBC_01499,Nocardia,sp.,NBC_01499,,Denmark,"Thy National Park, grassy dunes",56.95867 N 8.38231 E,2020-07-01,g__Nocardia,s__,sp_mash_102
+NBC_00356,HQ,Streptomyces sp. NBC 00356,Streptomyces,sp.,NBC_00356,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_01414,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01414,soil,Denmark,"Lyngby, Aamose3, Wild blackberries (5cm)",55.7794 N 12.4550 E,2020-09,g__Streptomyces,anulatus,
+NBC_00715,HQ,Streptomyces sp. NBC 00715,Streptomyces,sp.,NBC_00715,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,sp002078175,
+NBC_01010,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01010,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,anulatus,
+NBC_01213,HQ,Streptomyces sp. NBC_01213,Streptomyces,sp.,NBC_01213,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,sp008042155,
+NBC_00597,HQ,Streptomyces sp. NBC 00597,Streptomyces,sp.,NBC 00597,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_010
+NBC_01680,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01680,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01419,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01419,,Denmark,"Lyngby Aamose, Aamose9, Field of tall (30cm) blueberries growing on a swampy terrain. (10cm)",55.779057 N 12.470209 E,2020-09-01,g__Streptomyces,anulatus,
+NBC_00324,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC 00324,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,virginiae_A,
+NBC_00656,HQ,Streptomyces sp. NBC_00656,Streptomyces,sp.,NBC 00656,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_017
+NBC_00267,HQ,Streptomyces sp. NBC 00267,Streptomyces,sp.,NBC_00267,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_103
+NBC_00350,HQ,Streptomyces canus,Streptomyces,canus,NBC_00350,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,canus,
+NBC_01403,HQ,Sphaerisporangium sp. NBC_01403,Sphaerisporangium,sp.,NBC_01403,,Denmark,"Vrads, Field of grass / brush",56.0600 N 9.4644 E,2020-06-29,g__Sphaerisporangium,s__,sp_mash_104
+NBC_01274,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01274,,Germany,"Dorsten, Germany, Compost pile",,2020-07-01,g__Streptomyces,albidoflavus,
+NBC_00500,HQ,Streptomyces sp. NBC 00500,Streptomyces,sp.,NBC_00500,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_013
+NBC_01456,HQ,Streptomyces sp. NBC 01456,Streptomyces,sp.,NBC_01456,soil,Denmark,"Trelde Naes, 40)",55.6239 N 9.8414 E,2020-07,g__Streptomyces,s__,sp_mash_044
+NBC_00595,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00595,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,griseoaurantiacus,
+NBC_01333,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01333,,Denmark,"Birkeroed, Raavaenget 34, near Sct. Hansurt 1",,2020-08-01,g__Streptomyces,anulatus,
+NBC_00641,HQ,Streptomyces halstedii,Streptomyces,halstedii,NBC 00641,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,halstedii,
+NBC_01268,HQ,Streptomyces sp. NBC_01268,Streptomyces,sp.,NBC_01268,,Germany,"Essen, Germany, Compost pile",,2020-07-01,g__Streptomyces,s__,sp_mash_105
+NBC_00871,HQ,Streptomyces canus,Streptomyces,canus,NBC_00871,soil,Denmark,"Koege, Koege forest",,2017-05,g__Streptomyces,canus,
+NBC_01673,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01673,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_01542,HQ,Streptomyces niveus,Streptomyces,niveus,NBC 01542,soil,Denmark,"Sjaellands Odde, 60. Gniben, sheep forest",56.0061 N 11.2789 E,2020-09,g__Streptomyces,niveus,
+NBC_01778,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01778,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,cellulosae,
+NBC_01426,HQ,Streptomyces sp. NBC 01426,Streptomyces,sp.,NBC_01426,soil,Denmark,"Nordbjerg, Anholt, 1. anthill",56.7119 N 11.5400 E,2020-06,g__Streptomyces,sp001279725,
+NBC_01022,MQ,Streptomyces sp. NBC_01022,Streptomyces,sp.,NBC_01022,,Denmark,"Soroe Skov, Middle of forest floor",55.3803 N 11.5597 E,2019-07-01/2019-07-31,g__Streptomyces,s__,sp_mash_045
+NBC_01664,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01664,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00391,HQ,Streptomyces sp. NBC_00391,Streptomyces,sp.,NBC_00391,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,s__,sp_mash_009
+NBC_00888,HQ,Embleya sp. NBC 00888,Embleya,sp.,NBC_00888,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Embleya,s__,sp_mash_106
+NBC_01708,HQ,Streptomyces sp. NBC 01708,Streptomyces,sp.,NBC 01708,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,sp002711365,
+NBC_00144,HQ,Streptomyces sp. NBC 00144,Streptomyces,sp.,NBC_00144,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,s__,sp_mash_008
+NBC_01581,HQ,Streptomyces glauciniger,Streptomyces,glauciniger,NBC_01581,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,glauciniger,
+NBC_01168,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01168,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,microflavus,
+NBC_00444,HQ,Streptomyces sp. NBC 00444,Streptomyces,sp.,NBC_00444,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,sp017948455,
+NBC_01675,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01675,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00217,HQ,Streptomyces achromogenes,Streptomyces,achromogenes,NBC_00217,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,achromogenes,
+NBC_01387,HQ,Streptomyces sp. NBC_01387,Streptomyces,sp.,NBC_01387,,Denmark,"Billum, under moss",55.60017 N 8.28892 E,2020-07-01,g__Streptomyces,s__,sp_mash_014
+NBC_00504,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00504,soil,Denmark,"Hilleroed, Olivier s garden; a pot where he grew pot several years ago",,2016-10,g__Streptomyces,griseoaurantiacus,
+NBC_00392,HQ,Nocardia puris,Nocardia,puris,NBC_00392,soil,Italy,"Palermo, Soil / sand stuck inside an anfora (like a vase)",,2016-11,g__Nocardia,puris,
+NBC_00830,MQ,Streptomyces sp. NBC 00830,Streptomyces,sp.,NBC_00830,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_107
+NBC_00443,HQ,Streptomyces sp. NBC 00443,Streptomyces,sp.,NBC_00443,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,s__,sp_mash_018
+NBC_01497,HQ,Streptomyces sp. NBC_01497,Streptomyces,sp.,NBC_01497,,Denmark,"Filsoe, mossy soil under dead tree",55.70386 N 8.20600 E,2020-07-01,g__Streptomyces,s__,sp_mash_108
+NBC_01228,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_01228,,Denmark,"Livoe, old stables",56.8961 N 9.0731 E,2020-07-18,g__Streptomyces,zaomyceticus,
+NBC_00503,HQ,Streptomyces sp. NBC_00503,Streptomyces,sp.,NBC_00503,,Denmark,"Hilleroed, Garden; where his cat goes to the toilet",,2016-10-17/2016-10-30,g__Streptomyces,s__,sp_mash_042
+NBC_00311,HQ,Streptomyces sp. NBC 00311,Streptomyces,sp.,NBC_00311,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_01759,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01759,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,anulatus,
+NBC_00184,HQ,Streptomyces sp. NBC 00184,Streptomyces,sp.,NBC_00184,soil,Denmark,"Lyngby Soe, Under a log near the water",55.7733 N 12.4928 E,2016-07,g__Streptomyces,s__,sp_mash_017
+NBC_01611,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_01611,soil,Denmark,"Risskov, Bushes and trees in the park by the beach (10cm)",56.1911 N 10.2500 E,2021-03,g__Micromonospora,zamorensis,
+NBC_01510,HQ,Kribbella sp. NBC_01510,Kribbella,sp.,NBC_01510,,Denmark,"Knudsoe, dry creekbed",56.09617 N 9.77497 E,2020-07-01,g__Kribbella,s__,sp_mash_028
+NBC_01257,MQ,Streptomyces sp. NBC_01257,Streptomyces,sp.,NBC_01257,,Denmark,Trelde Naes,55.62394 N 9.84150 E,2020-07-01,g__Streptomyces,s__,sp_mash_021
+NBC_00088,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_00088,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,zaomyceticus,
+NBC_00507,HQ,Nonomuraea sp. NBC 00507,Nonomuraea,sp.,NBC_00507,soil,Italy,"Palermo, Soil / sand stuck inside an anfora (like a vase)",,2016-11,g__Nonomuraea,s__,sp_mash_109
+NBC_00990,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00990,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,anulatus,
+NBC_00125,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00125,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,virginiae_A,
+NBC_00187,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00187,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,phaeochromogenes,
+NBC_00712,HQ,Streptomyces luteogriseus,Streptomyces,luteogriseus,NBC_00712,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,luteogriseus,
+NBC_01267,HQ,Streptomyces sp. NBC_01267,Streptomyces,sp.,NBC_01267,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_014
+NBC_01007,MQ,Streptomyces sp. NBC 01007,Streptomyces,sp.,NBC_01007,soil,Denmark,"Lemvig, Julie s parent s field (backyard); was an old pig farm",,2019-08,g__Streptomyces,s__,sp_mash_110
+NBC_01750,HQ,Streptomyces sp. NBC 01750,Streptomyces,sp.,NBC 01750,soil,Denmark,"Kulhuse, Jaegerspris, grassy field",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_046
+NBC_00112,HQ,Micrococcus luteus,Micrococcus,luteus,NBC_00112,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Micrococcus,luteus,
+NBC_00598,HQ,Streptomyces pseudovenezuelae,Streptomyces,pseudovenezuelae,NBC_00598,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,pseudovenezuelae,
+NBC_01224,HQ,Streptomyces sp. NBC_01224,Streptomyces,sp.,NBC_01224,,Denmark,"Knudsoe, mossy forest soil",56.09619 N 9.77531 E,2020-07-01,g__Streptomyces,s__,sp_mash_111
+NBC_00118,HQ,Streptomyces sp. NBC 00118,Streptomyces,sp.,NBC_00118,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp003403055,
+NBC_00073,HQ,Streptomyces sp. NBC 00073,Streptomyces,sp.,NBC_00073,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_010
+NBC_01771,HQ,Streptomyces scopuliridis,Streptomyces,scopuliridis,NBC 01771,soil,Denmark,"Samsoe, Under a tree in forrest next to beach in Issehoved",55.9978 N 10.5558 E,2021-09,g__Streptomyces,scopuliridis,
+NBC_00632,HQ,Streptomyces canus,Streptomyces,canus,NBC_00632,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,canus,
+NBC_00119,HQ,Streptomyces sp. NBC 00119,Streptomyces,sp.,NBC_00119,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp003403055,
+NBC_00710,HQ,Streptomyces canus,Streptomyces,canus,NBC_00710,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,canus,
+NBC_01377,HQ,Nocardia sp. NBC_01377,Nocardia,sp.,NBC_01377,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Nocardia,s__,sp_mash_112
+NBC_01811,HQ,Streptosporangium subroseum,Streptosporangium,subroseum,NBC 01811,soil,Denmark,"Jaegerspris bugt, under a tree",55.8544 N 11.9594 E,2021-04,g__Streptosporangium,subroseum,
+NBC_00303,HQ,Streptomyces erythrochromogenes,Streptomyces,erythrochromogenes,NBC_00303,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,erythrochromogenes,
+NBC_01694,HQ,Streptomyces glauciniger,Streptomyces,glauciniger,NBC 01694,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,glauciniger,
+NBC_01780,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01780,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,cellulosae,
+NBC_01300,HQ,Kitasatospora sp. NBC_01300,Kitasatospora,sp.,NBC_01300,,Denmark,"Vrads, Field of grass / brush",56.0600 N 9.4644 E,2020-06-29,g__Kitasatospora,sp001625365,
+NBC_00540,MQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00540,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_01344,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01344,,Denmark,"Hilleroed, Leerbjerg Lod, Bur - reed rhizome",,2020-08-23,g__Streptomyces,papulosus,
+NBC_01314,MQ,Streptomyces sp. NBC_01314,Streptomyces,sp.,NBC_01314,,Denmark,"Livoe, old stables",56.8961 N 9.0731 E,2020-07-18,g__Streptomyces,s__,sp_mash_113
+NBC_01657,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01657,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_00286,HQ,Streptomyces sp. NBC 00286,Streptomyces,sp.,NBC_00286,soil,Spain,Andratx,39.5392 N 2.4264 E,2016-10,g__Streptomyces,s__,sp_mash_114
+NBC_00821,HQ,Micromonospora sp. NBC 00821,Micromonospora,sp.,NBC_00821,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Micromonospora,sp018070325,
+NBC_01218,HQ,Streptomyces sp. NBC_01218,Streptomyces,sp.,NBC_01218,,Denmark,"Knudsoe, riverbed",56.09636 N 9.77494 E,2020-07-01,g__Streptomyces,s__,sp_mash_047
+NBC_01078,HQ,Streptomyces globisporus,Streptomyces,globisporus,NBC_01078,,Denmark,"Moens Klint, shrubs growing ~10 m above the beach. Soil has lots of limestone",54.9544 N 12.5492 E,2019-07-01/2019-07-31,g__Streptomyces,globisporus,
+NBC_01369,HQ,Streptomyces sp. NBC_01369,Streptomyces,sp.,NBC_01369,,Denmark,"Hilleroed, Ny Hammersholt, Meadow path by house",,2020-08-23,g__Streptomyces,sp003846175,
+NBC_00161,HQ,Streptomyces sp. NBC 00161,Streptomyces,sp.,NBC_00161,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,s__,sp_mash_007
+NBC_00636,HQ,Streptomyces canus,Streptomyces,canus,NBC 00636,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,canus,
+NBC_00487,HQ,Streptomyces sp. NBC_00487,Streptomyces,sp.,NBC_00487,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,s__,sp_mash_009
+NBC_00450,HQ,Streptomyces violaceus,Streptomyces,violaceus,NBC_00450,,Spain,"Mallorca, Pollenca",39.8714 N 3.0861 E,2016-10-10/2016-10-16,g__Streptomyces,violaceus,
+NBC_01318,HQ,Streptomyces sp. NBC_01318,Streptomyces,sp.,NBC_01318,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_001
+NBC_01774,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC 01774,soil,Denmark,"Samsoe, Sandy soil right next to beach in Issehoved",56.0000 N 10.5572 E,2021-09,g__Streptomyces,decoyicus,
+NBC_00049,HQ,Streptomyces sp. NBC_00049,Streptomyces,sp.,NBC_00049,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,s__,sp_mash_115
+NBC_01281,HQ,Streptomyces sp. NBC_01281,Streptomyces,sp.,NBC_01281,,Denmark,"Edge of Flakket bog, Anholt, soil in bog",56.718442 N 11.538880 E,2020-06-28,g__Streptomyces,sp002078175,
+NBC_01011,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_01011,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,phaeochromogenes,
+NBC_01646,HQ,Streptomyces hirsutus,Streptomyces,hirsutus,NBC 01646,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,hirsutus,
+NBC_00879,HQ,Streptomyces sp. NBC 00879,Streptomyces,sp.,NBC_00879,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_011
+NBC_00361,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00361,soil,Germany,"Buehl, Compost heap",,2016-11,g__Micromonospora,zamorensis,
+NBC_00122,HQ,Streptomyces sp. NBC_00122,Streptomyces,sp.,NBC_00122,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,s__,sp_mash_024
+NBC_00403,HQ,Nocardia sp. NBC 00403,Nocardia,sp.,NBC_00403,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Nocardia,s__,sp_mash_048
+NBC_01556,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01556,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,anulatus,
+NBC_00435,HQ,Streptomyces sp. NBC_00435,Streptomyces,sp.,NBC_00435,,Denmark,"Hilleroed, Garden; pile of trees and branches",,2016-10-17/2016-10-30,g__Streptomyces,s__,sp_mash_116
+NBC_01562,HQ,Streptomyces sp. NBC 01562,Streptomyces,sp.,NBC 01562,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,s__,sp_mash_004
+NBC_01271,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01271,,Germany,"Dorsten, Germany, Compost pile",,2020-07-01,g__Streptomyces,albidoflavus,
+NBC_00028,HQ,Streptomyces sp. NBC 00028,Streptomyces,sp.,NBC_00028,soil,Portugal,"NA, Joao s garden",,2016-08,g__Streptomyces,s__,sp_mash_049
+NBC_01422,HQ,Streptomyces sp. NBC_01422,Streptomyces,sp.,NBC_01422,,Denmark,"Naerum, Naerum 3, soil near anthill entrance, <5 cm deep",,2020-09-08,g__Streptomyces,sp002711365,
+NBC_00400,HQ,Streptomyces sp. NBC 00400,Streptomyces,sp.,NBC_00400,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,sp900187385,
+NBC_01527,HQ,Streptomyces sp. NBC_01527,Streptomyces,sp.,NBC_01527,,Denmark,"Sjaellands Odde, Gniben",56.010482 N 11.277700 E,2020-09-26,g__Streptomyces,sp900116325,
+NBC_01579,HQ,Streptomyces sp. NBC 01579,Streptomyces,sp.,NBC_01579,soil,Denmark,"Marselisborg, Aarhus, Bushes by a brook (15cm)",56.1292 N 10.2097 E,2021-03,g__Streptomyces,s__,sp_mash_001
+NBC_00211,HQ,Streptomyces sp. NBC 00211,Streptomyces,sp.,NBC_00211,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,s__,sp_mash_010
+NBC_01023,HQ,Streptomyces sp. NBC_01023,Streptomyces,sp.,NBC_01023,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_029
+NBC_01288,HQ,Streptomyces sp. NBC_01288,Streptomyces,sp.,NBC_01288,,Denmark,"Knudsoe, mossy forest soil",56.09619 N 9.77531 E,2020-07-01,g__Streptomyces,s__,sp_mash_016
+NBC_00484,HQ,Streptomyces sp. NBC 00484,Streptomyces,sp.,NBC_00484,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_00133,HQ,Streptomyces sp. NBC_00133,Streptomyces,sp.,NBC_00133,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,s__,sp_mash_050
+NBC_01584,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC_01584,soil,Denmark,"Risskov, Wild rose bushes by the entrance to the beach (15cm)",56.1906 N 10.2489 E,2021-03,g__Streptomyces,decoyicus,
+NBC_00438,HQ,Amycolatopsis sp. NBC_00438,Amycolatopsis,sp.,NBC_00438,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Amycolatopsis,s__,sp_mash_051
+NBC_01355,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01355,,Denmark,"Stevns Klint, next to pond",55.27875 N 12.44486 E,2020-07-01,g__Streptomyces,papulosus,
+NBC_01170,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01170,,Denmark,"Havnestranden dunes, Anholt, soil under Rosa rugosa",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,albidoflavus,
+NBC_00070,HQ,Kitasatospora sp. NBC 00070,Kitasatospora,sp.,NBC_00070,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Kitasatospora,s__,sp_mash_117
+NBC_00131,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00131,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,virginiae_A,
+NBC_01439,HQ,Streptomyces sp. NBC_01439,Streptomyces,sp.,NBC_01439,,Denmark,"Vandet Soe, sandy shore",57.02294 N 8.55881 E,2020-07-01,g__Streptomyces,s__,sp_mash_012
+NBC_01718,HQ,Streptomyces sp. NBC 01718,Streptomyces,sp.,NBC 01718,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,sp900116325,
+NBC_01266,HQ,Kitasatospora sp. NBC_01266,Kitasatospora,sp.,NBC_01266,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Kitasatospora,s__,sp_mash_118
+NBC_01693,HQ,Streptomyces sp. NBC 01693,Streptomyces,sp.,NBC 01693,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,sp002711365,
+NBC_00649,HQ,Streptomyces sp. NBC 00649,Streptomyces,sp.,NBC 00649,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,sp003403055,
+NBC_01270,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01270,,Germany,"Dorsten, Germany, Compost pile",,2020-07-01,g__Streptomyces,albidoflavus,
+NBC_01420,HQ,Streptomyces sp. NBC_01420,Streptomyces,sp.,NBC_01420,,Denmark,"Naerum, Naerum 2, soil near anthill, 5-10 cm deep",,2020-09-08,g__Streptomyces,sp900105515,
+NBC_00842,HQ,Streptomyces sp. NBC 00842,Streptomyces,sp.,NBC_00842,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Streptomyces,s__,sp_mash_052
+NBC_00043,HQ,Streptomyces atratus,Streptomyces,atratus,NBC_00043,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,atratus_B,
+NBC_01341,HQ,Streptomyces sp. NBC_01341,Streptomyces,sp.,NBC_01341,,Denmark,"Hilleroed, Leerbjerg Lod, Bog, root of willow by surface",,2020-08-23,g__Streptomyces,s__,sp_mash_119
+NBC_01766,HQ,Streptomyces sp. NBC 01766,Streptomyces,sp.,NBC 01766,soil,Denmark,"Jaegerspris bugt, under a tree",55.8544 N 11.9594 E,2021-04,g__Streptomyces,s__,sp_mash_014
+NBC_01227,HQ,Kocuria rhizophila,Kocuria,rhizophila,NBC_01227,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Kocuria,rhizophila,
+NBC_01555,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC 01555,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Kitasatospora,purpeofusca,
+NBC_00838,HQ,Streptomyces sp. NBC_00838,Streptomyces,sp.,NBC_00838,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_120
+NBC_01212,HQ,Streptomyces sp. NBC_01212,Streptomyces,sp.,NBC_01212,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,sp008042155,
+NBC_01359,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC_01359,,Denmark,"Helletofte Strand, water sample 10 cm deep",55.02631 N 10.83389 E,2020-07-01,g__Streptomyces,decoyicus,
+NBC_00535,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00535,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,anulatus,
+NBC_01692,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01692,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_01711,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01711,soil,Netherlands,"Hegelsom, Vegetable garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_00508,HQ,Nocardia sp. NBC 00508,Nocardia,sp.,NBC_00508,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Nocardia,s__,sp_mash_121
+NBC_00616,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00616,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,griseoaurantiacus,
+NBC_01650,HQ,Streptomyces sp. NBC 01650,Streptomyces,sp.,NBC 01650,soil,Denmark,"Soeby, Aeroe, Under a tree near Soeby campsite close to sea",54.9372 N 10.2444 E,2021-05,g__Streptomyces,sp003846175,
+NBC_00464,HQ,Streptomyces sp. NBC 00464,Streptomyces,sp.,NBC_00464,soil,Denmark,"Hilleroed, Olivier s garden; a pot where he grew pot several years ago",,2016-10,g__Streptomyces,s__,sp_mash_045
+NBC_00631,HQ,Streptomyces sp. NBC 00631,Streptomyces,sp.,NBC_00631,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_122
+NBC_01340,HQ,Streptomyces sp. NBC_01340,Streptomyces,sp.,NBC_01340,,Denmark,"Hilleroed, Ny Hammersholt, Meadow path by house",,2020-08-23,g__Streptomyces,s__,sp_mash_004
+NBC_00664,HQ,Streptomyces sp. NBC 00664,Streptomyces,sp.,NBC_00664,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,s__,sp_mash_030
+NBC_00634,HQ,Streptomyces canus,Streptomyces,canus,NBC_00634,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,canus,
+NBC_00254,HQ,Microbispora hainanensis,Microbispora,hainanensis,NBC_00254,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Microbispora,hainanensis,
+NBC_00493,HQ,Streptomyces sp. NBC 00493,Streptomyces,sp.,NBC_00493,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_00156,HQ,Streptomyces achromogenes,Streptomyces,achromogenes,NBC_00156,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,achromogenes,
+NBC_00480,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00480,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,europaeiscabiei,
+NBC_00457,HQ,Streptomyces sp. NBC 00457,Streptomyces,sp.,NBC_00457,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,sp017948455,
+NBC_01411,HQ,Streptomyces sp. NBC_01411,Streptomyces,sp.,NBC_01411,,Denmark,"Bukkemose, under dead tree",54.90692 N 9.88508 E,2020-07-01,g__Streptomyces,s__,sp_mash_008
+NBC_00562,HQ,Streptomyces sp. NBC 00562,Streptomyces,sp.,NBC_00562,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_001
+NBC_01378,HQ,Streptomyces sp. NBC_01378,Streptomyces,sp.,NBC_01378,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Streptomyces,sp003403055,
+NBC_01108,HQ,Streptomyces sp. NBC_01108,Streptomyces,sp.,NBC_01108,,Denmark,"Klampenborg, Dyrehaven dry clay soil",55.8083 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,s__,sp_mash_006
+NBC_00724,HQ,Streptomyces sp. NBC 00724,Streptomyces,sp.,NBC_00724,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,s__,sp_mash_001
+NBC_00987,HQ,Streptomyces sp. NBC_00987,Streptomyces,sp.,NBC_00987,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,sp003846175,
+NBC_01543,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01543,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,anulatus,
+NBC_01799,HQ,Streptomyces sp. NBC 01799,Streptomyces,sp.,NBC 01799,soil,Denmark,"Kulhuse, Jaegerspris, grassy field",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_001
+NBC_01417,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01417,,Denmark,"Lyngby Aamose, Aamose8, near 800 year old oak. (10cm)",55.778778 N 12.467134 E,2020-09-01,g__Streptomyces,anulatus,
+NBC_00448,HQ,Streptomyces sp. NBC_00448,Streptomyces,sp.,NBC_00448,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Streptomyces,s__,sp_mash_053
+NBC_01763,HQ,Streptomyces sp. NBC 01763,Streptomyces,sp.,NBC 01763,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_00870,HQ,Streptomyces sp. NBC_00870,Streptomyces,sp.,NBC_00870,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,sp900105515,
+NBC_00889,HQ,Kribbella sp. NBC 00889,Kribbella,sp.,NBC_00889,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Kribbella,s__,sp_mash_123
+NBC_01356,HQ,Streptomyces sp. NBC_01356,Streptomyces,sp.,NBC_01356,,Denmark,"Moens Klint, forest above cliff",54.97033 N 12.54850 E,2020-07-01,g__Streptomyces,s__,sp_mash_005
+NBC_00353,HQ,Streptomyces sp. NBC 00353,Streptomyces,sp.,NBC_00353,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_001
+NBC_01686,HQ,Streptomyces althioticus,Streptomyces,althioticus,NBC 01686,soil,Netherlands,"Hegelsom, Vegetable garden",,2021-05,g__Streptomyces,althioticus,
+NBC_01546,HQ,Streptomyces sp. NBC 01546,Streptomyces,sp.,NBC 01546,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,sp018614155,
+NBC_01696,HQ,Streptomyces sp. NBC 01696,Streptomyces,sp.,NBC 01696,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,sp002711365,
+NBC_00890,HQ,Streptomyces sp. NBC_00890,Streptomyces,sp.,NBC_00890,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,sp900105515,
+NBC_01480,HQ,Amycolatopsis sp. NBC_01480,Amycolatopsis,sp.,NBC_01480,,Denmark,"Oerkenen, Anholt, yellow sand",56.704825 N 11.557672 E,2020-06-28,g__Amycolatopsis,s__,sp_mash_124
+NBC_00670,HQ,Streptomyces sp. NBC 00670,Streptomyces,sp.,NBC_00670,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,sp000725625,
+NBC_00168,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00168,,Denmark,"Hoersholm, Deer feeding station near Hoersholm",55.8714 N 12.4942 E,2016-08-26,g__Streptomyces,virginiae_A,
+NBC_00321,HQ,Nocardia salmonicida,Nocardia,salmonicida,NBC_00321,soil,Germany,"Buehl, compost heap",,2016-08,g__Nocardia,salmonicida,
+NBC_00576,HQ,Streptomyces sp. NBC_00576,Streptomyces,sp.,NBC_00576,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,s__,sp_mash_125
+NBC_00106,HQ,Kitasatospora indigofera,Kitasatospora,indigofera,NBC_00106,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Kitasatospora,indigofera,
+NBC_00012,HQ,Streptomyces sp. NBC 00012,Streptomyces,sp.,NBC_00012,soil,Denmark,"Hoersholm, Bench next to CFB building in Hoersholm",55.8706 N 12.4950 E,2016-08,g__Streptomyces,s__,sp_mash_031
+NBC_00873,HQ,Streptomyces sp. NBC 00873,Streptomyces,sp.,NBC_00873,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Streptomyces,s__,sp_mash_052
+NBC_01810,HQ,Streptosporangium sp. NBC 01810,Streptosporangium,sp.,NBC 01810,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptosporangium,s__,sp_mash_054
+NBC_00087,HQ,Streptomyces canus,Streptomyces,canus,NBC_00087,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,canus,
+NBC_01735,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC 01735,soil,Denmark,"Koelstrup, at the green coast area of Kertinge Nor, wet and nutrient rich soil",55.4250 N 10.5819 E,2021-04,g__Streptomyces,europaeiscabiei,
+NBC_01445,MQ,Streptomyces sp. NBC_01445,Streptomyces,sp.,NBC_01445,,Denmark,"Lindholm Hoeje, viking burial ground",57.07822 N 9.91219 E,2020-07-01,g__Streptomyces,sp002803065,
+NBC_01460,HQ,Streptomyces sp. NBC_01460,Streptomyces,sp.,NBC_01460,,Denmark,"Slagelse, Charlottedal Alle",55.38228 N 11.38475 E,2020-07-01,g__Streptomyces,s__,sp_mash_032
+NBC_01004,HQ,Streptomyces globisporus,Streptomyces,globisporus,NBC_01004,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,globisporus,
+NBC_01482,HQ,Nocardia vinacea,Nocardia,vinacea,NBC_01482,,Denmark,"Helletofte Strand, grassy soil",55.02356 N 10.83067 E,2020-07-01,g__Nocardia,vinacea,
+NBC_01758,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC 01758,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,virginiae_A,
+NBC_00295,HQ,Micromonospora chokoriensis,Micromonospora,chokoriensis,NBC_00295,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Micromonospora,chokoriensis,
+NBC_00185,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_00185,,Germany,"Bretzfeld, Next to a creek",49.173135 N 9.431921 E,2016-08-26,g__Streptomyces,papulosus,
+NBC_00453,HQ,Streptomyces sp. NBC_00453,Streptomyces,sp.,NBC_00453,,Denmark,"Hilleroed, Garden; where his cat goes to the toilet",,2016-10-17/2016-10-30,g__Streptomyces,s__,sp_mash_002
+NBC_01020,HQ,Streptomyces sp. NBC_01020,Streptomyces,sp.,NBC_01020,,Denmark,"Klosterheden, forest",56.481011 N 8.331573 E,2017-06-01/2017-08-31,g__Streptomyces,s__,sp_mash_008
+NBC_00711,HQ,Streptomyces luteogriseus,Streptomyces,luteogriseus,NBC_00711,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,luteogriseus,
+NBC_01563,HQ,Streptomyces sp. NBC 01563,Streptomyces,sp.,NBC 01563,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,sp003846175,
+NBC_00041,HQ,Streptomyces atratus,Streptomyces,atratus,NBC_00041,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,atratus_B,
+NBC_01436,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01436,,Denmark,"Thy National Park, grassy dunes",56.95867 N 8.38231 E,2020-07-01,g__Streptomyces,anulatus,
+NBC_00839,HQ,Streptomyces antimycoticus,Streptomyces,antimycoticus,NBC_00839,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,antimycoticus,
+NBC_00380,HQ,Kribbella soli,Kribbella,soli,NBC_00380,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Kribbella,soli_A,
+NBC_00024,HQ,Streptomyces sp. NBC_00024,Streptomyces,sp.,NBC_00024,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,s__,sp_mash_009
+NBC_01013,HQ,Streptomyces sp. NBC_01013,Streptomyces,sp.,NBC_01013,,Denmark,"Jutland, field, close to an old pig farm",,2017-06-01/2017-08-31,g__Streptomyces,s__,sp_mash_126
+NBC_01255,HQ,Streptomyces sp. NBC_01255,Streptomyces,sp.,NBC_01255,,Denmark,"Moensted, Moensted open limestone mine",56.4519 N 9.1717 E,2020-07-21,g__Streptomyces,s__,sp_mash_127
+NBC_01299,HQ,Streptomyces celluloflavus,Streptomyces,celluloflavus,NBC_01299,,Denmark,"Vrads, Field of grass / brush",56.0600 N 9.4644 E,2020-06-29,g__Streptomyces,celluloflavus,
+NBC_01474,MQ,Streptomyces sp. NBC_01474,Streptomyces,sp.,NBC_01474,,Denmark,Trelde Naes,55.62394 N 9.84150 E,2020-07-01,g__Streptomyces,sp003403055,
+NBC_01801,HQ,Nonomuraea fuscirosea,Nonomuraea,fuscirosea,NBC 01801,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Nonomuraea,fuscirosea,
+NBC_01009,HQ,Nocardia sp. NBC 01009,Nocardia,sp.,NBC_01009,soil,Denmark,"Lemvig, Julie s parent s field (backyard); was an old pig farm",,2019-08,g__Nocardia,s__,sp_mash_048
+NBC_01676,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01676,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01592,HQ,Streptomyces sp. NBC 01592,Streptomyces,sp.,NBC_01592,soil,Denmark,"Risskov, Bushes and trees in the park by the beach (10cm)",56.1911 N 10.2500 E,2021-03,g__Streptomyces,sp003846175,
+NBC_01522,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01522,,Denmark,Loekken,,2020-08-01,g__Streptomyces,anulatus,
+NBC_01196,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01196,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,anulatus,
+NBC_00191,HQ,Streptomyces sp. NBC 00191,Streptomyces,sp.,NBC_00191,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_011
+NBC_01622,HQ,Streptomyces sp. NBC 01622,Streptomyces,sp.,NBC_01622,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_128
+NBC_01714,HQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC 01714,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,mirabilis,
+NBC_00835,HQ,Streptomyces cyaneofuscatus,Streptomyces,cyaneofuscatus,NBC_00835,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,cyaneofuscatus,
+NBC_01621,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01621,soil,Denmark,Hoeje Taastrup,55.6539 N 12.2658 E,2021-04,g__Streptomyces,albidoflavus,
+NBC_00090,HQ,Streptomyces sp. NBC_00090,Streptomyces,sp.,NBC_00090,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,s__,sp_mash_129
+NBC_00197,HQ,Streptomyces sp. NBC 00197,Streptomyces,sp.,NBC_00197,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,sp002078175,
+NBC_00419,HQ,Mycobacterium sp. NBC 00419,Mycobacterium,sp.,NBC_00419,soil,Denmark,"Dyrehaven, Grassy field just inside entrance, on the left",55.7989 N 12.5461 E,2016-10,g__Mycobacterium,s__,sp_mash_130
+NBC_01770,HQ,Streptomyces scopuliridis,Streptomyces,scopuliridis,NBC 01770,soil,Denmark,"Samsoe, Under a tree in forrest next to beach in Issehoved",55.9978 N 10.5558 E,2021-09,g__Streptomyces,scopuliridis,
+NBC_01110,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01110,,Denmark,"Roskilde, Kaellingehaven, Next to field",55.6545444 N 12.0681706 E,2020-01-01/2020-01-31,g__Streptomyces,albidoflavus,
+NBC_01723,HQ,Streptomyces sp. NBC 01723,Streptomyces,sp.,NBC 01723,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Streptomyces,sp003947455,
+NBC_01803,HQ,Streptomyces sp. NBC 01803,Streptomyces,sp.,NBC 01803,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,s__,sp_mash_131
+NBC_00825,HQ,Streptomyces sp. NBC 00825,Streptomyces,sp.,NBC_00825,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,sp003846175,
+NBC_00212,HQ,Streptomyces sp. NBC 00212,Streptomyces,sp.,NBC_00212,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,sp001279695,
+NBC_01495,HQ,Streptosporangium sp. NBC_01495,Streptosporangium,sp.,NBC_01495,,Denmark,"Bukkemose, under dead tree",54.90692 N 9.88508 E,2020-07-01,g__Streptosporangium,s__,sp_mash_055
+NBC_01808,HQ,Streptomyces sp. NBC 01808,Streptomyces,sp.,NBC 01808,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,sp002847285,
+NBC_01552,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC 01552,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,papulosus,
+NBC_01617,HQ,Streptomyces sp. NBC 01617,Streptomyces,sp.,NBC_01617,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01478,HQ,Streptomyces sp. NBC_01478,Streptomyces,sp.,NBC_01478,,Denmark,"Lyngby Aamose, Aamose4, Polypody & cattail riverside (6cm)",55.779064 N 12.461126 E,2020-09-01,g__Streptomyces,s__,sp_mash_132
+NBC_00383,HQ,Streptomyces tubercidicus,Streptomyces,tubercidicus,NBC 00383,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,tubercidicus,
+NBC_01498,HQ,Streptomyces sp. NBC 01498,Streptomyces,sp.,NBC_01498,soil,Denmark,"Thy National Park, 21) grassy dunes",56.9586 N 8.3822 E,2020-07,g__Streptomyces,s__,sp_mash_133
+NBC_00523,HQ,Streptomyces sp. NBC 00523,Streptomyces,sp.,NBC_00523,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,sp001905735,
+NBC_01447,HQ,Streptomyces niveus,Streptomyces,niveus,NBC_01447,,Denmark,"Ry, sandy soil",56.10483 N 9.68503 E,2020-07-01,g__Streptomyces,niveus,
+NBC_00663,HQ,Streptomyces sp. NBC 00663,Streptomyces,sp.,NBC_00663,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,s__,sp_mash_049
+NBC_00564,HQ,Streptomyces sp. NBC_00564,Streptomyces,sp.,NBC 00564,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_005
+NBC_00696,HQ,Streptomyces sp. NBC_00696,Streptomyces,sp.,NBC_00696,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,sp016893485,
+NBC_00359,HQ,Kribbella sp. NBC 00359,Kribbella,sp.,NBC_00359,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Kribbella,s__,sp_mash_028
+NBC_01260,HQ,Streptomyces sp. NBC_01260,Streptomyces,sp.,NBC_01260,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,laculatispora,
+NBC_00468,HQ,Micromonospora aurantiaca,Micromonospora,aurantiaca,NBC_00468,soil,Germany,"Buehl, Compost heap",,2016-11,g__Micromonospora,aurantiaca,
+NBC_00666,HQ,Streptomyces pseudovenezuelae,Streptomyces,pseudovenezuelae,NBC_00666,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,pseudovenezuelae,
+NBC_01337,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_01337,,Denmark,"Hilleroed, Ny Hammersholt, Soil from Eva's garden, 1m deep",,2020-08-23,g__Streptomyces,platensis,
+NBC_00683,HQ,Streptomyces sp. NBC_00683,Streptomyces,sp.,NBC_00683,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_056
+NBC_01607,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC_01607,soil,Denmark,"Marselisborg, Aarhus, Bushes by a brook (15cm)",56.1292 N 10.2097 E,2021-03,g__Streptomyces,cellulosae,
+NBC_01283,HQ,Streptomyces sp. NBC_01283,Streptomyces,sp.,NBC_01283,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_134
+NBC_01167,HQ,Streptomyces sp. NBC_01167,Streptomyces,sp.,NBC_01167,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,s__,sp_mash_033
+NBC_01418,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01418,,Denmark,"Lyngby Aamose, Aamose8, near 800 year old oak. (10cm)",55.778778 N 12.467134 E,2020-09-01,g__Streptomyces,anulatus,
+NBC_01462,HQ,Streptomyces sp. NBC_01462,Streptomyces,sp.,NBC_01462,,Denmark,"Storskov (Camp Adventure), dry creek",55.25675 N 11.97736 E,2020-09-25,g__Streptomyces,sp012273515,
+NBC_00082,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_00082,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,papulosus,
+NBC_01609,HQ,Micromonospora globbae,Micromonospora,globbae,NBC_01609,soil,Denmark,"Marselisborg, Aarhus, Bushes by a brook (15cm)",56.1292 N 10.2097 E,2021-03,g__Micromonospora,globbae,
+NBC_00220,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00220,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,virginiae_A,
+NBC_01614,HQ,Streptomyces sp. NBC 01614,Streptomyces,sp.,NBC_01614,soil,Denmark,"Hedeland, Roskilde",55.6197 N 12.1600 E,2021-04,g__Streptomyces,s__,sp_mash_018
+NBC_00371,HQ,Streptomyces sp. NBC 00371,Streptomyces,sp.,NBC_00371,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,sp003403055,
+NBC_00488,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC 00488,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,virginiae_A,
+NBC_00836,HQ,Streptomyces antimycoticus,Streptomyces,antimycoticus,NBC_00836,,Denmark,"Koege, Koege forest",,2017-05-01/2017-05-31,g__Streptomyces,antimycoticus,
+NBC_00190,HQ,Streptomyces sp. NBC_00190,Streptomyces,sp.,NBC_00190,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,s__,sp_mash_024
+NBC_01286,HQ,Amycolatopsis sp. NBC_01286,Amycolatopsis,sp.,NBC_01286,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Amycolatopsis,s__,sp_mash_034
+NBC_01294,MQ,Streptomyces sp. NBC_01294,Streptomyces,sp.,NBC_01294,,Denmark,"Moensted, Moensted open limestone mine",56.4519 N 9.1717 E,2020-07-21,g__Streptomyces,s__,sp_mash_057
+NBC_00775,HQ,Streptomyces sp. NBC 00775,Streptomyces,sp.,NBC_00775,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_013
+NBC_01505,HQ,Kribbella sp. NBC_01505,Kribbella,sp.,NBC_01505,,Denmark,"Havnebakken, Anholt, soil under unknown grass (Poaceae)",56.714547 N 11.516428 E,2020-06-24,g__Kribbella,s__,sp_mash_135
+NBC_01336,HQ,Streptomyces sp. NBC_01336,Streptomyces,sp.,NBC_01336,,Denmark,"Hilleroed, Ny Hammersholt, Fireweed rhizome, by bog",,2020-08-23,g__Streptomyces,s__,sp_mash_017
+NBC_00863,HQ,Kocuria rhizophila,Kocuria,rhizophila,NBC_00863,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Kocuria,rhizophila,
+NBC_01734,HQ,Micromonospora ureilytica,Micromonospora,ureilytica,NBC 01734,soil,Faroe Islands,"NA, grassy area near Torshavn Harbor",62.0075 N 6.7636 W,2021-06,g__Micromonospora,ureilytica,
+NBC_00116,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC_00116,soil,Portugal,"NA, Joao s garden",,2016-08,g__Streptomyces,anthocyanicus,
+NBC_01124,HQ,Streptomyces sp. NBC_01124,Streptomyces,sp.,NBC_01124,,Portugal,"backyard, Ficus rhizome",,2019-12-26,g__Streptomyces,sp000772045,
+NBC_00651,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC 00651,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_00469,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00469,soil,Germany,"Buehl, Compost heap",,2016-11,g__Micromonospora,zamorensis,
+NBC_00163,HQ,Nocardioides sp. NBC 00163,Nocardioides,sp.,NBC_00163,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Nocardioides,s__,sp_mash_058
+NBC_00322,HQ,Streptomyces sp. NBC 00322,Streptomyces,sp.,NBC_00322,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_011
+NBC_00334,HQ,Streptomyces sp. NBC 00334,Streptomyces,sp.,NBC_00334,soil,Denmark,"Hilleroed, Olivier s garden; where birds go poop",,2016-10,g__Streptomyces,s__,sp_mash_136
+NBC_00466,HQ,Streptomyces sp. NBC_00466,Streptomyces,sp.,NBC 00466,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Streptomyces,s__,sp_mash_029
+NBC_00499,HQ,Streptomyces sp. NBC 00499,Streptomyces,sp.,NBC_00499,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_00963,HQ,Streptomyces sp. NBC_00963,Streptomyces,sp.,NBC_00963,,Denmark,"Odder (near Aarhus), Denmark, backyard compost pile",,2017-10-01/2017-10-31,g__Streptomyces,s__,sp_mash_008
+NBC_00482,HQ,Kribbella sp. NBC 00482,Kribbella,sp.,NBC_00482,soil,Germany,"Buehl, Compost heap",,2016-11,g__Kribbella,s__,sp_mash_137
+NBC_00270,HQ,Streptomyces caniferus,Streptomyces,caniferus,NBC_00270,,Germany,"Baiersbronn / Baden-Wurttem, grassy slope",,2016-09-23,g__Streptomyces,caniferus,
+NBC_00617,HQ,Micromonospora sp. NBC_00617,Micromonospora,sp.,NBC_00617,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Micromonospora,s__,sp_mash_138
+NBC_01576,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01576,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,anulatus,
+NBC_01560,HQ,Kitasatospora sp. NBC 01560,Kitasatospora,sp.,NBC 01560,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Kitasatospora,s__,sp_mash_139
+NBC_01190,HQ,Streptomyces sp. NBC_01190,Streptomyces,sp.,NBC_01190,,Denmark,"Havnestranden dunes, Anholt, soil under Rosa rugosa",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,s__,sp_mash_140
+NBC_01386,HQ,Streptomyces sp. NBC_01386,Streptomyces,sp.,NBC_01386,,Denmark,"Helletofte Strand, grassy soil",55.02356 N 10.83067 E,2020-07-01,g__Streptomyces,sp003403055,
+NBC_00781,HQ,Kocuria rhizophila,Kocuria,rhizophila,NBC_00781,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Kocuria,rhizophila_A,
+NBC_01244,HQ,Streptomyces sp. NBC_01244,Streptomyces,sp.,NBC_01244,,Denmark,"Moensted, inside Moensted limestone mine",56.4547 N 9.1694 E,2020-07-21,g__Streptomyces,s__,sp_mash_141
+NBC_01740,HQ,Micromonospora sp. NBC 01740,Micromonospora,sp.,NBC 01740,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Micromonospora,sp004345505,
+NBC_01779,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01779,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,cellulosae,
+NBC_01353,HQ,Streptomyces sp. NBC_01353,Streptomyces,sp.,NBC_01353,,Denmark,"Stevns Klint, dry topsoil",55.27694 N 12.44419 E,2020-07-01,g__Streptomyces,s__,sp_mash_142
+NBC_00302,HQ,Streptomyces bobili,Streptomyces,bobili,NBC_00302,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,bobili,
+NBC_00999,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_00999,soil,Denmark,"Bornholm, #1",55.2722 N 14.7525 E,2019-08,g__Streptomyces,platensis,
+NBC_01798,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC 01798,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptomyces,microflavus,
+NBC_01602,HQ,Streptomyces sp. NBC 01602,Streptomyces,sp.,NBC_01602,soil,Denmark,Hoeje Taastrup,55.6539 N 12.2658 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01717,HQ,Streptomyces sp. NBC 01717,Streptomyces,sp.,NBC 01717,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,sp900116325,
+NBC_01351,HQ,Streptomyces sp. NBC_01351,Streptomyces,sp.,NBC_01351,,Denmark,"Stevns Klint, dry topsoil",55.27694 N 12.44419 E,2020-07-01,g__Streptomyces,s__,sp_mash_143
+NBC_00005,HQ,Streptomyces sp. NBC_00005,Streptomyces,sp.,NBC_00005,,Denmark,"Lyngby Lake, Under a log near the water",55.7733 N 12.4928 E,2016-07-25,g__Streptomyces,s__,sp_mash_043
+NBC_01538,HQ,Streptomyces sp. NBC_01538,Streptomyces,sp.,NBC 01538,,Denmark,"Lemvig, field",,2020-10-01/2020-10-31,g__Streptomyces,sp001280005,
+NBC_00151,MQ,Streptomyces sp. NBC 00151,Streptomyces,sp.,NBC_00151,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_019
+NBC_00510,HQ,Streptomyces sp. NBC 00510,Streptomyces,sp.,NBC_00510,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_144
+NBC_01236,HQ,Streptomyces sp. NBC_01236,Streptomyces,sp.,NBC_01236,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_013
+NBC_00899,HQ,Streptomyces sp. NBC 00899,Streptomyces,sp.,NBC_00899,soil,Denmark,"Koege, Koege forest",,2017-05,g__Streptomyces,s__,sp_mash_145
+NBC_01679,HQ,Streptomyces althioticus,Streptomyces,althioticus,NBC 01679,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,althioticus,
+NBC_00832,HQ,Streptomyces avidinii,Streptomyces,avidinii,NBC_00832,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,avidinii,
+NBC_01429,HQ,Streptomyces sp. NBC_01429,Streptomyces,sp.,NBC_01429,,Denmark,"Oerkenen, Anholt, yellow sand",56.704825 N 11.557672 E,2020-06-28,g__Streptomyces,s__,sp_mash_146
+NBC_00248,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00248,,Denmark,"Lyngby, Backyard",55.7717 N 12.5011 E,2016-07-25,g__Streptomyces,virginiae_A,
+NBC_01796,HQ,Micromonospora sp. NBC 01796,Micromonospora,sp.,NBC 01796,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Micromonospora_G,s__,sp_mash_147
+NBC_00866,HQ,Streptomyces canus,Streptomyces,canus,NBC_00866,soil,Denmark,"Copenhagen, Frederiksberg park #2",55.6769 N 12.5256 E,2017-04,g__Streptomyces,canus,
+NBC_00252,HQ,Streptomyces sp. NBC 00252,Streptomyces,sp.,NBC_00252,soil,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09,g__Streptomyces,sp016893485,
+NBC_01627,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01627,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,albidoflavus,
+NBC_01199,HQ,Micromonospora ureilytica,Micromonospora,ureilytica,NBC_01199,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Micromonospora,ureilytica,
+NBC_00345,HQ,Amycolatopsis sp. NBC 00345,Amycolatopsis,sp.,NBC_00345,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Amycolatopsis,s__,sp_mash_148
+NBC_00029,HQ,Streptomyces sp. NBC_00029,Streptomyces,sp.,NBC_00029,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,s__,sp_mash_059
+NBC_00101,HQ,Streptomyces sp. NBC 00101,Streptomyces,sp.,NBC_00101,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_047
+NBC_00016,HQ,Streptomyces sp. NBC 00016,Streptomyces,sp.,NBC_00016,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,sp001298545,
+NBC_01585,MQ,Streptomyces canus,Streptomyces,canus,NBC_01585,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,canus,
+NBC_01435,HQ,Streptomyces sp. NBC_01435,Streptomyces,sp.,NBC_01435,,Denmark,"Filsoe, mossy soil under dead tree",55.70386 N 8.20600 E,2020-07-01,g__Streptomyces,sp900091725,
+NBC_00515,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00515,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,europaeiscabiei,
+NBC_01203,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_01203,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Kitasatospora,purpeofusca,
+NBC_01795,HQ,Streptomyces sp. NBC 01795,Streptomyces,sp.,NBC 01795,soil,Denmark,"Samsoe, Sandy soil right next to beach in Issehoved",56.0000 N 10.5572 E,2021-09,g__Streptomyces,s__,sp_mash_023
+NBC_00855,HQ,Micromonospora sp. NBC 00855,Micromonospora,sp.,NBC_00855,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Micromonospora,vinacea,
+NBC_01362,HQ,Streptomyces sp. NBC_01362,Streptomyces,sp.,NBC_01362,,Denmark,"Bukkemose, young forest soil",54.90656 N 9.88431 E,2020-07-01,g__Streptomyces,sp003846175,
+NBC_00554,HQ,Streptomyces sp. NBC_00554,Streptomyces,sp.,NBC 00554,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_005
+NBC_01484,HQ,Kribbella sp. NBC_01484,Kribbella,sp.,NBC_01484,,Denmark,"Trelde Naes, creek bed",55.62233 N 9.84311 E,2020-07-01,g__Kribbella,s__,sp_mash_028
+NBC_01749,HQ,Streptomyces cyaneofuscatus,Streptomyces,cyaneofuscatus,NBC 01749,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,cyaneofuscatus,
+NBC_01777,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC 01777,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,anthocyanicus,
+NBC_01715,HQ,Streptomyces sp. NBC 01715,Streptomyces,sp.,NBC 01715,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,sp008042115,
+NBC_00357,HQ,Streptomyces coelicoflavus,Streptomyces,coelicoflavus,NBC_00357,soil,Denmark,"Hilleroed, Olivier s garden; where birds go poop",,2016-10,g__Streptomyces,coelicoflavus,
+NBC_00489,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00489,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,griseoaurantiacus,
+NBC_00223,HQ,Streptomyces sp. NBC 00223,Streptomyces,sp.,NBC_00223,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_060
+NBC_01453,HQ,Streptomyces sp. NBC_01453,Streptomyces,sp.,NBC_01453,,Denmark,Trelde Naes,55.62394 N 9.84150 E,2020-07-01,g__Streptomyces,sp003403055,
+NBC_00075,HQ,Streptomyces sp. NBC 00075,Streptomyces,sp.,NBC_00075,soil,Germany,"Buehl, compost heap",,2016-08,g__Streptomyces,s__,sp_mash_061
+NBC_01250,HQ,Kitasatospora sp. NBC_01250,Kitasatospora,sp.,NBC_01250,,Denmark,"Oerkenen, Anholt, dry moss",56.704055 N 11.557253 E,2020-06-28,g__Kitasatospora,s__,sp_mash_062
+NBC_01755,HQ,Streptosporangium sp. NBC 01755,Streptosporangium,sp.,NBC 01755,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptosporangium,s__,sp_mash_054
+NBC_01523,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01523,,Denmark,Trelde Naes,55.62386 N 9.84136 E,2020-07-01,g__Streptomyces,anulatus,
+NBC_00557,HQ,Streptomyces sp. NBC 00557,Streptomyces,sp.,NBC_00557,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,s__,sp_mash_149
+NBC_00110,HQ,Streptomyces sp. NBC 00110,Streptomyces,sp.,NBC_00110,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp003403055,
+NBC_00478,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00478,soil,Denmark,"Hilleroed, Olivier s garden; a pot where he grew pot several years ago",,2016-10,g__Streptomyces,griseoaurantiacus,
+NBC_01753,MQ,Streptomyces hirsutus,Streptomyces,hirsutus,NBC 01753,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptomyces,hirsutus,
+NBC_00080,HQ,Streptomyces sp. NBC 00080,Streptomyces,sp.,NBC_00080,soil,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09,g__Streptomyces,sp001298545,
+NBC_01601,HQ,Streptomyces sp. NBC 01601,Streptomyces,sp.,NBC_01601,soil,Denmark,Hoeje Taastrup,55.6539 N 12.2658 E,2021-04,g__Streptomyces,sp019090105,
+NBC_00909,HQ,Streptomyces goshikiensis,Streptomyces,goshikiensis,NBC_00909,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,goshikiensis,
+NBC_01488,HQ,Amycolatopsis sp. NBC_01488,Amycolatopsis,sp.,NBC_01488,,Denmark,"Oerkenen, Anholt, yellow sand",56.704825 N 11.557672 E,2020-06-28,g__Amycolatopsis,s__,sp_mash_150
+NBC_00019,HQ,Streptomyces sp. NBC 00019,Streptomyces,sp.,NBC_00019,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,sp000972385,
+NBC_00107,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00107,soil,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09,g__Streptomyces,anulatus,
+NBC_01262,HQ,Streptomyces sp. NBC_01262,Streptomyces,sp.,NBC_01262,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,s__,sp_mash_151
+NBC_00257,HQ,Streptomyces sp. NBC 00257,Streptomyces,sp.,NBC_00257,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,sp003846175,
+NBC_01136,HQ,Streptomyces sp. NBC_01136,Streptomyces,sp.,NBC_01136,,Denmark,"Klampenborg, Dyrehaven fallen log",55.8083 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,s__,sp_mash_063
+NBC_00376,HQ,Streptomyces sp. NBC 00376,Streptomyces,sp.,NBC_00376,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_040
+NBC_00138,HQ,Streptomyces sp. NBC_00138,Streptomyces,sp.,NBC_00138,,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09-02,g__Streptomyces,s__,sp_mash_060
+NBC_00180,HQ,Streptomyces sp. NBC_00180,Streptomyces,sp.,NBC 00180,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,s__,sp_mash_018
+NBC_01137,HQ,Streptomyces xanthophaeus,Streptomyces,xanthophaeus,NBC_01137,,Portugal,"backyard, Palm tree rhizome",,2019-12-26,g__Streptomyces,xanthophaeus,
+NBC_01259,HQ,Streptomyces sp. NBC_01259,Streptomyces,sp.,NBC_01259,,Germany,"Dorsten, Germany, Compost pile",,2020-07-01,g__Streptomyces,sp001905365,
+NBC_00057,HQ,Streptomyces sp. NBC 00057,Streptomyces,sp.,NBC_00057,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_152
+NBC_01724,HQ,Streptomyces sp. NBC 01724,Streptomyces,sp.,NBC 01724,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01134,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01134,,Denmark,"Klampenborg, Dyrehaven forest floor",55.8086 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,anulatus,
+NBC_00135,HQ,Streptomyces canus,Streptomyces,canus,NBC_00135,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,canus,
+NBC_01520,HQ,Streptomyces sp. NBC_01520,Streptomyces,sp.,NBC_01520,,Denmark,"Alleroed, Alleroed aebleplantage 3 - under appletree",,2020-09-20,g__Streptomyces,s__,sp_mash_064
+NBC_00414,HQ,Streptomyces sp. NBC 00414,Streptomyces,sp.,NBC_00414,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_153
+NBC_00858,HQ,Micromonospora sp. NBC 00858,Micromonospora,sp.,NBC_00858,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Micromonospora,s__,sp_mash_065
+NBC_00896,HQ,Embleya sp. NBC 00896,Embleya,sp.,NBC_00896,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Embleya,s__,sp_mash_154
+NBC_00390,HQ,Streptomyces sp. NBC 00390,Streptomyces,sp.,NBC_00390,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_155
+NBC_00040,HQ,Streptomyces sp. NBC_00040,Streptomyces,sp.,NBC_00040,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,spororaveus,
+NBC_00287,HQ,Streptomyces sp. NBC 00287,Streptomyces,sp.,NBC_00287,soil,Spain,Andratx,39.5392 N 2.4264 E,2016-10,g__Streptomyces,s__,sp_mash_156
+NBC_00076,HQ,Streptomyces sp. NBC 00076,Streptomyces,sp.,NBC_00076,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,s__,sp_mash_066
+NBC_01703,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01703,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_01106,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01106,,Denmark,"Klampenborg, Dyrehaven dry clay soil",55.8083 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,anulatus,
+NBC_00735,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00735,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,longwoodensis,
+NBC_01171,HQ,Streptomyces sp. NBC_01171,Streptomyces,sp.,NBC_01171,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,s__,sp_mash_157
+NBC_01276,HQ,Streptomyces sp. NBC_01276,Streptomyces,sp.,NBC_01276,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,s__,sp_mash_158
+NBC_01508,HQ,Streptomyces sp. NBC_01508,Streptomyces,sp.,NBC_01508,,Denmark,"Lyngby Aamose, Aamose2, Tree on a hill (6cm)",55.777901 N 12.454916 E,2020-09-01,g__Streptomyces,s__,sp_mash_067
+NBC_00827,HQ,Streptomyces sp. NBC_00827,Streptomyces,sp.,NBC_00827,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_005
+NBC_01127,HQ,Streptomyces erythrochromogenes,Streptomyces,erythrochromogenes,NBC_01127,,Portugal,"backyard, Palm tree rhizome",,2019-12-26,g__Streptomyces,erythrochromogenes,
+NBC_01372,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC_01372,,Denmark,"Birkeroed, Raavaenget 34, near Sct. Hansurt 1",,2020-08-01,g__Streptomyces,anthocyanicus,
+NBC_00179,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00179,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,virginiae_A,
+NBC_00415,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_00415,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,zaomyceticus,
+NBC_01469,HQ,Streptosporangium sp. NBC_01469,Streptosporangium,sp.,NBC_01469,,Denmark,"Bukkemose, under dead tree",54.90692 N 9.88508 E,2020-07-01,g__Streptosporangium,s__,sp_mash_055
+NBC_00541,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00541,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,longwoodensis,
+NBC_01773,MQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01773,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,cellulosae,
+NBC_01297,HQ,Streptomyces tubercidicus,Streptomyces,tubercidicus,NBC_01297,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Streptomyces,tubercidicus,
+NBC_00085,HQ,Kitasatospora sp. NBC_00085,Kitasatospora,sp.,NBC_00085,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Kitasatospora,s__,sp_mash_068
+NBC_01661,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01661,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,albidoflavus,
+NBC_01232,HQ,Streptomyces sp. NBC_01232,Streptomyces,sp.,NBC_01232,,Denmark,"Livoe, old stables",56.8961 N 9.0731 E,2020-07-18,g__Streptomyces,s__,sp_mash_059
+NBC_01080,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01080,,Denmark,"Moens Klint, small forest growing right on the beach",54.95392 N 12.54892 E,2019-07-01/2019-07-31,g__Streptomyces,anulatus,
+NBC_00556,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC_00556,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,cellulosae,
+NBC_01401,HQ,Streptomyces sp. NBC_01401,Streptomyces,sp.,NBC_01401,,Denmark,"Hilleroed, Ny Hammersholt, community compost under Hawthorn",,2020-08-23,g__Streptomyces,s__,sp_mash_069
+NBC_00461,HQ,Streptomyces sp. NBC 00461,Streptomyces,sp.,NBC_00461,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_002
+NBC_00344,HQ,Streptomyces sp. NBC 00344,Streptomyces,sp.,NBC_00344,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,s__,sp_mash_159
+NBC_01246,HQ,Kitasatospora sp. NBC_01246,Kitasatospora,sp.,NBC_01246,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Kitasatospora,s__,sp_mash_160
+NBC_01762,HQ,Streptomyces sp. NBC 01762,Streptomyces,sp.,NBC 01762,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_00513,HQ,Streptomyces sp. NBC 00513,Streptomyces,sp.,NBC 00513,soil,Denmark,"Hilleroed, Olivier s garden; pile of trees and branches",,2016-10,g__Streptomyces,sp001279725,
+NBC_01640,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01640,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,albidoflavus,
+NBC_01689,HQ,Streptomyces sp. NBC 01689,Streptomyces,sp.,NBC 01689,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,sp008042115,
+NBC_00826,HQ,Streptomyces sp. NBC 00826,Streptomyces,sp.,NBC_00826,soil,Denmark,"Koege, Koege forest",,2017-05,g__Streptomyces,sp003846175,
+NBC_01343,HQ,Streptomyces sp. NBC_01343,Streptomyces,sp.,NBC_01343,,Denmark,"Hilleroed, Leerbjerg Lod, Bur - reed rhizome",,2020-08-23,g__Streptomyces,sp000720145,
+NBC_01643,HQ,Streptomyces sp. NBC 01643,Streptomyces,sp.,NBC 01643,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,s__,sp_mash_001
+NBC_00280,HQ,Streptomyces sp. NBC 00280,Streptomyces,sp.,NBC 00280,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,s__,sp_mash_070
+NBC_01248,HQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_01248,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Streptomyces,mirabilis,
+NBC_00243,MQ,Streptomyces sp. NBC 00243,Streptomyces,sp.,NBC_00243,soil,Denmark,"Hoersholm, Bench next to CFB building in Hoersholm",55.8706 N 12.4950 E,2016-08,g__Streptomyces,s__,sp_mash_005
+NBC_00228,HQ,Streptomyces sp. NBC_00228,Streptomyces,sp.,NBC_00228,,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09-02,g__Streptomyces,sp016893485,
+NBC_01431,HQ,Streptomyces sp. NBC_01431,Streptomyces,sp.,NBC_01431,,Denmark,Boersmose,55.66194 N 8.19078 E,2020-07-01,g__Streptomyces,s__,sp_mash_161
+NBC_00623,HQ,Streptomyces sp. NBC 00623,Streptomyces,sp.,NBC_00623,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,s__,sp_mash_001
+NBC_01194,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01194,,Denmark,"Knudsoe, riverbed",56.09636 N 9.77494 E,2020-07-01,g__Streptomyces,microflavus,
+NBC_00511,HQ,Nocardia sp. NBC_00511,Nocardia,sp.,NBC_00511,,Denmark,"Hilleroed, Garden; where his cat goes to the toilet",,2016-10-17/2016-10-30,g__Nocardia,s__,sp_mash_162
+NBC_00042,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_00042,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,papulosus,
+NBC_01471,HQ,Streptomyces sp. NBC_01471,Streptomyces,sp.,NBC_01471,,Denmark,"Thy National Park, dry moor in national park",56.99442 N 8.45322 E,2020-07-01,g__Streptomyces,s__,sp_mash_163
+NBC_00456,HQ,Streptomyces violaceus,Streptomyces,violaceus,NBC_00456,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,violaceus,
+NBC_01506,HQ,Streptomyces sp. NBC_01506,Streptomyces,sp.,NBC_01506,,Denmark,"Ry, sandy soil",56.10483 N 9.68503 E,2020-07-01,g__Streptomyces,s__,sp_mash_164
+NBC_01211,HQ,Streptomyces globisporus,Streptomyces,globisporus,NBC_01211,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,globisporus,
+NBC_00425,HQ,Streptomyces sp. NBC 00425,Streptomyces,sp.,NBC_00425,soil,Denmark,"Hilleroed, Olivier s garden; pile of trees and branches",,2016-10,g__Streptomyces,sp001428885,
+NBC_00299,HQ,Streptomyces sp. NBC 00299,Streptomyces,sp.,NBC_00299,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,s__,sp_mash_018
+NBC_00881,HQ,Nocardia sp. NBC 00881,Nocardia,sp.,NBC_00881,soil,Denmark,"Koege, Koege flower field",,2017-05,g__Nocardia,s__,sp_mash_165
+NBC_01685,HQ,Streptomyces sp. NBC 01685,Streptomyces,sp.,NBC 01685,soil,Netherlands,"Hegelsom, >40 year old dung pit",,2021-05,g__Streptomyces,sp002711365,
+NBC_01360,HQ,Streptomyces canus,Streptomyces,canus,NBC_01360,,Denmark,"Helletofte Strand, grassy soil",55.02356 N 10.83067 E,2020-07-01,g__Streptomyces,canus,
+NBC_00225,HQ,Streptomyces canus,Streptomyces,canus,NBC_00225,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,canus,
+NBC_00472,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC_00472,,Denmark,"Hilleroed, Garden; pile of trees and branches",,2016-10-17/2016-10-30,g__Streptomyces,decoyicus,
+NBC_00618,HQ,Streptomyces sp. NBC 00618,Streptomyces,sp.,NBC_00618,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_00342,HQ,Streptomyces sp. NBC 00342,Streptomyces,sp.,NBC_00342,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp001905365,
+NBC_00169,HQ,Streptomyces sp. NBC_00169,Streptomyces,sp.,NBC_00169,,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09-02,g__Streptomyces,sp016893485,
+NBC_00226,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC 00226,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,virginiae_A,
+NBC_00288,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC_00288,,Denmark,"Hoersholm, Deer feeding station near Hoersholm",55.8714 N 12.4942 E,2016-08-26,g__Streptomyces,virginiae_A,
+NBC_00381,HQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_00381,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,mirabilis,
+NBC_00988,HQ,Streptomyces sp. NBC_00988,Streptomyces,sp.,NBC_00988,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_016
+NBC_01201,HQ,Streptomyces sp. NBC_01201,Streptomyces,sp.,NBC_01201,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,sp008042155,
+NBC_00017,HQ,Streptomyces purpurascens,Streptomyces,purpurascens,NBC_00017,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,violaceus,
+NBC_01558,MQ,Streptomyces sp. NBC 01558,Streptomyces,sp.,NBC 01558,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,sp002078175,
+NBC_01230,HQ,Streptomyces sp. NBC_01230,Streptomyces,sp.,NBC_01230,,Denmark,"Livoe, old stables",56.8961 N 9.0731 E,2020-07-18,g__Streptomyces,sp900116325,
+NBC_01483,HQ,Streptomyces sp. NBC_01483,Streptomyces,sp.,NBC_01483,,Denmark,"Knudsoe, dry creekbed",56.09617 N 9.77497 E,2020-07-01,g__Streptomyces,s__,sp_mash_004
+NBC_00326,HQ,Nocardia salmonicida,Nocardia,salmonicida,NBC_00326,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Nocardia,salmonicida,
+NBC_01215,HQ,Streptomyces xinghaiensis,Streptomyces,xinghaiensis,NBC_01215,,Denmark,"Roemoe, riverbank",55.18503 N 8.56022 E,2020-07-01,g__Streptomyces,xinghaiensis,
+NBC_01389,HQ,Microbispora sp. NBC_01389,Microbispora,sp.,NBC_01389,,Denmark,"Vrads, Field of grass / brush",56.0600 N 9.4644 E,2020-06-29,g__Microbispora,amethystogenes,
+NBC_01367,HQ,Streptomyces sp. NBC_01367,Streptomyces,sp.,NBC_01367,,Denmark,"Hilleroed, Ny Hammersholt, Fireweed rhizome, by bog",,2020-08-23,g__Streptomyces,s__,sp_mash_012
+NBC_00558,HQ,Streptomyces clavifer,Streptomyces,clavifer,NBC_00558,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,clavifer,
+NBC_00588,HQ,Streptomyces sp. NBC 00588,Streptomyces,sp.,NBC_00588,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,sp000411315,
+NBC_00349,HQ,Streptomyces canus,Streptomyces,canus,NBC 00349,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,canus,
+NBC_00189,HQ,Streptomyces tauricus,Streptomyces,tauricus,NBC_00189,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,tauricus,
+NBC_01726,HQ,Nonomuraea glycinis,Nonomuraea,glycinis,NBC 01726,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Nonomuraea,glycinis,
+NBC_00385,MQ,Streptomyces sp. NBC 00385,Streptomyces,sp.,NBC_00385,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,sp008042275,
+NBC_01809,HQ,Micromonospora peucetia,Micromonospora,peucetia,NBC 01809,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Micromonospora,peucetia,
+NBC_00261,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00261,soil,Denmark,"Holte, Flower bed just outside train/bus staion",55.8075 N 12.4747 E,2016-07,g__Streptomyces,europaeiscabiei,
+NBC_01325,HQ,Streptomyces subrutilus,Streptomyces,subrutilus,NBC_01325,,Denmark,"Hoerbylunde Bakker, Engesvang, field of grass / bush",56.1414 N 9.3911 E,2020-06-28,g__Streptomyces,subrutilus,
+NBC_01185,HQ,Streptomyces sp. NBC_01185,Streptomyces,sp.,NBC_01185,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,s__,sp_mash_032
+NBC_00886,HQ,Streptomyces sp. NBC 00886,Streptomyces,sp.,NBC_00886,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_166
+NBC_00850,HQ,Nocardioides sp. NBC 00850,Nocardioides,sp.,NBC_00850,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Nocardioides,s__,sp_mash_058
+NBC_00856,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00856,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,phaeochromogenes,
+NBC_00061,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_00061,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Kitasatospora,purpeofusca,
+NBC_00003,HQ,Streptomyces sp. NBC_00003,Streptomyces,sp.,NBC_00003,,Denmark,"Lyngby Lake, Under a log near the water",55.7733 N 12.4928 E,2016-07-25,g__Streptomyces,s__,sp_mash_167
+NBC_00421,HQ,Micromonospora sp. NBC 00421,Micromonospora,sp.,NBC_00421,soil,Denmark,"Dyrehaven, Grassy field just inside entrance, on the left",55.7989 N 12.5461 E,2016-10,g__Micromonospora,s__,sp_mash_168
+NBC_01216,HQ,Streptomyces sp. NBC_01216,Streptomyces,sp.,NBC_01216,,Denmark,"Roemoe, riverbank",55.18503 N 8.56022 E,2020-07-01,g__Streptomyces,s__,sp_mash_169
+NBC_01727,HQ,Streptomyces sp. NBC 01727,Streptomyces,sp.,NBC 01727,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,sp900116325,
+NBC_00667,HQ,Streptomyces sp. NBC 00667,Streptomyces,sp.,NBC_00667,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,s__,sp_mash_030
+NBC_00659,HQ,Streptomyces sp. NBC_00659,Streptomyces,sp.,NBC 00659,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_019
+NBC_00335,HQ,Streptomyces sp. NBC 00335,Streptomyces,sp.,NBC_00335,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,s__,sp_mash_170
+NBC_00002,HQ,Streptomyces canus,Streptomyces,canus,NBC_00002,,Denmark,"Lyngby, Backyard",55.7717 N 12.5011 E,2016-07-25,g__Streptomyces,canus,
+NBC_01278,HQ,Streptomyces sp. NBC_01278,Streptomyces,sp.,NBC_01278,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,s__,sp_mash_010
+NBC_00989,HQ,Streptomyces sp. NBC_00989,Streptomyces,sp.,NBC_00989,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_171
+NBC_01648,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01648,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_00658,HQ,Streptomyces sp. NBC 00658,Streptomyces,sp.,NBC 00658,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,s__,sp_mash_005
+NBC_00396,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00396,,Germany,"Baiersbronn / Baden-Wurttem, grassy area",,2016-09-23,g__Micromonospora,zamorensis,
+NBC_00995,HQ,Streptomyces sp. NBC_00995,Streptomyces,sp.,NBC_00995,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_172
+NBC_01547,HQ,Streptomyces sp. NBC 01547,Streptomyces,sp.,NBC 01547,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,spororaveus,
+NBC_00470,HQ,Streptomyces sp. NBC 00470,Streptomyces,sp.,NBC 00470,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_01428,HQ,Streptomyces sp. NBC_01428,Streptomyces,sp.,NBC_01428,,Denmark,"Havnebakken, Anholt, soil under unknown grass (Poaceae)",56.714547 N 11.516428 E,2020-06-24,g__Streptomyces,sp002078175,
+NBC_00234,HQ,Streptomyces sp. NBC_00234,Streptomyces,sp.,NBC_00234,,Germany,"Bretzfeld, Next to a creek",49.173135 N 9.431921 E,2016-08-26,g__Streptomyces,s__,sp_mash_173
+NBC_00096,HQ,Streptomyces sp. NBC 00096,Streptomyces,sp.,NBC_00096,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,s__,sp_mash_174
+NBC_01516,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01516,,Denmark,"Alleroed, Alleroed aebleplantage 1 - by fence",,2020-09-20,g__Streptomyces,anulatus,
+NBC_00221,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00221,soil,Germany,"Buehl, compost heap",,2016-08,g__Streptomyces,phaeochromogenes,
+NBC_00704,HQ,Streptomyces sp. NBC 00704,Streptomyces,sp.,NBC_00704,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_175
+NBC_00441,HQ,Streptomyces sp. NBC 00441,Streptomyces,sp.,NBC_00441,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,sp001905735,
+NBC_00315,HQ,Kitasatospora sp. NBC 00315,Kitasatospora,sp.,NBC 00315,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Kitasatospora,s__,sp_mash_176
+NBC_00370,HQ,Streptomyces sp. NBC 00370,Streptomyces,sp.,NBC_00370,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp000818175,
+NBC_00027,HQ,Streptomyces melanogenes,Streptomyces,melanogenes,NBC_00027,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,melanogenes,
+NBC_00709,HQ,Kribbella sp. NBC 00709,Kribbella,sp.,NBC_00709,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Kribbella,s__,sp_mash_177
+NBC_00726,HQ,Streptomyces sp. NBC_00726,Streptomyces,sp.,NBC_00726,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,sp001905735,
+NBC_00594,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC_00594,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,longwoodensis,
+NBC_01455,HQ,Streptomyces sp. NBC_01455,Streptomyces,sp.,NBC_01455,,Denmark,Trelde Naes,55.62394 N 9.84150 E,2020-07-01,g__Streptomyces,sp012273515,
+NBC_00343,HQ,Streptomyces sp. NBC 00343,Streptomyces,sp.,NBC_00343,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,s__,sp_mash_016
+NBC_00258,HQ,Streptomyces sp. NBC_00258,Streptomyces,sp.,NBC_00258,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,sp007050945,
+NBC_01207,HQ,Streptomyces sp. NBC_01207,Streptomyces,sp.,NBC_01207,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,s__,sp_mash_012
+NBC_00001,HQ,Streptomyces canus,Streptomyces,canus,NBC_00001,soil,Denmark,"Lyngby, Backyard where Pep used to live in Lyngby",55.7717 N 12.5011 E,2016-07,g__Streptomyces,canus,
+NBC_00239,HQ,Streptomyces sp. NBC_00239,Streptomyces,sp.,NBC_00239,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,s__,sp_mash_178
+NBC_00648,HQ,Streptomyces sp. NBC 00648,Streptomyces,sp.,NBC 00648,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_020
+NBC_00996,HQ,Streptomyces sp. NBC_00996,Streptomyces,sp.,NBC_00996,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_179
+NBC_01754,HQ,Streptomyces sp. NBC 01754,Streptomyces,sp.,NBC 01754,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_180
+NBC_00337,HQ,Streptomyces caniferus,Streptomyces,caniferus,NBC_00337,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,caniferus,
+NBC_00368,HQ,Nocardioides sp. NBC 00368,Nocardioides,sp.,NBC_00368,soil,Italy,Palermo,,2016-11,g__Nocardioides,s__,sp_mash_181
+NBC_01324,HQ,Streptomyces sp. NBC_01324,Streptomyces,sp.,NBC_01324,,Denmark,"Hoerbylunde Bakker, Engesvang, field of grass / bush",56.1414 N 9.3911 E,2020-06-28,g__Streptomyces,sp001905365,
+NBC_01237,MQ,Streptomyces sp. NBC_01237,Streptomyces,sp.,NBC_01237,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,sp001905125,
+NBC_00645,HQ,Streptomyces sp. NBC 00645,Streptomyces,sp.,NBC 00645,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,s__,sp_mash_022
+NBC_01393,HQ,Streptomyces sp. NBC_01393,Streptomyces,sp.,NBC_01393,,Denmark,"Hilleroed, Ny Hammersholt, meadow community compost 10 cm deep",,2020-08-23,g__Streptomyces,s__,sp_mash_019
+NBC_01183,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_01183,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,phaeochromogenes,
+NBC_01302,HQ,Kitasatospora sp. NBC_01302,Kitasatospora,sp.,NBC_01302,,Denmark,"Hoerbylunde Bakker, Engesvang, Field of grass / brush",56.1414 N 9.3911 E,2020-06-28,g__Kitasatospora,s__,sp_mash_062
+NBC_01637,HQ,Streptomyces sp. NBC 01637,Streptomyces,sp.,NBC 01637,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,s__,sp_mash_001
+NBC_01235,HQ,Streptomyces sp. NBC_01235,Streptomyces,sp.,NBC_01235,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_182
+NBC_00330,HQ,Micromonospora sp. NBC_00330,Micromonospora,sp.,NBC_00330,,Denmark,"Dyrehaven, Next to lake",55.7986 N 12.5467 E,2016-10-24/2016-10-30,g__Micromonospora,sp018070325,
+NBC_00637,HQ,Streptomyces sp. NBC_00637,Streptomyces,sp.,NBC 00637,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,s__,sp_mash_183
+NBC_01241,HQ,Streptomyces sp. NBC_01241,Streptomyces,sp.,NBC_01241,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_006
+NBC_01102,HQ,Streptomyces sp. NBC_01102,Streptomyces,sp.,NBC_01102,,Denmark,"Roskilde, Kaellingehaven, Next to rock",55.6544214 N 12.0687386 E,2020-01-01/2020-01-31,g__Streptomyces,s__,sp_mash_064
+NBC_01328,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_01328,,Germany,"Dorsten, Germany, garden",,2020-07-01,g__Streptomyces,phaeochromogenes,
+NBC_00431,HQ,Spirillospora sp. NBC 00431,Spirillospora,sp.,NBC_00431,soil,Spain,Andratx,39.5392 N 2.4264 E,2016-10,g__Spirillospora,s__,sp_mash_184
+NBC_00105,HQ,Streptomyces sp. NBC_00105,Streptomyces,sp.,NBC_00105,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,s__,sp_mash_025
+NBC_00420,HQ,Kineococcus sp. NBC_00420,Kineococcus,sp.,NBC_00420,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Kineococcus,s__,sp_mash_185
+NBC_01788,HQ,Streptomyces sp. NBC 01788,Streptomyces,sp.,NBC 01788,soil,Denmark,"Samsoe, Under a tree in forrest next to beach in Issehoved",55.9978 N 10.5558 E,2021-09,g__Streptomyces,sp002803075,
+NBC_01396,HQ,Streptomyces sp. NBC_01396,Streptomyces,sp.,NBC_01396,,Denmark,"Hilleroed, Ny Hammersholt, Meadow path by house",,2020-08-23,g__Streptomyces,s__,sp_mash_002
+NBC_01635,HQ,Streptomyces sp. NBC 01635,Streptomyces,sp.,NBC 01635,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__,s__,
+NBC_01189,HQ,Microbispora sp. NBC_01189,Microbispora,sp.,NBC_01189,,Denmark,"Vrads, Field of grass / brush",56.0600 N 9.4644 E,2020-06-29,g__Microbispora,amethystogenes,
+NBC_01005,HQ,Streptomyces sp. NBC_01005,Streptomyces,sp.,NBC_01005,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,sp003846175,
+NBC_00319,HQ,Williamsia herbipolensis,Williamsia,herbipolensis,NBC_00319,,Denmark,"Dyrehaven, Next to lake",55.7986 N 12.5467 E,2016-10-24/2016-10-30,g__Williamsia_A,herbipolensis,
+NBC_01737,HQ,Dactylosporangium sp. NBC 01737,Dactylosporangium,sp.,NBC 01737,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Dactylosporangium,s__,sp_mash_186
+NBC_00055,HQ,Streptomyces sp. NBC 00055,Streptomyces,sp.,NBC_00055,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp900116325,
+NBC_00975,HQ,Streptomyces tubercidicus,Streptomyces,tubercidicus,NBC_00975,,Denmark,"Jutland, field, close to an old pig farm",,2017-06-01/2017-08-31,g__Streptomyces,tubercidicus,
+NBC_01636,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC 01636,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,anthocyanicus,
+NBC_01745,HQ,Streptomyces globisporus,Streptomyces,globisporus,NBC 01745,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,globisporus,
+NBC_00722,HQ,Streptomyces lydicus,Streptomyces,lydicus,NBC_00722,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,lydicus,
+NBC_01147,HQ,Streptomyces xanthophaeus,Streptomyces,xanthophaeus,NBC_01147,,Portugal,"backyard, Palm tree rhizome",,2019-12-26,g__Streptomyces,xanthophaeus,
+NBC_01205,HQ,Streptomyces sp. NBC_01205,Streptomyces,sp.,NBC_01205,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,s__,sp_mash_010
+NBC_00271,HQ,Streptomyces sp. NBC 00271,Streptomyces,sp.,NBC_00271,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_187
+NBC_01553,HQ,Streptomyces sp. NBC 01553,Streptomyces,sp.,NBC 01553,soil,Denmark,"Stenbjerg, marsh",56.9136 N 8.3811 E,2021-03,g__Streptomyces,sp003846175,
+NBC_01304,HQ,Streptomyces sp. NBC_01304,Streptomyces,sp.,NBC_01304,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_188
+NBC_00874,HQ,Kocuria rhizophila,Kocuria,rhizophila,NBC_00874,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Kocuria,rhizophila,
+NBC_00851,HQ,Streptomyces chartreusis,Streptomyces,chartreusis,NBC_00851,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,chartreusis,
+NBC_00377,HQ,Streptomyces sp. NBC 00377,Streptomyces,sp.,NBC_00377,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_189
+NBC_01683,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC 01683,soil,Netherlands,"Hegelsom, >40 year old dung pit",,2021-05,g__Streptomyces,microflavus,
+NBC_00471,HQ,Streptomyces nojiriensis,Streptomyces,nojiriensis,NBC_00471,,Denmark,"Hilleroed, Garden; pile of trees and branches",,2016-10-17/2016-10-30,g__Streptomyces,nojiriensis,
+NBC_00685,HQ,Streptomyces canus,Streptomyces,canus,NBC_00685,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,canus,
+NBC_01332,HQ,Streptomyces murinus,Streptomyces,murinus,NBC_01332,,Denmark,"Birkeroed, Raavaenget 34, near Rose Barkarole",,2020-08-01,g__Streptomyces,murinus,
+NBC_01003,HQ,Streptomyces sp. NBC_01003,Streptomyces,sp.,NBC_01003,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,sp002803065,
+NBC_01289,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_01289,,Denmark,"Knudsoe, riverbed",56.09636 N 9.77494 E,2020-07-01,g__Micromonospora,zamorensis,
+NBC_01243,HQ,Streptomyces sp. NBC_01243,Streptomyces,sp.,NBC_01243,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,sp003846175,
+NBC_00490,HQ,Streptomyces sp. NBC_00490,Streptomyces,sp.,NBC_00490,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,sp000972385,
+NBC_01295,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01295,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,papulosus,
+NBC_01210,HQ,Streptomyces sp. NBC_01210,Streptomyces,sp.,NBC_01210,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,s__,sp_mash_190
+NBC_01544,HQ,Streptomyces sp. NBC 01544,Streptomyces,sp.,NBC 01544,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,s__,sp_mash_001
+NBC_01589,HQ,Streptomyces sp. NBC 01589,Streptomyces,sp.,NBC_01589,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01537,HQ,Streptomyces sp. NBC_01537,Streptomyces,sp.,NBC 01537,,Denmark,"Alleroed, Alleroed aebleplantage 3 - under appletree",,2020-09-20,g__Streptomyces,s__,sp_mash_191
+NBC_01166,HQ,Streptomyces sp. NBC_01166,Streptomyces,sp.,NBC_01166,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,s__,sp_mash_192
+NBC_00293,HQ,Streptomyces violaceus,Streptomyces,violaceus,NBC_00293,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,violaceus,
+NBC_00566,HQ,Streptomyces sp. NBC 00566,Streptomyces,sp.,NBC_00566,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,sp019090105,
+NBC_01768,HQ,Streptomyces sp. NBC 01768,Streptomyces,sp.,NBC 01768,soil,Denmark,"Jaegerspris bugt, under a tree",55.8544 N 11.9594 E,2021-04,g__Streptomyces,sp003846175,
+NBC_01594,HQ,Streptomyces sp. NBC 01594,Streptomyces,sp.,NBC_01594,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_00459,HQ,Streptomyces sp. NBC 00459,Streptomyces,sp.,NBC_00459,soil,Denmark,"Hilleroed, Olivier s garden; a pot where he grew pot several years ago",,2016-10,g__Streptomyces,s__,sp_mash_070
+NBC_00853,HQ,Streptomyces sp. NBC_00853,Streptomyces,sp.,NBC_00853,,Denmark,"Copenhagen, Frederiksberg park",55.67681 N 12.52553 E,2017-04-01,g__Streptomyces,s__,sp_mash_012
+NBC_00586,HQ,Streptomyces griseorubiginosus,Streptomyces,griseorubiginosus,NBC_00586,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,griseorubiginosus_A,
+NBC_00713,HQ,Streptomyces pseudovenezuelae,Streptomyces,pseudovenezuelae,NBC_00713,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,pseudovenezuelae,
+NBC_00272,HQ,Streptomyces sp. NBC 00272,Streptomyces,sp.,NBC_00272,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_010
+NBC_00393,HQ,Actinoplanes sp. NBC 00393,Actinoplanes,sp.,NBC_00393,soil,Italy,"Palermo, Soil / sand stuck inside an anfora (like a vase)",,2016-11,g__Actinoplanes,s__,sp_mash_193
+NBC_00369,HQ,Nocardia cyriacigeorgica,Nocardia,cyriacigeorgica,NBC_00369,soil,Italy,"Palermo, Soil / sand stuck inside an anfora (like a vase)",,2016-11,g__Nocardia,cyriacigeorgica,
+NBC_01269,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01269,,Germany,"Essen, Germany, Compost pile",,2020-07-01,g__Streptomyces,papulosus,
+NBC_01329,HQ,Nocardia sp. NBC_01329,Nocardia,sp.,NBC_01329,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Nocardia,s__,sp_mash_194
+NBC_01687,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC 01687,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,anthocyanicus,
+NBC_01791,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01791,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,albidoflavus,
+NBC_01751,HQ,Streptomyces sp. NBC 01751,Streptomyces,sp.,NBC 01751,soil,Denmark,"Kulhuse, Jaegerspris, grassy field",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_001
+NBC_00111,HQ,Streptomyces sp. NBC 00111,Streptomyces,sp.,NBC_00111,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,s__,sp_mash_032
+NBC_00256,HQ,Micromonospora globbae,Micromonospora,globbae,NBC_00256,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Micromonospora,globbae,
+NBC_00668,HQ,Streptomyces melanogenes,Streptomyces,melanogenes,NBC_00668,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,melanogenes,
+NBC_00820,HQ,Streptomyces sp. NBC 00820,Streptomyces,sp.,NBC_00820,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,s__,sp_mash_195
+NBC_01463,HQ,Streptomyces sp. NBC_01463,Streptomyces,sp.,NBC_01463,,Denmark,"Bukkemose, under dead tree",54.90692 N 9.88508 E,2020-07-01,g__Streptomyces,s__,sp_mash_021
+NBC_01620,HQ,Streptomyces sp. NBC 01620,Streptomyces,sp.,NBC_01620,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01391,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01391,,Denmark,"Hilleroed, Leerbjerg Lod, Bog slightly dry, 2cm deep",,2020-08-23,g__Streptomyces,microflavus,
+NBC_01525,HQ,Streptomyces sp. NBC_01525,Streptomyces,sp.,NBC_01525,,Denmark,Trelde Naes,55.62386 N 9.84136 E,2020-07-01,g__Streptomyces,sp007280575,
+NBC_01684,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC 01684,soil,Netherlands,"Hegelsom, >40 year old dung pit",,2021-05,g__Streptomyces,microflavus,
+NBC_01744,HQ,Streptomyces sp. NBC 01744,Streptomyces,sp.,NBC 01744,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_001
+NBC_01017,HQ,Streptomyces sp. NBC_01017,Streptomyces,sp.,NBC_01017,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_018
+NBC_01139,HQ,Streptomyces rubiginosohelvolus,Streptomyces,rubiginosohelvolus,NBC_01139,,Portugal,"backyard, Ficus rhizome",,2019-12-26,g__Streptomyces,rubiginosohelvolus,
+NBC_01015,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC_01015,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,decoyicus,
+NBC_00200,HQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_00200,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Streptomyces,mirabilis,
+NBC_01595,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01595,soil,Denmark,"Veddelev, Roskilde",55.6747 N 12.0833 E,2021-04,g__Streptomyces,microflavus,
+NBC_00375,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_00375,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,platensis,
+NBC_01746,HQ,Streptomyces glauciniger,Streptomyces,glauciniger,NBC 01746,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,glauciniger,
+NBC_00077,HQ,Streptomyces exfoliatus,Streptomyces,exfoliatus,NBC_00077,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,exfoliatus,
+NBC_01786,HQ,Streptomyces scopuliridis,Streptomyces,scopuliridis,NBC 01786,soil,Denmark,"Samsoe, Under a tree in forrest next to beach in Issehoved",55.9978 N 10.5558 E,2021-09,g__Streptomyces,scopuliridis,
+NBC_01706,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01706,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,cellulosae,
+NBC_00887,HQ,Streptomyces sp. NBC 00887,Streptomyces,sp.,NBC_00887,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_056
+NBC_01261,HQ,Streptomyces sp. NBC_01261,Streptomyces,sp.,NBC_01261,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_016
+NBC_00165,HQ,Streptomyces glauciniger,Streptomyces,glauciniger,NBC_00165,,Denmark,"Hoersholm, Deer feeding station near Hoersholm",55.8714 N 12.4942 E,2016-08-26,g__Streptomyces,glauciniger,
+NBC_01545,HQ,Streptomyces atratus,Streptomyces,atratus,NBC 01545,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,atratus_B,
+NBC_00885,HQ,Streptomyces sp. NBC 00885,Streptomyces,sp.,NBC_00885,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,s__,sp_mash_011
+NBC_01191,HQ,Streptomyces goshikiensis,Streptomyces,goshikiensis,NBC_01191,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,goshikiensis,
+NBC_00485,HQ,Streptomyces sp. NBC 00485,Streptomyces,sp.,NBC_00485,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_002
+NBC_01077,HQ,Streptomyces sp. NBC_01077,Streptomyces,sp.,NBC_01077,,Denmark,"Soroe Skov, Next to a big tree",55.3803 N 11.5594 E,2019-07-01/2019-07-31,g__Streptomyces,s__,sp_mash_196
+NBC_00860,HQ,Micromonospora sp. NBC 00860,Micromonospora,sp.,NBC_00860,soil,Denmark,"Copenhagen, Frederiksberg park #2",55.6769 N 12.5256 E,2017-04,g__Micromonospora,vinacea,
+NBC_01347,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_01347,,Denmark,"Hilleroed, Ny Hammersholt, meadow community compost 10 cm deep",,2020-08-23,g__Streptomyces,papulosus,
+NBC_01625,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01625,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_00093,HQ,Streptomyces sp. NBC 00093,Streptomyces,sp.,NBC_00093,soil,Germany,"Buehl, compost heap",,2016-08,g__Streptomyces,s__,sp_mash_061
+NBC_01309,HQ,Streptomycetaceae,Streptomycetaceae,,NBC_01309,,Denmark,"Moensted, Moensted open limestone mine",56.4519 N 9.1717 E,2020-07-21,g__,s__,
+NBC_00123,HQ,Streptomyces zaomyceticus,Streptomyces,zaomyceticus,NBC_00123,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,zaomyceticus,
+NBC_01451,HQ,Streptomyces sp. NBC_01451,Streptomyces,sp.,NBC_01451,,Denmark,"Jelling, next to pond",55.75803 N 9.41636 E,2020-07-01,g__Streptomyces,s__,sp_mash_197
+NBC_00516,HQ,Lentzea sp. NBC_00516,Lentzea,sp.,NBC_00516,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Lentzea,s__,sp_mash_198
+NBC_01352,HQ,Streptomyces sp. NBC_01352,Streptomyces,sp.,NBC_01352,,Denmark,"Stevns Klint, dry topsoil",55.27694 N 12.44419 E,2020-07-01,g__Streptomyces,s__,sp_mash_027
+NBC_01667,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01667,soil,Netherlands,"Hegelsom, Ploughed and fertilized land (no crops)",,2021-05,g__Streptomyces,cellulosae,
+NBC_00210,HQ,Streptomyces sp. NBC_00210,Streptomyces,sp.,NBC_00210,,Denmark,"Hoersholm, Deer feeding station near Hoersholm",55.8714 N 12.4942 E,2016-08-26,g__Streptomyces,s__,sp_mash_050
+NBC_00009,HQ,Streptomyces sp. NBC 00009,Streptomyces,sp.,NBC_00009,soil,Denmark,"Lyngby Soe, Under a log near the water",55.7733 N 12.4928 E,2016-07,g__Streptomyces,sp003403055,
+NBC_00538,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC 00538,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,longwoodensis,
+NBC_00056,HQ,Streptomyces sp. NBC 00056,Streptomyces,sp.,NBC_00056,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,s__,sp_mash_015
+NBC_00117,HQ,Streptomyces sp. NBC 00117,Streptomyces,sp.,NBC_00117,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,sp003403055,
+NBC_00859,HQ,Streptomyces sp. NBC_00859,Streptomyces,sp.,NBC_00859,,Denmark,"Koege, Koege water hole",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_199
+NBC_01606,HQ,Streptomyces cyaneofuscatus,Streptomyces,cyaneofuscatus,NBC_01606,soil,Denmark,"Hedeland, Roskilde",55.6197 N 12.1600 E,2021-04,g__Streptomyces,cyaneofuscatus,
+NBC_01392,HQ,Micromonospora sp. NBC_01392,Micromonospora,sp.,NBC_01392,,Denmark,"Hilleroed, Leerbjerg Lod, Bur - reed rhizome",,2020-08-23,g__Micromonospora,sp003027925,
+NBC_00114,HQ,Streptomyces sp. NBC 00114,Streptomyces,sp.,NBC_00114,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,s__,sp_mash_002
+NBC_01725,HQ,Streptomyces sp. NBC 01725,Streptomyces,sp.,NBC 01725,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Streptomyces,sp010384365,
+NBC_01722,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01722,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Streptomyces,albidoflavus,
+NBC_01564,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC 01564,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,papulosus,
+NBC_00481,MQ,Streptomyces sp. NBC 00481,Streptomyces,sp.,NBC_00481,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_009
+NBC_00399,HQ,Actinomadura citrea,Actinomadura,citrea,NBC_00399,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Spirillospora,citrea,
+NBC_00805,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00805,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,griseoaurantiacus,
+NBC_01662,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC 01662,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,anthocyanicus,
+NBC_00069,HQ,Streptomyces sp. NBC 00069,Streptomyces,sp.,NBC_00069,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_007
+NBC_01374,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01374,,Denmark,"Bukkemose, under dead tree",54.90692 N 9.88508 E,2020-07-01,g__Streptomyces,albidoflavus,
+NBC_00520,HQ,Streptomyces murinus,Streptomyces,murinus,NBC_00520,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,murinus,
+NBC_00250,HQ,Streptomyces sp. NBC_00250,Streptomyces,sp.,NBC_00250,,Finland,"Helsinki, At base of Helsinki cathedral",60.16806 N 24.95928 E,2016-09,g__Streptomyces,s__,sp_mash_041
+NBC_01760,HQ,Streptomyces sp. NBC 01760,Streptomyces,sp.,NBC 01760,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_01397,MQ,Streptomyces sp. NBC_01397,Streptomyces,sp.,NBC_01397,,Denmark,"Hilleroed, Slettebjerget, 5cm deep, beneath Holly",,2020-08-23,g__Streptomyces,sp003403055,
+NBC_01652,HQ,Streptomyces griseus,Streptomyces,griseus,NBC 01652,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,fimicarius,
+NBC_00843,HQ,Streptomyces niveus,Streptomyces,niveus,NBC_00843,,Denmark,"Koege, Koege water hole",,2017-05-01/2017-05-31,g__Streptomyces,niveus,
+NBC_01231,HQ,Streptomyces sp. NBC_01231,Streptomyces,sp.,NBC_01231,,Denmark,"Livoe, old stables",56.8961 N 9.0731 E,2020-07-18,g__Streptomyces,s__,sp_mash_066
+NBC_00328,HQ,Streptomyces sp. NBC_00328,Streptomyces,sp.,NBC_00328,,Germany,"Baiersbronn / Baden-Wurttem, grassy area",,2016-09-23,g__Streptomyces,s__,sp_mash_019
+NBC_00865,HQ,Streptomyces chartreusis,Streptomyces,chartreusis,NBC_00865,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,chartreusis,
+NBC_01383,HQ,Streptomyces sp. NBC_01383,Streptomyces,sp.,NBC_01383,,Denmark,"Storskov (Camp Adventure), dry creek",55.25675 N 11.97736 E,2020-07-01,g__Streptomyces,laculatispora,
+NBC_00475,HQ,Streptomyces tubercidicus,Streptomyces,tubercidicus,NBC_00475,,Denmark,"Hilleroed, Garden; where his cat goes to the toilet",,2016-10-17/2016-10-30,g__Streptomyces,tubercidicus,
+NBC_01699,HQ,Micromonospora sp. NBC 01699,Micromonospora,sp.,NBC 01699,soil,Denmark,"Soeby, Aeroe, Under a tree near Soeby campsite close to sea",54.9372 N 10.2444 E,2021-05,g__Micromonospora_G,s__,sp_mash_200
+NBC_00148,HQ,Streptomyces sp. NBC_00148,Streptomyces,sp.,NBC_00148,,Germany,"Bretzfeld, Next to a creek",49.173135 N 9.431921 E,2016-08-26,g__Streptomyces,sp002711365,
+NBC_01503,HQ,Nocardia sp. NBC 01503,Nocardia,sp.,NBC_01503,soil,Denmark,"Jerup, 29) grass / flower meadow",57.5439 N 10.4378 E,2020-07,g__Nocardia,s__,sp_mash_201
+NBC_00269,HQ,Streptomyces sp. NBC 00269,Streptomyces,sp.,NBC_00269,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,sp003403055,
+NBC_00158,HQ,Streptomyces sp. NBC_00158,Streptomyces,sp.,NBC_00158,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,s__,sp_mash_202
+NBC_01174,HQ,Streptomyces sp. NBC_01174,Streptomyces,sp.,NBC_01174,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,sp002711365,
+NBC_00723,HQ,Streptomyces sp. NBC_00723,Streptomyces,sp.,NBC_00723,,Denmark,"Hoersholm, Near raspberry bush in Hoersholm",55.8694 N 12.4981 E,2016-07-25,g__Streptomyces,sp001298545,
+NBC_00841,MQ,Streptomyces sp. NBC 00841,Streptomyces,sp.,NBC_00841,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Streptomyces,s__,sp_mash_026
+NBC_00868,HQ,Streptomyces sp. NBC_00868,Streptomyces,sp.,NBC_00868,,Denmark,"Copenhagen, Frederiksberg park",55.67681 N 12.52553 E,2017-04-01,g__Streptomyces,s__,sp_mash_024
+NBC_00289,HQ,Streptomyces sp. NBC 00289,Streptomyces,sp.,NBC 00289,soil,Finland,"Helsinki, At base of Helsinki cathedral",60.1681 N 24.9592 E,2016-09,g__Streptomyces,s__,sp_mash_203
+NBC_00932,HQ,Streptomyces sp. NBC_00932,Streptomyces,sp.,NBC_00932,,Denmark,"Odder (near Aarhus), Denmark, backyard compost pile",,2017-10-01/2017-10-31,g__Streptomyces,s__,sp_mash_008
+NBC_00727,HQ,Streptomyces sp. NBC_00727,Streptomyces,sp.,NBC_00727,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,s__,sp_mash_204
+NBC_01738,HQ,Nonomuraea sp. NBC 01738,Nonomuraea,sp.,NBC 01738,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Nonomuraea,s__,sp_mash_205
+NBC_00662,HQ,Kribbella sp. NBC 00662,Kribbella,sp.,NBC 00662,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Kribbella,s__,sp_mash_206
+NBC_00625,HQ,Streptomyces tubercidicus,Streptomyces,tubercidicus,NBC 00625,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,tubercidicus,
+NBC_01180,HQ,Streptomyces sp. NBC_01180,Streptomyces,sp.,NBC_01180,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,s__,sp_mash_071
+NBC_00348,HQ,Amycolatopsis sp. NBC 00348,Amycolatopsis,sp.,NBC_00348,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Amycolatopsis,s__,sp_mash_034
+NBC_00440,HQ,Streptomyces sp. NBC 00440,Streptomyces,sp.,NBC_00440,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,s__,sp_mash_008
+NBC_01177,HQ,Streptomyces sp. NBC_01177,Streptomyces,sp.,NBC_01177,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,sp002711365,
+NBC_00134,HQ,Streptomyces sp. NBC 00134,Streptomyces,sp.,NBC_00134,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_015
+NBC_01790,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01790,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,albidoflavus,
+NBC_00354,HQ,Streptomyces sp. NBC 00354,Streptomyces,sp.,NBC_00354,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_007
+NBC_00607,MQ,Streptomyces clavifer,Streptomyces,clavifer,NBC 00607,,Denmark,"Dyrehaven, Next to lake. 6m from the dyre2 soil sample",55.7986 N 12.5467 E,2016-10-24/2016-10-30,g__Streptomyces,clavifer,
+NBC_01370,HQ,Streptomyces canus,Streptomyces,canus,NBC_01370,,Denmark,"Hilleroed, Slettebjerget, 5cm deep, beneath Holly",,2020-08-23,g__Streptomyces,canus,
+NBC_01598,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01598,soil,Denmark,"Veddelev, Roskilde",55.6747 N 12.0833 E,2021-04,g__Streptomyces,anulatus,
+NBC_01536,HQ,Streptomyces niveus,Streptomyces,niveus,NBC 01536,,Denmark,"Sjaellands Odde, Gniben, sheep forest",56.005999 N 11.278822 E,2020-09-26,g__Streptomyces,niveus,
+NBC_01245,HQ,Kribbella sp. NBC_01245,Kribbella,sp.,NBC_01245,,Denmark,"Moensted, inside Moensted limestone mine",56.4547 N 9.1694 E,2020-07-21,g__Kribbella,s__,sp_mash_207
+NBC_01338,HQ,Streptomyces cyaneofuscatus,Streptomyces,cyaneofuscatus,NBC_01338,,Denmark,"Hilleroed, Ny Hammersholt, meadow composting fence, by Baeverdalen 26",,2020-08-23,g__Streptomyces,cyaneofuscatus,
+NBC_00023,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00023,soil,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09,g__Streptomyces,griseoaurantiacus,
+NBC_01775,HQ,Streptomyces sp. NBC 01775,Streptomyces,sp.,NBC 01775,soil,Denmark,"Samsoe, Sandy soil right next to beach in Issehoved",56.0000 N 10.5572 E,2021-09,g__Streptomyces,s__,sp_mash_023
+NBC_00442,HQ,Streptomyces sp. NBC_00442,Streptomyces,sp.,NBC_00442,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Streptomyces,s__,sp_mash_208
+NBC_00496,HQ,Streptomyces sp. NBC_00496,Streptomyces,sp.,NBC_00496,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,s__,sp_mash_009
+NBC_00363,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00363,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,europaeiscabiei,
+NBC_00519,HQ,Streptomyces sp. NBC 00519,Streptomyces,sp.,NBC_00519,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_002
+NBC_01454,HQ,Streptomyces sp. NBC 01454,Streptomyces,sp.,NBC_01454,soil,Denmark,"Trelde Naes, 40)",55.6239 N 9.8414 E,2020-07,g__Streptomyces,s__,sp_mash_044
+NBC_01586,HQ,Streptomyces decoyicus,Streptomyces,decoyicus,NBC_01586,soil,Denmark,"Risskov, Wild rose bushes by the entrance to the beach (15cm)",56.1906 N 10.2489 E,2021-03,g__Streptomyces,decoyicus,
+NBC_00845,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_00845,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Kitasatospora,purpeofusca,
+NBC_00494,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00494,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,europaeiscabiei,
+NBC_01197,HQ,Streptomyces sp. NBC_01197,Streptomyces,sp.,NBC_01197,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,s__,sp_mash_071
+NBC_00591,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_00591,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,platensis,
+NBC_01732,HQ,Streptomyces sp. NBC 01732,Streptomyces,sp.,NBC 01732,soil,Denmark,"Samsoe, Right next to Kanhave Viking Canal under the grass",55.9072 N 10.6047 E,2021-09,g__Streptomyces,sp003846175,
+NBC_01014,HQ,Streptomyces sp. NBC_01014,Streptomyces,sp.,NBC_01014,,Denmark,"Klosterheden, forest",56.481011 N 8.331573 E,2017-06-01/2017-08-31,g__Streptomyces,s__,sp_mash_014
+NBC_01089,HQ,Streptomyces sp. NBC_01089,Streptomyces,sp.,NBC_01089,,Denmark,"Soroe Skov, Next to a big tree",55.3803 N 11.5594 E,2019-07-01/2019-07-31,g__Streptomyces,sp010548145,
+NBC_01220,HQ,Streptomyces sp. NBC_01220,Streptomyces,sp.,NBC_01220,,Denmark,"Knudsoe, riverbed",56.09636 N 9.77494 E,2020-07-01,g__Streptomyces,s__,sp_mash_017
+NBC_00022,HQ,Streptomyces canus,Streptomyces,canus,NBC_00022,soil,Denmark,"Copenhagen, Christiania, soil collected between a pot plant and a chili plant, both growing in a window planter box",55.6733 N 12.6008 E,2016-09,g__Streptomyces,canus,
+NBC_00539,HQ,Streptomyces sp. NBC 00539,Streptomyces,sp.,NBC_00539,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,s__,sp_mash_030
+NBC_01616,MQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC_01616,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,albidoflavus,
+NBC_00455,HQ,Streptomyces sp. NBC_00455,Streptomyces,sp.,NBC_00455,,Denmark,"Dyrehaven, Grassy field just inside entrance",55.7981 N 12.5417 E,2016-10-24/2016-10-30,g__Streptomyces,s__,sp_mash_029
+NBC_01437,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01437,,Denmark,"Thy National Park, grassy dunes",56.95867 N 8.38231 E,2020-07-01,g__Streptomyces,anulatus,
+NBC_01507,HQ,Streptomyces niveus,Streptomyces,niveus,NBC_01507,,Denmark,"Lyngby Aamose, Aamose2, Tree on a hill (6cm)",55.777901 N 12.454916 E,2020-09-01,g__Streptomyces,niveus,
+NBC_00433,HQ,Streptomyces sp. NBC 00433,Streptomyces,sp.,NBC_00433,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_209
+NBC_00691,HQ,Streptomyces sp. NBC_00691,Streptomyces,sp.,NBC_00691,,USA,"Alameda, California, backyard; strawberry plants",,2016-12-29,g__Streptomyces,s__,sp_mash_210
+NBC_00048,HQ,Streptomyces sp. NBC 00048,Streptomyces,sp.,NBC_00048,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_024
+NBC_00734,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_00734,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,platensis,
+NBC_01582,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01582,soil,Denmark,"Lejre, Roskilde",55.6142 N 11.9508 E,2021-04,g__Streptomyces,anulatus,
+NBC_01346,HQ,Streptomyces microflavus,Streptomyces,microflavus,NBC_01346,,Denmark,"Hilleroed, Ny Hammersholt, meadow community compost 10 cm deep",,2020-08-23,g__Streptomyces,microflavus,
+NBC_01465,HQ,Streptomyces sp. NBC_01465,Streptomyces,sp.,NBC_01465,,Denmark,"Hilleroed, Ny Hammersholt, Soil from Eva's garden, 1m deep",,2020-08-23,g__Streptomyces,s__,sp_mash_211
+NBC_01511,HQ,Streptomyces sp. NBC_01511,Streptomyces,sp.,NBC_01511,,Denmark,"Thy National Park, dry moor in national park",56.99442 N 8.45322 E,2020-07-01,g__Streptomyces,s__,sp_mash_067
+NBC_00891,HQ,Streptomyces sp. NBC 00891,Streptomyces,sp.,NBC_00891,soil,Denmark,"Koege, Koege cow field",,2017-05,g__Streptomyces,sp900105515,
+NBC_01217,HQ,Streptomyces sp. NBC_01217,Streptomyces,sp.,NBC_01217,,Denmark,"Roemoe, riverbank",55.18503 N 8.56022 E,2020-07-01,g__Streptomyces,s__,sp_mash_212
+NBC_00389,HQ,Micromonospora sp. NBC_00389,Micromonospora,sp.,NBC_00389,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Micromonospora,s__,sp_mash_065
+NBC_01358,HQ,Streptomyces sp. NBC_01358,Streptomyces,sp.,NBC_01358,,Denmark,"Moens Klint, forest above cliff",54.97033 N 12.54850 E,2020-07-01,g__Streptomyces,s__,sp_mash_017
+NBC_01384,HQ,Streptomyces sp. NBC_01384,Streptomyces,sp.,NBC_01384,,Denmark,"Storskov (Camp Adventure), dry creek",55.25675 N 11.97736 E,2020-07-01,g__Streptomyces,s__,sp_mash_063
+NBC_00171,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00171,soil,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09,g__Streptomyces,anulatus,
+NBC_01590,HQ,Streptomyces sp. NBC 01590,Streptomyces,sp.,NBC_01590,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_031
+NBC_01018,HQ,Streptomyces fimicarius,Streptomyces,fimicarius,NBC_01018,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,fimicarius,
+NBC_00624,HQ,Streptomyces sp. NBC 00624,Streptomyces,sp.,NBC_00624,soil,Denmark,"Hoersholm, Raspberry bush on the way to CFB building in Hoersholm",55.8694 N 12.4981 E,2016-07,g__Streptomyces,sp900116325,
+NBC_00806,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00806,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Micromonospora,zamorensis,
+NBC_01591,MQ,Streptomyces sp. NBC 01591,Streptomyces,sp.,NBC_01591,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_213
+NBC_00297,HQ,Rhodococcus sp. NBC 00297,Rhodococcus,sp.,NBC_00297,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Rhodococcus_C,sp000686025,
+NBC_01240,HQ,Streptomyces sp. NBC_01240,Streptomyces,sp.,NBC_01240,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_006
+NBC_01716,HQ,Streptomyces sp. NBC 01716,Streptomyces,sp.,NBC 01716,soil,Denmark,"Jaegerspris slot, grassy wetland",55.8608 N 11.9781 E,2021-04,g__Streptomyces,s__,sp_mash_214
+NBC_01069,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01069,,Denmark,"Soroe Skov, Middle of forest floor",55.3803 N 11.5597 E,2019-07-01/2019-07-31,g__Streptomyces,anulatus,
+NBC_01794,HQ,Streptomyces sp. NBC 01794,Streptomyces,sp.,NBC 01794,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptomyces,s__,sp_mash_046
+NBC_01247,HQ,Kitasatospora herbaricolor,Kitasatospora,herbaricolor,NBC_01247,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Kitasatospora,herbaricolor,
+NBC_01335,HQ,Streptomyces sp. NBC_01335,Streptomyces,sp.,NBC_01335,,Denmark,"Hilleroed, Ny Hammersholt, Fireweed rhizome, by bog",,2020-08-23,g__Streptomyces,s__,sp_mash_215
+NBC_00565,HQ,Nocardia sp. NBC 00565,Nocardia,sp.,NBC_00565,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Nocardia,s__,sp_mash_216
+NBC_00846,HQ,Streptomyces sp. NBC 00846,Streptomyces,sp.,NBC_00846,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Streptomyces,s__,sp_mash_006
+NBC_00458,HQ,Kitasatospora sp. NBC_00458,Kitasatospora,sp.,NBC_00458,,Germany,"Baiersbronn / Baden-Wurttem, grassy slope",,2016-09-23,g__Kitasatospora,s__,sp_mash_217
+NBC_00172,HQ,Streptomyces sp. NBC_00172,Streptomyces,sp.,NBC_00172,,Denmark,"Copenhagen, Christiania, directly beneath a large pot plant",55.6736 N 12.5997 E,2016-09-02,g__Streptomyces,sp016893485,
+NBC_01519,HQ,Kitasatospora sp. NBC_01519,Kitasatospora,sp.,NBC_01519,,Denmark,"Alleroed, Alleroed aebleplantage 2 - by path",,2020-09-20,g__Kitasatospora,s__,sp_mash_218
+NBC_00882,HQ,Streptomyces sp. NBC 00882,Streptomyces,sp.,NBC_00882,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,s__,sp_mash_219
+NBC_01135,HQ,Streptomyces uncialis,Streptomyces,uncialis,NBC_01135,,Denmark,"Klampenborg, Dyrehaven forest floor",55.8086 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,uncialis,
+NBC_01390,HQ,Streptomyces sp. NBC_01390,Streptomyces,sp.,NBC_01390,,Denmark,"Ejerslev, Nykoebing Mors, Fur Formation clay",56.9183 N 8.9208 E,2020-07-21,g__Streptomyces,s__,sp_mash_220
+NBC_00366,HQ,Streptomyces sp. NBC 00366,Streptomyces,sp.,NBC_00366,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Streptomyces,s__,sp_mash_002
+NBC_00379,HQ,Streptomyces mirabilis,Streptomyces,mirabilis,NBC_00379,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,mirabilis,
+NBC_00622,HQ,Streptomyces sp. NBC 00622,Streptomyces,sp.,NBC_00622,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_003
+NBC_01438,HQ,Streptomyces sp. NBC_01438,Streptomyces,sp.,NBC_01438,,Denmark,"Thy National Park, dry moor in national park",56.99442 N 8.45322 E,2020-07-01,g__Streptomyces,sp001905365,
+NBC_00203,HQ,Streptomyces sp. NBC 00203,Streptomyces,sp.,NBC_00203,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_013
+NBC_00498,HQ,Streptomyces sp. NBC 00498,Streptomyces,sp.,NBC_00498,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_01233,HQ,Streptomyces sp. NBC_01233,Streptomyces,sp.,NBC_01233,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Streptomyces,s__,sp_mash_025
+NBC_00306,HQ,Streptomyces sp. NBC 00306,Streptomyces,sp.,NBC_00306,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,s__,sp_mash_033
+NBC_00178,HQ,Streptomyces sp. NBC 00178,Streptomyces,sp.,NBC_00178,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_221
+NBC_01092,HQ,Streptomyces sp. NBC_01092,Streptomyces,sp.,NBC_01092,,Denmark,"Moens Klint, small forest growing right on the beach",54.95392 N 12.54892 E,2019-07-01/2019-07-31,g__Streptomyces,sp008042075,
+NBC_01747,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01747,soil,Denmark,"Kulhuse, Jaegerspris, grassy field near lake",55.9175 N 11.9078 E,2021-09,g__Streptomyces,albidoflavus,
+NBC_00501,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00501,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,anulatus,
+NBC_01666,HQ,Streptomyces althioticus,Streptomyces,althioticus,NBC 01666,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,althioticus,
+NBC_00008,HQ,Streptomyces sp. NBC_00008,Streptomyces,sp.,NBC_00008,,Denmark,"Lyngby Lake, Under a log near the water",55.7733 N 12.4928 E,2016-07-25,g__Streptomyces,sp001905365,
+NBC_01002,HQ,Streptomyces canus,Streptomyces,canus,NBC_01002,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,canus,
+NBC_01539,HQ,Kitasatospora sp. NBC_01539,Kitasatospora,sp.,NBC 01539,,Denmark,"Alleroed, Alleroed aebleplantage 3 - under appletree",,2020-09-20,g__Kitasatospora,s__,sp_mash_222
+NBC_00626,HQ,Streptomyces sp. NBC 00626,Streptomyces,sp.,NBC_00626,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,s__,sp_mash_003
+NBC_00974,HQ,Streptomyces sp. NBC_00974,Streptomyces,sp.,NBC_00974,,Denmark,"Jutland, field, close to an old pig farm",,2017-06-01/2017-08-31,g__Streptomyces,s__,sp_mash_223
+NBC_01671,HQ,Streptomyces albidoflavus,Streptomyces,albidoflavus,NBC 01671,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,albidoflavus,
+NBC_00333,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00333,soil,United Kingdom,"Scotland, Edinburgh, Colton Hill",55.9544 N 3.1847 W,2016-08,g__Streptomyces,phaeochromogenes,
+NBC_01450,HQ,Streptomyces sp. NBC_01450,Streptomyces,sp.,NBC_01450,,Denmark,"Jelling, next to pond",55.75803 N 9.41636 E,2020-07-01,g__Streptomyces,s__,sp_mash_004
+NBC_00341,MQ,Streptomyces sp. NBC 00341,Streptomyces,sp.,NBC 00341,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,sp001905365,
+NBC_01752,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC 01752,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptomyces,phaeochromogenes,
+NBC_01678,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01678,soil,Netherlands,"Hegelsom, Wild flower garden",,2021-05,g__Streptomyces,cellulosae,
+NBC_00822,HQ,Streptomyces sp. NBC 00822,Streptomyces,sp.,NBC_00822,soil,Denmark,"Copenhagen, Frederiksberg park #1",55.6769 N 12.5256 E,2017-04,g__Streptomyces,sp003846175,
+NBC_00829,HQ,Streptomyces sp. NBC_00829,Streptomyces,sp.,NBC_00829,,Denmark,"Koege, Koege cow field",,2017-05-01/2017-05-31,g__Streptomyces,s__,sp_mash_224
+NBC_01756,HQ,Streptosporangium sp. NBC 01756,Streptosporangium,sp.,NBC 01756,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Streptosporangium,s__,sp_mash_072
+NBC_00206,HQ,Streptomyces nigra,Streptomyces,nigra,NBC_00206,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,nigra,
+NBC_00374,HQ,Kitasatospora sp. NBC 00374,Kitasatospora,sp.,NBC 00374,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Kitasatospora,s__,sp_mash_225
+NBC_00060,HQ,Streptomyces sp. NBC 00060,Streptomyces,sp.,NBC_00060,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_020
+NBC_00079,HQ,Streptomyces sp. NBC 00079,Streptomyces,sp.,NBC_00079,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_002
+NBC_01638,HQ,Micromonospora sp. NBC 01638,Micromonospora,sp.,NBC 01638,soil,Denmark,"Lejre, Roskilde",55.6142 N 11.9508 E,2021-04,g__Micromonospora,s__,sp_mash_226
+NBC_00407,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00407,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Micromonospora,zamorensis,
+NBC_01405,HQ,Micromonospora sp. NBC_01405,Micromonospora,sp.,NBC_01405,,Denmark,"Givskud, Field of grass / brush",55.8081 N 9.3697 E,2020-07-01,g__Micromonospora,s__,sp_mash_227
+NBC_01327,HQ,Nocardia sp. NBC_01327,Nocardia,sp.,NBC_01327,,Denmark,"Knudsoe, mossy forest soil",56.09619 N 9.77531 E,2020-07-01,g__Nocardia,s__,sp_mash_228
+NBC_00686,HQ,Streptomyces pseudovenezuelae,Streptomyces,pseudovenezuelae,NBC_00686,soil,USA,"Alameda, California, Pep s backyard; strawberry plants",,2016-12,g__Streptomyces,pseudovenezuelae,
+NBC_00355,HQ,Amycolatopsis sp. NBC 00355,Amycolatopsis,sp.,NBC_00355,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy slope",,2016-09,g__Amycolatopsis,s__,sp_mash_051
+NBC_00015,HQ,Streptomyces sp. NBC_00015,Streptomyces,sp.,NBC_00015,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,sp001298545,
+NBC_00898,HQ,Micromonospora sp. NBC 00898,Micromonospora,sp.,NBC_00898,soil,Denmark,"Koege, Koege forest",,2017-05,g__Micromonospora,s__,sp_mash_229
+NBC_00209,HQ,Streptomyces sp. NBC 00209,Streptomyces,sp.,NBC_00209,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp001905735,
+NBC_01639,HQ,Streptosporangium sp. NBC 01639,Streptosporangium,sp.,NBC 01639,soil,Denmark,"Risskov, Bushes and trees in the park by the beach (10cm)",56.1911 N 10.2500 E,2021-03,g__Streptosporangium,s__,sp_mash_072
+NBC_00358,HQ,Streptomyces sp. NBC 00358,Streptomyces,sp.,NBC_00358,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_073
+NBC_00046,HQ,Streptomyces sp. NBC 00046,Streptomyces,sp.,NBC_00046,soil,Denmark,"Birkeroed, Nex to farm while riding home from Hoersholm",55.8706 N 12.4739 E,2016-08,g__Streptomyces,s__,sp_mash_031
+NBC_00467,HQ,Streptomyces sp. NBC 00467,Streptomyces,sp.,NBC_00467,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Streptomyces,s__,sp_mash_033
+NBC_00145,HQ,Streptomyces sp. NBC 00145,Streptomyces,sp.,NBC_00145,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,sp003403055,
+NBC_01361,HQ,Streptomyces sp. NBC_01361,Streptomyces,sp.,NBC_01361,,Denmark,"Helletofte Strand, grassy soil",55.02356 N 10.83067 E,2020-07-01,g__Streptomyces,sp002803065,
+NBC_01157,HQ,Streptomyces avidinii,Streptomyces,avidinii,NBC_01157,,Denmark,"Roskilde, Kaellingehaven, Next to rock",55.6544214 N 12.0687386 E,2020-01-01/2020-01-31,g__Streptomyces,avidinii,
+NBC_01604,HQ,Streptomyces sp. NBC 01604,Streptomyces,sp.,NBC_01604,soil,Denmark,Hoeje Taastrup,55.6539 N 12.2658 E,2021-04,g__Streptomyces,s__,sp_mash_027
+NBC_00867,HQ,[Kitasatospora] papulosa,Streptomyces,papulosa,NBC_00867,,Denmark,"Copenhagen, Frederiksberg park",55.67681 N 12.52553 E,2017-04-01,g__Streptomyces,papulosus,
+NBC_00587,HQ,Streptomyces griseorubiginosus,Streptomyces,griseorubiginosus,NBC_00587,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,griseorubiginosus_A,
+NBC_00633,HQ,Streptomyces canus,Streptomyces,canus,NBC_00633,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,canus,
+NBC_00647,HQ,Streptomyces sp. NBC 00647,Streptomyces,sp.,NBC 00647,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_022
+NBC_01651,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01651,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_01743,HQ,Nocardia vinacea,Nocardia,vinacea,NBC 01743,soil,Denmark,"Koelstrup, Next to a field and a road",55.4236 N 10.5839 E,2021-04,g__Nocardia,vinacea,
+NBC_00582,HQ,Streptomyces sp. NBC 00582,Streptomyces,sp.,NBC_00582,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,sp004363835,
+NBC_00998,HQ,Streptomyces sp. NBC_00998,Streptomyces,sp.,NBC_00998,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_007
+NBC_01280,HQ,Streptomyces sp. NBC_01280,Streptomyces,sp.,NBC_01280,,Germany,"Dorsten, Germany, Garden",,2020-07-01,g__Streptomyces,sp003403055,
+NBC_00388,HQ,Streptomyces sp. NBC 00388,Streptomyces,sp.,NBC_00388,soil,Germany,"Baiersbronn / Baden-Wuerttem, near tree stump, with nearby small plants rather than grass",,2016-09,g__Streptomyces,s__,sp_mash_230
+NBC_01307,HQ,Amycolatopsis sp. NBC_01307,Amycolatopsis,sp.,NBC_01307,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Amycolatopsis,s__,sp_mash_034
+NBC_00497,HQ,Streptomyces europaeiscabiei,Streptomyces,europaeiscabiei,NBC_00497,,Germany,"Buhl, Compost heap",,2016-11-07/2016-11-13,g__Streptomyces,europaeiscabiei,
+NBC_00314,HQ,Streptomyces caniferus,Streptomyces,caniferus,NBC_00314,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,caniferus,
+NBC_00224,HQ,Streptomyces sp. NBC 00224,Streptomyces,sp.,NBC 00224,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Streptomyces,s__,sp_mash_020
+NBC_01597,HQ,Streptomyces sp. NBC 01597,Streptomyces,sp.,NBC_01597,soil,Denmark,"Veddelev, Roskilde",55.6747 N 12.0833 E,2021-04,g__Streptomyces,s__,sp_mash_002
+NBC_00186,MQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_00186,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,phaeochromogenes,
+NBC_00259,HQ,Streptomyces sp. NBC_00259,Streptomyces,sp.,NBC_00259,,Germany,"Buhl, compost heap",,2016-08-26,g__Streptomyces,s__,sp_mash_038
+NBC_01530,HQ,Streptomyces sp. NBC_01530,Streptomyces,sp.,NBC 01530,,Denmark,"Sjaellands Odde, Sjaellands Odde",55.977486 N 11.296432 E,2020-09-26,g__Streptomyces,s__,sp_mash_002
+NBC_00416,HQ,Nocardia sp. NBC 00416,Nocardia,sp.,NBC_00416,soil,Germany,"Buehl, Compost heap",,2016-11,g__Nocardia,s__,sp_mash_231
+NBC_01421,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_01421,,Denmark,"Naerum, Naerum 2, soil near anthill, 5-10 cm deep",,2020-09-08,g__Streptomyces,anulatus,
+NBC_01668,HQ,Streptomyces anthocyanicus,Streptomyces,anthocyanicus,NBC 01668,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,anthocyanicus,
+NBC_01202,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_01202,,Denmark,"Tranekaer, wet forest soil near alpaca farm",55.02439 N 10.84336 E,2020-07-01,g__Kitasatospora,purpeofusca,
+NBC_01012,HQ,Streptomyces sp. NBC_01012,Streptomyces,sp.,NBC_01012,,Denmark,"Venoe, Venoe Island",56.550901 N 8.623977 E,2017-06-01/2017-08-31,g__Streptomyces,s__,sp_mash_069
+NBC_00984,HQ,Streptomyces sp. NBC_00984,Streptomyces,sp.,NBC_00984,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_039
+NBC_00708,HQ,Streptomyces sp. NBC 00708,Streptomyces,sp.,NBC_00708,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,sp008042035,
+NBC_01409,HQ,Streptomyces phaeochromogenes,Streptomyces,phaeochromogenes,NBC_01409,,Denmark,"Moens Klint, next to creek",54.97122 N 12.55072 E,2020-07-01,g__Streptomyces,phaeochromogenes,
+NBC_01198,HQ,Streptomyces sp. NBC_01198,Streptomyces,sp.,NBC_01198,,Denmark,"Givskud, Field of grass / brush",55.8081 N 9.3697 E,2020-07-01,g__Streptomyces,s__,sp_mash_232
+NBC_00522,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00522,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,griseoaurantiacus,
+NBC_01772,HQ,Streptomyces cellulosae,Streptomyces,cellulosae,NBC 01772,soil,Denmark,"Samsoe, Along the bike path under grass in Maarup",55.9508 N 10.5597 E,2021-09,g__Streptomyces,cellulosae,
+NBC_01412,HQ,Micromonospora sp. NBC_01412,Micromonospora,sp.,NBC_01412,,Denmark,"Hilleroed, Leerbjerg Lod, Bur - reed rhizome",,2020-08-23,g__Micromonospora,rubida,
+NBC_01707,HQ,Streptomyces sp. NBC 01707,Streptomyces,sp.,NBC 01707,soil,Netherlands,"Hegelsom, Grape field",,2021-05,g__Streptomyces,sp900116325,
+NBC_00690,HQ,Streptomyces sp. NBC 00690,Streptomyces,sp.,NBC_00690,soil,Denmark,"Hilleroed, Olivier s garden; pile of trees and branches",,2016-10,g__Streptomyces,s__,sp_mash_233
+NBC_00039,HQ,Kitasatospora sp. NBC_00039,Kitasatospora,sp.,NBC_00039,,Denmark,"Birkeroed, Next to farm near Hoersholm",55.8706 N 12.4739 E,2016-08-26,g__Kitasatospora,s__,sp_mash_068
+NBC_01496,HQ,Streptomyces brevispora,Streptomyces,brevispora,NBC_01496,,Denmark,"Filsoe, under moss",55.70383 N 8.20525 E,2020-07-01,g__Streptomyces,brevispora,
+NBC_00316,HQ,Streptomyces sp. NBC 00316,Streptomyces,sp.,NBC_00316,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_234
+NBC_00502,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC_00502,,Denmark,"Hilleroed, Garden; where his cat goes to the toilet",,2016-10-17/2016-10-30,g__Streptomyces,anulatus,
+NBC_00483,HQ,Streptomyces sp. NBC 00483,Streptomyces,sp.,NBC_00483,soil,Germany,"Buehl, Compost heap",,2016-11,g__Streptomyces,s__,sp_mash_003
+NBC_01317,HQ,Streptomyces sp. NBC_01317,Streptomyces,sp.,NBC_01317,,Denmark,"Sepstrup, Field of grass / brush",56.0786 N 9.4497 E,2020-06-29,g__Streptomyces,s__,sp_mash_235
+NBC_00081,HQ,Streptomyces sp. NBC 00081,Streptomyces,sp.,NBC_00081,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,s__,sp_mash_015
+NBC_00164,HQ,Streptomyces virginiae,Streptomyces,virginiae,NBC 00164,,Denmark,"Hoersholm, Deer feeding station near Hoersholm",55.8714 N 12.4942 E,2016-08-26,g__Streptomyces,virginiae_A,
+NBC_00215,HQ,Streptomyces chartreusis,Streptomyces,chartreusis,NBC_00215,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,chartreusis,
+NBC_00277,HQ,Streptomyces canus,Streptomyces,canus,NBC_00277,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,canus,
+NBC_01006,HQ,Streptomyces sp. NBC_01006,Streptomyces,sp.,NBC_01006,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, grassy field, by a lake, at sea level",,2019-06-01/2019-08-31,g__Streptomyces,sp000717915,
+NBC_00104,HQ,Streptomyces sp. NBC_00104,Streptomyces,sp.,NBC_00104,,Denmark,"Technical University of Denmark campus, Small hill with plants, DTU campus",55.7869 N 12.5189 E,2016-08-26,g__Streptomyces,s__,sp_mash_009
+NBC_01672,HQ,Streptomyces althioticus,Streptomyces,althioticus,NBC 01672,soil,Netherlands,"Hegelsom, Chicken field",,2021-05,g__Streptomyces,althioticus,
+NBC_01461,HQ,Micromonospora rifamycinica,Micromonospora,rifamycinica,NBC_01461,,Denmark,"Stevns Klint, next to pond",55.27875 N 12.44486 E,2020-09-25,g__Micromonospora,rifamycinica,
+NBC_01761,HQ,Streptomyces sp. NBC 01761,Streptomyces,sp.,NBC 01761,soil,Denmark,"Jaegerspris slot, under dead tree",55.8583 N 11.9772 E,2021-04,g__Streptomyces,s__,sp_mash_001
+NBC_00294,HQ,Rhodococcus sp. NBC 00294,Rhodococcus,sp.,NBC_00294,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Rhodococcus_C,sp000686025,
+NBC_01568,HQ,Streptomyces sp. NBC 01568,Streptomyces,sp.,NBC 01568,soil,Denmark,"Lyngby, DTU campus; hole in the ground dug out by an animal",55.7878 N 12.5267 E,2021-03,g__Streptomyces,spororaveus,
+NBC_01186,HQ,Streptomyces sp. NBC_01186,Streptomyces,sp.,NBC_01186,,Denmark,"Nordbjerg, Anholt, inside anthill",56.712037 N 11.540075 E,2020-06-24,g__Streptomyces,s__,sp_mash_023
+NBC_01366,HQ,Streptomyces griseoaurantiacus,Streptomyces,griseoaurantiacus,NBC_01366,,Denmark,"Hilleroed, Ny Hammersholt, compost 5 cm deep",,2020-08-23,g__Streptomyces,griseoaurantiacus,
+NBC_00876,HQ,Streptomyces sp. NBC 00876,Streptomyces,sp.,NBC_00876,soil,Denmark,"Koege, Koege water hole",,2017-05,g__Streptomyces,s__,sp_mash_236
+NBC_00728,HQ,Streptomyces sp. NBC_00728,Streptomyces,sp.,NBC_00728,,Denmark,"Technical University of Denmark campus, inside, potted plant",55.78803 N 12.51994 E,2016-01-03,g__Streptomyces,s__,sp_mash_073
+NBC_00247,HQ,Streptomyces sp. NBC 00247,Streptomyces,sp.,NBC_00247,soil,Denmark,"Lyngby, Small hill with plants just outside CFB (DTU campus). Plants were all very dark green. Soil clearly had lots of nutrients",55.7869 N 12.5189 E,2016-08,g__Streptomyces,s__,sp_mash_237
+NBC_01813,HQ,Micromonospora sp. NBC 01813,Micromonospora,sp.,NBC 01813,soil,Denmark,"Kulhuse, Jaegerspris, field of ivy plants (Danish, efeu)",55.9175 N 11.9078 E,2021-09,g__Micromonospora_E,s__,sp_mash_238
+NBC_01195,HQ,Streptomyces erythrochromogenes,Streptomyces,erythrochromogenes,NBC_01195,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,erythrochromogenes,
+NBC_00590,HQ,Streptomyces chartreusis,Streptomyces,chartreusis,NBC_00590,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,chartreusis,
+NBC_01739,HQ,Micromonospora sp. NBC 01739,Micromonospora,sp.,NBC 01739,soil,Denmark,"Koelstrup, at the green coast area of Kertinge Nor, wet and nutrient rich soil",55.4250 N 10.5819 E,2021-04,g__Micromonospora,s__,sp_mash_239
+NBC_01178,HQ,Streptomyces sp. NBC_01178,Streptomyces,sp.,NBC_01178,,Denmark,"Havnestranden dunes, Anholt, soil under Ammophila arenaria",56.714175 N 11.515055 E,2020-06-24,g__Streptomyces,sp001905905,
+NBC_01321,HQ,Streptomyces sp. NBC_01321,Streptomyces,sp.,NBC_01321,,Denmark,"Livoe, old tree",56.8939 N 9.0828 E,2020-07-18,g__Streptomyces,s__,sp_mash_006
+NBC_01618,HQ,Streptomyces sp. NBC 01618,Streptomyces,sp.,NBC_01618,soil,Denmark,"Lejre, Roskilde",55.6175 N 11.9414 E,2021-04,g__Streptomyces,s__,sp_mash_006
+NBC_00222,HQ,Kitasatospora purpeofusca,Kitasatospora,purpeofusca,NBC_00222,soil,Finland,"Helsinki, Gopher hole in botanical garden in Helsinki",60.1742 N 24.9442 E,2016-09,g__Kitasatospora,purpeofusca,
+NBC_01476,HQ,Streptomyces sp. NBC_01476,Streptomyces,sp.,NBC_01476,,Denmark,"Birkeroed, Raavaenget 34, near Rose Barkarole",,2020-08-01,g__Streptomyces,s__,sp_mash_240
+NBC_01641,HQ,Streptomyces anulatus,Streptomyces,anulatus,NBC 01641,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,anulatus,
+NBC_00573,HQ,Streptomyces platensis,Streptomyces,platensis,NBC_00573,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,platensis,
+NBC_01624,HQ,Streptomyces uncialis,Streptomyces,uncialis,NBC 01624,soil,Denmark,"Ledreborg, Roskilde",55.6142 N 11.9411 E,2021-04,g__Streptomyces,uncialis,
+NBC_00630,HQ,Streptomyces longwoodensis,Streptomyces,longwoodensis,NBC 00630,,USA,"Alameda, California, yard; next to rose bush",,2016-12-29,g__Streptomyces,longwoodensis,
+NBC_00386,HQ,Streptomyces sp. NBC 00386,Streptomyces,sp.,NBC_00386,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Streptomyces,s__,sp_mash_019
+NBC_01310,HQ,Streptomyces sp. NBC_01310,Streptomyces,sp.,NBC_01310,,Denmark,"Moensted, Moensted open limestone mine",56.4519 N 9.1717 E,2020-07-21,g__Streptomyces,s__,sp_mash_057
+NBC_00238,HQ,Streptomyces gancidicus,Streptomyces,gancidicus,NBC_00238,,Portugal,garden,,2016-08-22/2016-08-28,g__Streptomyces,pseudogriseolus,
+NBC_01265,HQ,Kitasatospora herbaricolor,Kitasatospora,herbaricolor,NBC_01265,,Denmark,"Livoe, Graeseng",56.8878 N 9.0964 E,2020-07-18,g__Kitasatospora,herbaricolor,
+NBC_00317,HQ,Micromonospora zamorensis,Micromonospora,zamorensis,NBC_00317,soil,Germany,"Baiersbronn / Baden-Wuerttem, grassy area, close to T1",,2016-09,g__Micromonospora,zamorensis,
+NBC_00986,HQ,Streptomyces sp. NBC_00986,Streptomyces,sp.,NBC_00986,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, forest pathway going inland from sea",,2019-06-01/2019-08-31,g__Streptomyces,sp000716605,
+NBC_01490,HQ,Actinoallomurus sp. NBC_01490,Actinoallomurus,sp.,NBC_01490,,Denmark,"Birkeroed, Raavaenget 34, near Rose Barkarole",,2020-08-01,g__Actinoallomurus,s__,sp_mash_241
+NBC_01615,HQ,Streptomyces sp. NBC 01615,Streptomyces,sp.,NBC_01615,soil,Denmark,"Boserupgaard, Roskilde",55.6617 N 12.0358 E,2021-04,g__Streptomyces,s__,sp_mash_013
+NBC_00053,HQ,Streptomyces sp. NBC 00053,Streptomyces,sp.,NBC_00053,soil,Denmark,"Hoersholm, Deer feeding station near old CFB building in Hoersholm",55.8714 N 12.4942 E,2016-08,g__Streptomyces,sp003846175,
+NBC_00405,HQ,Actinomycetospora sp. NBC 00405,Actinomycetospora,sp.,NBC_00405,soil,Spain,Pollenca,39.8714 N 3.0861 E,2016-10,g__Actinomycetospora,s__,sp_mash_242
+NBC_00669,HQ,Streptomyces sp. NBC 00669,Streptomyces,sp.,NBC_00669,soil,Denmark,"Lyngby, Inside CfB; potted plant by red sofas just outside our 3rd floor office",55.7881 N 12.5200 E,2017-01,g__Streptomyces,s__,sp_mash_053
+NBC_01103,HQ,Streptomyces gougerotii,Streptomyces,gougerotii,NBC_01103,,Denmark,"Klampenborg, Dyrehaven dry clay soil",55.8083 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,diastaticus,
+NBC_00569,HQ,Streptomyces sp. NBC 00569,Streptomyces,sp.,NBC_00569,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,s__,sp_mash_015
+NBC_00147,HQ,Streptomyces sp. NBC 00147,Streptomyces,sp.,NBC_00147,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Streptomyces,sp003403055,
+NBC_00972,HQ,Streptomyces halstedii,Streptomyces,halstedii,NBC_00972,,Denmark,"Venoe, Venoe Island",56.550901 N 8.623977 E,2017-06-01/2017-08-31,g__Streptomyces,halstedii,
+NBC_01423,HQ,Streptomyces sp. NBC_01423,Streptomyces,sp.,NBC_01423,,Denmark,"Naerum, Naerum 3, soil near anthill entrance, <5 cm deep",,2020-09-08,g__Streptomyces,sp900105515,
+NBC_01104,HQ,Streptomyces sp. NBC_01104,Streptomyces,sp.,NBC_01104,,Denmark,"Klampenborg, Dyrehaven dry clay soil",55.8083 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,s__,sp_mash_021
+NBC_01413,HQ,Nocardia salmonicida,Nocardia,salmonicida,NBC_01413,,Denmark,"Hilleroed, Ny Hammersholt, meadow community compost 10 cm deep",,2020-08-23,g__Nocardia,salmonicida,
+NBC_00253,HQ,Microbispora hainanensis,Microbispora,hainanensis,NBC_00253,soil,United Kingdom,"Scotland, Edinburgh, Botanical gardens",55.9656 N 3.2067 W,2016-08,g__Microbispora,hainanensis,
+NBC_00536,HQ,Streptomyces sp. NBC 00536,Streptomyces,sp.,NBC_00536,soil,Denmark,"Hilleroed, Olivier s garden; where his cat goes to the toilet",,2016-10,g__Streptomyces,s__,sp_mash_243
+NBC_01208,HQ,Streptomyces sp. NBC_01208,Streptomyces,sp.,NBC_01208,,Denmark,"Aebleoe, Alongside main hiking trail",55.64039 N 10.17366 E,2020-07-01,g__Streptomyces,sp008042155,
+NBC_00521,HQ,Streptomyces jietaisiensis,Streptomyces,jietaisiensis,NBC_00521,soil,USA,"Alameda, California, Pep s frontyard; next to middle rose bush",,2016-12,g__Streptomyces,griseoaurantiacus,
+NBC_01116,HQ,Streptomyces sp. NBC_01116,Streptomyces,sp.,NBC_01116,,Denmark,"Klampenborg, Dyrehaven forest floor",55.8086 N 12.5600 E,2019-03-01/2019-03-31,g__Streptomyces,s__,sp_mash_244
+NBC_01630,HQ,Streptomyces griseus,Streptomyces,griseus,NBC 01630,soil,Denmark,"Kolding, ved Kolding Hus I rabarber bed",55.4914 N 9.4758 E,2021-05,g__Streptomyces,fimicarius,
+NBC_01001,HQ,Streptomyces sp. NBC_01001,Streptomyces,sp.,NBC_01001,,Denmark,"Loevehovederne, Oestersoevej, 4872 Idestrup, Denmark, Grassy field on cliff overlooking sea",,2019-06-01/2019-08-31,g__Streptomyces,s__,sp_mash_007
